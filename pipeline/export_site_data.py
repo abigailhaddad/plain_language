@@ -48,10 +48,18 @@ def main():
     # --- Build site.json from classified parquet ---
     df = pd.read_parquet(classified_path)
 
+    def title_case(s):
+        """Convert ALL CAPS to Title Case, leave mixed case alone."""
+        if not s:
+            return s
+        if s == s.upper():
+            return s.title()
+        return s
+
     records = []
     for _, row in df.iterrows():
         title = row.get("best_title", "")
-        if title in ("error", ""):
+        if title in ("error", "", "missing_duties"):
             continue
 
         duties = row.get("major_duties", "") or ""
@@ -60,11 +68,11 @@ def main():
         records.append({
             "control_number": cn,
             "url": f"https://www.usajobs.gov/job/{cn}",
-            "position_title": row["position_title"],
+            "position_title": title_case(row["position_title"]),
             "department": row.get("department", ""),
             "agency": row.get("agency", ""),
             "grade": row.get("grade", ""),
-            "plain_title": title,
+            "plain_title": title_case(title),
             "fit_score": int(row.get("fit_score", 0)),
             "reasoning": row.get("classification_reasoning", ""),
             "duties": duties,

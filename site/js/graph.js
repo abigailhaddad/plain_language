@@ -80,7 +80,7 @@ export function renderBipartite(container, data, { onNodeClick }) {
             'dominant-baseline': 'middle', 'text-anchor': 'end', 'font-size': 11,
             fill: fillCount, 'font-family': 'var(--font-mono)',
         });
-        countEl.textContent = count;
+        countEl.textContent = count.toLocaleString();
         g.appendChild(countEl);
 
         g.addEventListener('mouseenter', () => highlightNode(svg, label, side));

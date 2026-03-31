@@ -1,0 +1,366 @@
+{
+  "series": "1530",
+  "model": "gpt-5.4-mini",
+  "num_titles_before": 25,
+  "num_passed": 25,
+  "num_failed": 0,
+  "num_titles_after": 25,
+  "validation_details": [
+    {
+      "title": "Statistical Analyst",
+      "verdict": "PASS",
+      "reason": "Clear, plain-language title that tells jobseekers the role focuses on statistical analysis.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Biostatistician",
+      "verdict": "PASS",
+      "reason": "Specific and widely used private-sector title for statistical work in health and life sciences.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Research Data Analyst",
+      "verdict": "PASS",
+      "reason": "Descriptive and understandable; indicates analysis of research data.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Statistical Programmer",
+      "verdict": "PASS",
+      "reason": "Specific title commonly used in analytics and clinical research settings.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Survey Statistician",
+      "verdict": "PASS",
+      "reason": "Clear and specific; conveys statistical work related to surveys.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Survey Operations Manager",
+      "verdict": "PASS",
+      "reason": "Descriptive enough to indicate management of survey operations, which is understandable to jobseekers.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Clinical Data Analyst",
+      "verdict": "PASS",
+      "reason": "Plain-language title that clearly signals analysis of clinical data.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Data Scientist",
+      "verdict": "PASS",
+      "reason": "Well-recognized private-sector title that clearly conveys the nature of the work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Research Statistician",
+      "verdict": "PASS",
+      "reason": "Specific and understandable; indicates statistical work supporting research.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Data Analyst",
+      "verdict": "PASS",
+      "reason": "Common private-sector title that clearly describes the role.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Data Analytics Specialist",
+      "verdict": "PASS",
+      "reason": "Clear enough and commonly used in the private sector, though somewhat broad.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Statistical Research Analyst",
+      "verdict": "PASS",
+      "reason": "Descriptive title that communicates statistical analysis in a research context.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Statistical Research Manager",
+      "verdict": "PASS",
+      "reason": "Clear management title tied to statistical research work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Biostatistical Programmer",
+      "verdict": "PASS",
+      "reason": "Specific and descriptive; commonly understood in clinical and research environments.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Clinical Data Scientist",
+      "verdict": "PASS",
+      "reason": "Specific and plain-language title that clearly indicates clinical data work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Clinical Statistician",
+      "verdict": "PASS",
+      "reason": "Specific and understandable title for statistical work in clinical settings.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Compensation Policy Director",
+      "verdict": "PASS",
+      "reason": "Specific title that clearly identifies the policy area and leadership level.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Data Engineering Manager",
+      "verdict": "PASS",
+      "reason": "Clear private-sector title that describes management of data engineering work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Economic Data Analyst",
+      "verdict": "PASS",
+      "reason": "Specific and understandable; indicates analysis of economic data.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Health Services Research Analyst",
+      "verdict": "PASS",
+      "reason": "Descriptive title that clearly conveys research analysis in health services.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Labor Statistics Director",
+      "verdict": "PASS",
+      "reason": "Specific leadership title that clearly identifies the subject matter.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Medical Research Statistician",
+      "verdict": "PASS",
+      "reason": "Clear and descriptive title for statistical work in medical research.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Quantitative Analyst",
+      "verdict": "PASS",
+      "reason": "Recognized private-sector title, though broad, it still conveys quantitative analysis work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Senior Statistician",
+      "verdict": "PASS",
+      "reason": "Specific enough to indicate a senior-level statistical role.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Student Aid Data Analyst",
+      "verdict": "PASS",
+      "reason": "Plain-language and specific; clearly indicates analysis related to student aid data.",
+      "suggested_replacements": []
+    }
+  ],
+  "titles": [
+    {
+      "title": "Statistical Analyst",
+      "description": "Collects, cleans, and analyzes data to produce statistical summaries, trends, and reports for decision-makers. Often supports program evaluation, performance measurement, and ad hoc data requests using spreadsheets, databases, and statistical software.",
+      "absorbs": [
+        "Statistical Analyst",
+        "Senior Statistical Analyst"
+      ],
+      "count": 16
+    },
+    {
+      "title": "Biostatistician",
+      "description": "Applies statistical methods to biological, medical, or public health data to design studies and analyze results. Commonly works with clinical trials, epidemiology, and research datasets to support scientific conclusions.",
+      "absorbs": [
+        "Biostatistician",
+        "Senior Biostatistician"
+      ],
+      "count": 13
+    },
+    {
+      "title": "Research Data Analyst",
+      "description": "Prepares and analyzes research data, builds datasets, and creates tables, charts, and reports for studies or evaluations. Works closely with researchers to ensure data quality, interpret findings, and support evidence-based decisions.",
+      "absorbs": [
+        "Research Data Analyst"
+      ],
+      "count": 7
+    },
+    {
+      "title": "Statistical Programmer",
+      "description": "Writes and maintains code to process, validate, and analyze data for statistical reporting and research. Typically uses statistical programming tools to generate datasets, tables, figures, and reproducible analysis outputs.",
+      "absorbs": [
+        "Statistical Programmer"
+      ],
+      "count": 7
+    },
+    {
+      "title": "Survey Statistician",
+      "description": "Designs, samples, and analyzes surveys to produce reliable estimates about populations or programs. Works on questionnaire design, weighting, variance estimation, and survey methodology to ensure data accuracy and representativeness.",
+      "absorbs": [
+        "Survey Statistician"
+      ],
+      "count": 7
+    },
+    {
+      "title": "Survey Operations Manager",
+      "description": "Oversees the day-to-day execution of survey projects, including field operations, data collection schedules, vendor coordination, and quality control. Ensures surveys are completed on time, within budget, and according to methodological requirements.",
+      "absorbs": [
+        "Survey Operations Manager"
+      ],
+      "count": 6
+    },
+    {
+      "title": "Clinical Data Analyst",
+      "description": "Manages and analyzes clinical or healthcare data to support studies, trials, and operational reporting. Reviews data for completeness and accuracy, creates datasets and reports, and helps translate findings into usable insights.",
+      "absorbs": [
+        "Clinical Data Analyst"
+      ],
+      "count": 5
+    },
+    {
+      "title": "Data Scientist",
+      "description": "Uses advanced analytics, machine learning, and statistical methods to extract insights from large or complex datasets. Builds models, tests hypotheses, and develops data-driven solutions to support mission needs and decision-making.",
+      "absorbs": [
+        "Data Scientist"
+      ],
+      "count": 5
+    },
+    {
+      "title": "Research Statistician",
+      "description": "Designs statistical approaches for research studies and analyzes data to answer scientific or policy questions. Advises on study design, sampling, inference, and interpretation of results for reports or publications.",
+      "absorbs": [
+        "Research Statistician"
+      ],
+      "count": 5
+    },
+    {
+      "title": "Data Analyst",
+      "description": "Collects, cleans, and analyzes data to identify trends, answer business questions, and produce routine and ad hoc reports. Uses spreadsheets, databases, and visualization tools to support operational and management decisions.",
+      "absorbs": [
+        "Data Analyst"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Data Analytics Specialist",
+      "description": "Develops and applies analytical methods, dashboards, and reports to turn raw data into actionable information. Often supports multiple programs by improving data quality, defining metrics, and explaining results to stakeholders.",
+      "absorbs": [
+        "Data Analytics Specialist"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Statistical Research Analyst",
+      "description": "Conducts statistical analysis to support research projects, evaluations, and policy studies. Prepares datasets, runs analyses, and summarizes findings in reports, briefs, or presentations.",
+      "absorbs": [
+        "Statistical Research Analyst"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Statistical Research Manager",
+      "description": "Leads teams that design and conduct statistical research, manage datasets, and produce analytical products. Oversees project planning, methodology, quality assurance, and delivery of research findings.",
+      "absorbs": [
+        "Statistical Research Manager",
+        "Director of Statistical Research"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Biostatistical Programmer",
+      "description": "Develops and validates statistical code for biomedical and clinical research data. Creates analysis datasets, tables, listings, and figures while ensuring outputs meet study and regulatory standards.",
+      "absorbs": [
+        "Biostatistical Programmer"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Clinical Data Scientist",
+      "description": "Applies advanced analytics to clinical and healthcare data to improve research, operations, or patient outcomes. Builds models, evaluates data patterns, and supports evidence generation for clinical programs or studies.",
+      "absorbs": [
+        "Clinical Data Scientist"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Clinical Statistician",
+      "description": "Provides statistical expertise for clinical studies, trials, and healthcare research. Designs analyses, interprets results, and helps ensure clinical findings are statistically sound and properly reported.",
+      "absorbs": [
+        "Clinical Statistician"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Compensation Policy Director",
+      "description": "Directs the development, analysis, and implementation of compensation policies and pay programs. Oversees research, benchmarking, and recommendations related to salaries, pay structures, and workforce compensation strategy.",
+      "absorbs": [
+        "Compensation Policy Director"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Data Engineering Manager",
+      "description": "Leads the design, build, and maintenance of data pipelines, databases, and data infrastructure. Ensures data is reliable, accessible, and organized for analytics, reporting, and operational use.",
+      "absorbs": [
+        "Data Engineering Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Economic Data Analyst",
+      "description": "Analyzes economic, labor, or financial data to identify trends, forecast conditions, and support policy or program decisions. Produces reports and visualizations using statistical and econometric methods.",
+      "absorbs": [
+        "Economic Data Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Health Services Research Analyst",
+      "description": "Analyzes healthcare delivery, utilization, quality, and outcomes data to support health services research. Helps evaluate programs, policies, and interventions using quantitative methods and administrative or clinical datasets.",
+      "absorbs": [
+        "Health Services Research Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Labor Statistics Director",
+      "description": "Leads programs that collect, analyze, and publish labor market and employment statistics. Oversees methodology, data quality, reporting, and strategic direction for labor statistics products and initiatives.",
+      "absorbs": [
+        "Labor Statistics Director",
+        "Labor Statistics Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Medical Research Statistician",
+      "description": "Applies statistical methods to medical research studies, including clinical, epidemiological, and outcomes research. Supports study design, data analysis, and interpretation of results for scientific reporting.",
+      "absorbs": [
+        "Medical Research Statistician"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Quantitative Analyst",
+      "description": "Uses mathematical and statistical techniques to analyze data, build models, and support forecasting or decision-making. Often works on complex datasets to identify patterns, measure risk, or evaluate performance.",
+      "absorbs": [
+        "Quantitative Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Senior Statistician",
+      "description": "Performs advanced statistical analysis and provides expert guidance on study design, methodology, and interpretation of results. Often leads complex analyses, reviews work products, and advises teams on statistical best practices.",
+      "absorbs": [
+        "Senior Statistician"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Student Aid Data Analyst",
+      "description": "Analyzes student aid, financial aid, or education program data to monitor performance, trends, and compliance. Produces reports and insights that support policy, operations, and decision-making for aid programs.",
+      "absorbs": [
+        "Student Aid Data Analyst"
+      ],
+      "count": 2
+    }
+  ]
+}

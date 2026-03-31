@@ -106,6 +106,8 @@ def run_series(series_code: str, cfg: dict):
     classify_args = ["--series", s, "--model", model, "--concurrency", concurrency]
     if int(classify_sample) > 0:
         classify_args += ["--sample-size", classify_sample]
+    if cfg.get("use_batch_api"):
+        classify_args += ["--batch"]
 
     run_step("6. Classify postings (LLM)",
              "classify_postings.py",

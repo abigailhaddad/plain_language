@@ -1,0 +1,688 @@
+{
+  "series": "1084",
+  "model": "gpt-5.4-mini",
+  "num_titles_before": 45,
+  "num_passed": 43,
+  "num_failed": 2,
+  "num_titles_after": 51,
+  "validation_details": [
+    {
+      "title": "Graphic Designer",
+      "verdict": "PASS",
+      "reason": "Clear, plain-language title that accurately describes the work and is commonly used in the private sector.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Visual Communications Specialist",
+      "verdict": "PASS",
+      "reason": "Specific enough to signal work in visual communication and design; understandable to outside jobseekers.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Multimedia Designer",
+      "verdict": "PASS",
+      "reason": "Descriptive and commonly used; conveys design work across multiple media.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Exhibit Designer",
+      "verdict": "PASS",
+      "reason": "Clear and specific; jobseekers can understand this as designing exhibits or displays.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Digital Content Designer",
+      "verdict": "PASS",
+      "reason": "Reasonably specific and understandable, though somewhat broad; still conveys digital content design work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Environmental Graphic Designer",
+      "verdict": "PASS",
+      "reason": "A recognized private-sector title for designers who create signage, wayfinding, and spatial graphics.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Exhibition Graphic Designer",
+      "verdict": "PASS",
+      "reason": "Specific and descriptive; clearly indicates graphic design for exhibitions.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Museum Graphic Designer",
+      "verdict": "PASS",
+      "reason": "Clear enough and descriptive of graphic design work in a museum setting.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Social Media Coordinator",
+      "verdict": "PASS",
+      "reason": "Common private-sector title that clearly indicates social media coordination work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Digital Marketing Specialist",
+      "verdict": "PASS",
+      "reason": "Widely used, plain-language title that clearly conveys digital marketing work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Marketing Designer",
+      "verdict": "PASS",
+      "reason": "Specific enough to indicate design work supporting marketing efforts.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Visual Communications Designer",
+      "verdict": "PASS",
+      "reason": "Descriptive and understandable; indicates design work focused on visual communication.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Visual Designer",
+      "verdict": "PASS",
+      "reason": "Common private-sector title, though broad; still understandable as a design role.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Digital Content Specialist",
+      "verdict": "PASS",
+      "reason": "Clear and commonly used title for work involving digital content creation or management.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Digital Media Specialist",
+      "verdict": "PASS",
+      "reason": "Plain-language and understandable, though broad; still conveys digital media work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Marketing Graphic Designer",
+      "verdict": "PASS",
+      "reason": "Specific and descriptive; clearly indicates graphic design for marketing materials.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Multimedia Production Manager",
+      "verdict": "PASS",
+      "reason": "Specific enough to indicate management of multimedia production work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Visual Communications Manager",
+      "verdict": "PASS",
+      "reason": "Clear and descriptive; jobseekers can understand this as managing visual communications work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Digital Content Manager",
+      "verdict": "PASS",
+      "reason": "Plain-language and specific enough to indicate management of digital content work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "E-Learning Developer",
+      "verdict": "PASS",
+      "reason": "Recognized private-sector title for someone who develops online learning content.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Exhibit Design Manager",
+      "verdict": "PASS",
+      "reason": "Clear and specific; indicates management of exhibit design work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Graphic Design Manager",
+      "verdict": "PASS",
+      "reason": "Straightforward and descriptive; clearly indicates management of graphic design work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Instructional Designer",
+      "verdict": "PASS",
+      "reason": "Well-known private-sector title that clearly describes the work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Multimedia Content Designer",
+      "verdict": "PASS",
+      "reason": "Descriptive and understandable, though somewhat broad; still clearly design-focused.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Visual Information Specialist",
+      "verdict": "FAIL",
+      "reason": "This is still federal jargon and not as plain-language as the other titles. It does not clearly tell outside jobseekers what the person actually does.",
+      "suggested_replacements": [
+        "Graphic Designer",
+        "Visual Communications Specialist",
+        "Presentation Designer",
+        "Digital Content Designer"
+      ]
+    },
+    {
+      "title": "Broadcast Technician",
+      "verdict": "PASS",
+      "reason": "Common, plain-language title that clearly describes technical broadcast work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Creative Services Supervisor",
+      "verdict": "FAIL",
+      "reason": "Too vague and corporate/federal-sounding. It does not describe the actual creative work or specialty area.",
+      "suggested_replacements": [
+        "Graphic Design Manager",
+        "Creative Director",
+        "Design Team Lead",
+        "Marketing Communications Manager"
+      ]
+    },
+    {
+      "title": "Exhibit Planning Manager",
+      "verdict": "PASS",
+      "reason": "Specific enough to indicate management of exhibit planning work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Marketing Communications Specialist",
+      "verdict": "PASS",
+      "reason": "Common private-sector title that clearly conveys marketing communications work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Multimedia Content Creator",
+      "verdict": "PASS",
+      "reason": "Plain-language and understandable; clearly indicates content creation across media formats.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Museum Collections Manager",
+      "verdict": "PASS",
+      "reason": "Specific and descriptive; clearly indicates management of museum collections.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Museum Exhibits Director",
+      "verdict": "PASS",
+      "reason": "Clear and specific leadership title for museum exhibit work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Presentation Designer",
+      "verdict": "PASS",
+      "reason": "Common private-sector title that clearly describes designing presentations and related visuals.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Print Designer",
+      "verdict": "PASS",
+      "reason": "Clear and commonly understood title for print-focused design work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Print Production Designer",
+      "verdict": "PASS",
+      "reason": "Specific enough to indicate design work tied to print production.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Print Production Specialist",
+      "verdict": "PASS",
+      "reason": "Understandable and specific enough to indicate print production work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Retail Merchandising Supervisor",
+      "verdict": "PASS",
+      "reason": "Common private-sector title that clearly indicates supervision of retail merchandising work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Social Media Content Creator",
+      "verdict": "PASS",
+      "reason": "Clear and plain-language title that jobseekers would understand.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Social Media Specialist",
+      "verdict": "PASS",
+      "reason": "Widely used private-sector title that clearly conveys social media work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Video Conferencing Technician",
+      "verdict": "PASS",
+      "reason": "Specific and understandable technical title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Video Production Technician",
+      "verdict": "PASS",
+      "reason": "Clear and descriptive title for technical video production work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Visual Merchandising Lead",
+      "verdict": "PASS",
+      "reason": "Recognized private-sector title that clearly indicates leadership in visual merchandising.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Web Content Coordinator",
+      "verdict": "PASS",
+      "reason": "Common and understandable title for coordinating web content work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Web Content Manager",
+      "verdict": "PASS",
+      "reason": "Clear and descriptive management title for web content work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Web Content Specialist",
+      "verdict": "PASS",
+      "reason": "Plain-language and understandable title for web content work.",
+      "suggested_replacements": []
+    }
+  ],
+  "titles": [
+    {
+      "title": "Graphic Designer",
+      "description": "Creates visual assets such as logos, layouts, brochures, posters, and other print or digital materials. Works with stakeholders to translate requirements into polished designs that communicate information clearly and consistently.",
+      "absorbs": [
+        "Graphic Designer"
+      ],
+      "count": 32
+    },
+    {
+      "title": "Visual Communications Specialist",
+      "description": "Develops visual materials that explain ideas, programs, or services through graphics, charts, presentations, and other communication products. Ensures content is visually clear, on-brand, and tailored to the intended audience.",
+      "absorbs": [
+        "Visual Communications Specialist"
+      ],
+      "count": 16
+    },
+    {
+      "title": "Multimedia Designer",
+      "description": "Produces integrated visual content across formats such as graphics, animation, audio, video, and interactive media. Designs and assembles multimedia products for presentations, training, marketing, or public outreach.",
+      "absorbs": [
+        "Multimedia Designer"
+      ],
+      "count": 14
+    },
+    {
+      "title": "Exhibit Designer",
+      "description": "Plans and designs museum, trade show, or public exhibits, including layout, graphics, signage, and visitor flow. Coordinates visual and spatial elements to create engaging and informative displays.",
+      "absorbs": [
+        "Exhibit Designer"
+      ],
+      "count": 7
+    },
+    {
+      "title": "Digital Content Designer",
+      "description": "Creates digital-first visual and interactive content for websites, social media, email, and other online channels. Focuses on making content engaging, accessible, and aligned with communication goals.",
+      "absorbs": [
+        "Digital Content Designer"
+      ],
+      "count": 6
+    },
+    {
+      "title": "Environmental Graphic Designer",
+      "description": "Designs signage, wayfinding, environmental graphics, and branded visual elements for physical spaces. Helps people navigate and experience buildings, campuses, museums, or public areas through clear visual systems.",
+      "absorbs": [
+        "Environmental Graphic Designer"
+      ],
+      "count": 6
+    },
+    {
+      "title": "Exhibition Graphic Designer",
+      "description": "Creates graphics, labels, panels, and visual elements used in exhibits and displays. Works closely with exhibit teams to present information in a visually compelling and easy-to-read format.",
+      "absorbs": [
+        "Exhibition Graphic Designer"
+      ],
+      "count": 6
+    },
+    {
+      "title": "Museum Graphic Designer",
+      "description": "Designs graphics and visual materials for museum exhibits, programs, and public-facing communications. Produces labels, signage, promotional pieces, and interpretive visuals that support museum storytelling.",
+      "absorbs": [
+        "Museum Graphic Designer"
+      ],
+      "count": 6
+    },
+    {
+      "title": "Social Media Coordinator",
+      "description": "Plans, schedules, and posts content across social media platforms while monitoring engagement and responding to routine inquiries. Supports campaigns by coordinating content calendars, approvals, and basic performance tracking.",
+      "absorbs": [
+        "Social Media Coordinator"
+      ],
+      "count": 6
+    },
+    {
+      "title": "Digital Marketing Specialist",
+      "description": "Creates and manages online marketing campaigns using channels such as email, web, search, and social media. Tracks performance metrics and adjusts content or targeting to improve reach and engagement.",
+      "absorbs": [
+        "Digital Marketing Specialist"
+      ],
+      "count": 5
+    },
+    {
+      "title": "Marketing Designer",
+      "description": "Develops visual assets for marketing campaigns, advertisements, and promotional materials. Works with marketing staff to create graphics that support branding and drive audience action.",
+      "absorbs": [
+        "Marketing Designer"
+      ],
+      "count": 5
+    },
+    {
+      "title": "Visual Communications Designer",
+      "description": "Designs visual materials that help communicate messages, data, or concepts across print and digital formats. Combines layout, typography, and imagery to make information easier to understand and more appealing.",
+      "absorbs": [
+        "Visual Communications Designer"
+      ],
+      "count": 5
+    },
+    {
+      "title": "Visual Designer",
+      "description": "Creates the overall look and feel of visual products, often for digital interfaces, presentations, or branded materials. Focuses on layout, typography, color, and imagery to produce cohesive and user-friendly designs.",
+      "absorbs": [
+        "Visual Designer"
+      ],
+      "count": 5
+    },
+    {
+      "title": "Digital Content Specialist",
+      "description": "Develops and updates content for websites, social media, email, and other digital channels. Ensures content is accurate, engaging, and aligned with communication or marketing objectives.",
+      "absorbs": [
+        "Digital Content Specialist"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Digital Media Specialist",
+      "description": "Produces and manages digital media content such as graphics, video, audio, and interactive assets. Supports communication efforts by creating content for online platforms and digital campaigns.",
+      "absorbs": [
+        "Digital Media Specialist"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Marketing Graphic Designer",
+      "description": "Creates graphics and visual materials specifically for marketing and advertising efforts. Produces campaign assets that support product promotion, outreach, and brand consistency.",
+      "absorbs": [
+        "Marketing Graphic Designer"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Multimedia Production Manager",
+      "description": "Oversees the planning, production, and delivery of multimedia projects such as video, audio, graphics, and interactive content. Coordinates staff, schedules, and resources to ensure projects are completed on time and to quality standards.",
+      "absorbs": [
+        "Multimedia Production Manager"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Visual Communications Manager",
+      "description": "Leads the development of visual communication products and oversees designers or content creators. Manages projects, priorities, and quality standards for graphics, presentations, and other visual materials.",
+      "absorbs": [
+        "Visual Communications Manager"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Digital Content Manager",
+      "description": "Directs the creation, editing, and publishing of content across digital platforms. Oversees content strategy, workflows, and performance to ensure materials meet organizational goals.",
+      "absorbs": [
+        "Digital Content Manager"
+      ],
+      "count": 3
+    },
+    {
+      "title": "E-Learning Developer",
+      "description": "Designs and builds online training courses, modules, and learning materials. Uses instructional content, multimedia, and interactive elements to create effective digital learning experiences.",
+      "absorbs": [
+        "E-Learning Developer"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Exhibit Design Manager",
+      "description": "Manages exhibit design projects from concept through installation, including schedules, budgets, and coordination with designers and fabricators. Oversees the visual and spatial development of exhibits to ensure they meet interpretive and audience goals.",
+      "absorbs": [
+        "Exhibit Design Manager",
+        "Exhibit Design Director"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Graphic Design Manager",
+      "description": "Supervises graphic design staff and manages design projects, priorities, and deadlines. Ensures visual products meet branding, communication, and quality requirements.",
+      "absorbs": [
+        "Graphic Design Manager",
+        "Graphic Design Lead"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Instructional Designer",
+      "description": "Develops training materials, courses, and learning experiences based on instructional goals and audience needs. Works with subject matter experts to organize content and create effective learning activities.",
+      "absorbs": [
+        "Instructional Designer"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Multimedia Content Designer",
+      "description": "Creates content that combines graphics, video, audio, animation, or interactive elements for communication or training purposes. Designs multimedia products that are visually engaging and easy to use.",
+      "absorbs": [
+        "Multimedia Content Designer"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Graphic Designer",
+      "description": "Creates visual assets such as logos, layouts, brochures, posters, and other print or digital materials. Works with stakeholders to translate requirements into polished designs that communicate information clearly and consistently.",
+      "absorbs": [],
+      "replaced_from": "Visual Information Specialist"
+    },
+    {
+      "title": "Visual Communications Specialist",
+      "description": "Develops visual materials that explain ideas, programs, or services through graphics, charts, presentations, and other communication products. Ensures content is visually clear, on-brand, and tailored to the intended audience.",
+      "absorbs": [],
+      "replaced_from": "Visual Information Specialist"
+    },
+    {
+      "title": "Presentation Designer",
+      "description": "Designs professional slide decks and presentation materials that communicate information clearly and persuasively. Uses layout, graphics, charts, and branding to make presentations visually effective.",
+      "absorbs": [],
+      "replaced_from": "Visual Information Specialist"
+    },
+    {
+      "title": "Digital Content Designer",
+      "description": "Creates digital-first visual and interactive content for websites, social media, email, and other online channels. Focuses on making content engaging, accessible, and aligned with communication goals.",
+      "absorbs": [],
+      "replaced_from": "Visual Information Specialist"
+    },
+    {
+      "title": "Broadcast Technician",
+      "description": "Operates and maintains equipment used for radio, television, streaming, or live broadcast production. Sets up audio, video, and transmission systems and troubleshoots technical issues during production.",
+      "absorbs": [
+        "Broadcast Technician"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Graphic Design Manager",
+      "description": "Supervises graphic design staff and manages design projects, priorities, and deadlines. Ensures visual products meet branding, communication, and quality requirements.",
+      "absorbs": [],
+      "replaced_from": "Creative Services Supervisor"
+    },
+    {
+      "title": "Creative Director",
+      "description": "Sets the creative vision for campaigns, publications, or digital products and guides the work of designers and content creators. Reviews concepts, approves final creative work, and ensures consistency with organizational goals.",
+      "absorbs": [],
+      "replaced_from": "Creative Services Supervisor"
+    },
+    {
+      "title": "Design Team Lead",
+      "description": "Coordinates the day-to-day work of a design team, assigning tasks, reviewing output, and helping resolve design issues. Balances hands-on design work with supervision and project coordination.",
+      "absorbs": [],
+      "replaced_from": "Creative Services Supervisor"
+    },
+    {
+      "title": "Marketing Communications Manager",
+      "description": "Plans and oversees marketing and communications activities that promote programs, services, or products. Manages messaging, campaigns, and content across channels to support outreach and engagement.",
+      "absorbs": [],
+      "replaced_from": "Creative Services Supervisor"
+    },
+    {
+      "title": "Exhibit Planning Manager",
+      "description": "Leads the planning of exhibit projects, including scope, timelines, budgets, and coordination among curators, designers, and vendors. Ensures exhibit concepts are feasible, well-organized, and aligned with audience goals.",
+      "absorbs": [
+        "Exhibit Planning Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Marketing Communications Specialist",
+      "description": "Creates and coordinates marketing and communication materials such as announcements, campaigns, newsletters, and promotional content. Supports outreach efforts by tailoring messages to target audiences and channels.",
+      "absorbs": [
+        "Marketing Communications Specialist"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Multimedia Content Creator",
+      "description": "Produces engaging content in multiple formats, such as graphics, video, audio, and interactive media. Develops materials for social media, websites, presentations, or campaigns.",
+      "absorbs": [
+        "Multimedia Content Creator"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Museum Collections Manager",
+      "description": "Oversees the care, documentation, storage, and movement of museum collections. Manages records, handling procedures, and collection-related workflows to preserve artifacts and support access.",
+      "absorbs": [
+        "Museum Collections Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Museum Exhibits Director",
+      "description": "Directs the planning, development, and execution of museum exhibits and interpretive experiences. Oversees exhibit strategy, staff, budgets, and coordination with curatorial and design teams.",
+      "absorbs": [
+        "Museum Exhibits Director"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Presentation Designer",
+      "description": "Designs professional slide decks and presentation materials that communicate information clearly and persuasively. Uses layout, graphics, charts, and branding to make presentations visually effective.",
+      "absorbs": [
+        "Presentation Designer"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Print Designer",
+      "description": "Creates layouts and visual designs for printed materials such as brochures, flyers, reports, and posters. Prepares files for production and ensures the final product is visually consistent and print-ready.",
+      "absorbs": [
+        "Print Designer"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Print Production Designer",
+      "description": "Prepares print-ready artwork and manages the technical details of printed materials. Checks layouts, formatting, color, and specifications to ensure accurate production output.",
+      "absorbs": [
+        "Print Production Designer"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Print Production Specialist",
+      "description": "Coordinates the production of printed materials by managing specifications, proofs, vendors, and deadlines. Ensures print jobs are completed accurately, on time, and within quality standards.",
+      "absorbs": [
+        "Print Production Specialist"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Retail Merchandising Supervisor",
+      "description": "Oversees retail display setup, product presentation, and merchandising standards in stores or showrooms. Supervises staff and ensures displays support sales, branding, and customer experience.",
+      "absorbs": [
+        "Retail Merchandising Supervisor",
+        "Retail Merchandising Lead"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Social Media Content Creator",
+      "description": "Creates posts, graphics, short videos, and other content for social media platforms. Develops engaging material that supports campaigns, audience growth, and brand awareness.",
+      "absorbs": [
+        "Social Media Content Creator"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Social Media Specialist",
+      "description": "Manages social media content, engagement, and basic analytics across platforms. Plans posts, monitors trends, and helps shape messaging to increase reach and interaction.",
+      "absorbs": [
+        "Social Media Specialist"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Video Conferencing Technician",
+      "description": "Sets up, operates, and troubleshoots video conferencing systems and related audio-visual equipment. Supports meetings and events by ensuring reliable connectivity, sound, and video quality.",
+      "absorbs": [
+        "Video Conferencing Technician"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Video Production Technician",
+      "description": "Operates cameras, lighting, audio, and editing equipment for video production projects. Assists with recording, setup, and technical troubleshooting during shoots and post-production.",
+      "absorbs": [
+        "Video Production Technician"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Visual Merchandising Lead",
+      "description": "Directs the presentation of products and displays in retail or showroom settings. Plans visual layouts, signage, and display standards to attract customers and support sales.",
+      "absorbs": [
+        "Visual Merchandising Lead",
+        "Visual Merchandising Supervisor"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Web Content Coordinator",
+      "description": "Coordinates updates, posting, and maintenance of website content across pages and sections. Works with contributors to keep web information current, accurate, and organized.",
+      "absorbs": [
+        "Web Content Coordinator"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Web Content Manager",
+      "description": "Oversees website content strategy, publishing workflows, and content quality. Manages updates, approvals, and coordination to ensure the site is accurate, useful, and aligned with communication goals.",
+      "absorbs": [
+        "Web Content Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Web Content Specialist",
+      "description": "Writes, edits, and updates content for websites and related digital properties. Ensures pages are clear, accurate, accessible, and optimized for the intended audience.",
+      "absorbs": [
+        "Web Content Specialist"
+      ],
+      "count": 2
+    }
+  ]
+}

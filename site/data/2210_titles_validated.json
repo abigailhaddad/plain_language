@@ -1,0 +1,2602 @@
+{
+  "series": "2210",
+  "model": "gpt-5.4-mini",
+  "num_titles_before": 167,
+  "num_passed": 157,
+  "num_failed": 10,
+  "num_titles_after": 197,
+  "validation_details": [
+    {
+      "title": "Systems Administrator",
+      "verdict": "PASS",
+      "reason": "Specific and commonly understood private-sector title for administering computer systems.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "IT Support Specialist",
+      "verdict": "PASS",
+      "reason": "Clear support-focused title that jobseekers can understand.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Information Security Manager",
+      "verdict": "PASS",
+      "reason": "Describes a recognizable security management role.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Desktop Support Specialist",
+      "verdict": "PASS",
+      "reason": "Specific support title used in the private sector.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "IT Operations Manager",
+      "verdict": "PASS",
+      "reason": "Clear enough to indicate management of IT operations.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Network Systems Administrator",
+      "verdict": "PASS",
+      "reason": "Descriptive and understandable systems/network administration title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "IT Project Manager",
+      "verdict": "PASS",
+      "reason": "Common private-sector title that clearly conveys project leadership in IT.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Cybersecurity Manager",
+      "verdict": "PASS",
+      "reason": "Specific and recognizable security management title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "IT Infrastructure Manager",
+      "verdict": "PASS",
+      "reason": "Clearly indicates management of IT infrastructure.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Network Administrator",
+      "verdict": "PASS",
+      "reason": "Standard, descriptive title for network administration work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Cybersecurity Analyst",
+      "verdict": "PASS",
+      "reason": "Widely used title that clearly signals security analysis work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Network Operations Manager",
+      "verdict": "PASS",
+      "reason": "Specific enough to indicate management of network operations.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Desktop Support Technician",
+      "verdict": "PASS",
+      "reason": "Clear, common title for hands-on desktop support work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Chief Information Security Officer",
+      "verdict": "PASS",
+      "reason": "Well-known executive title in the private sector.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "IT Program Manager",
+      "verdict": "PASS",
+      "reason": "Common title, though broad, it still clearly indicates IT program leadership.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "IT Systems Administrator",
+      "verdict": "PASS",
+      "reason": "Descriptive and understandable systems administration title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Windows Systems Administrator",
+      "verdict": "PASS",
+      "reason": "Specific platform-based title that jobseekers will recognize.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "IT Systems Analyst",
+      "verdict": "FAIL",
+      "reason": "Still too broad and generic; it does not clearly indicate what systems or what kind of analysis the role performs.",
+      "suggested_replacements": [
+        "Business Systems Analyst",
+        "Application Support Analyst",
+        "Systems Support Analyst",
+        "Enterprise Systems Analyst"
+      ]
+    },
+    {
+      "title": "Information Security Analyst",
+      "verdict": "PASS",
+      "reason": "Clear and commonly used private-sector title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Network Engineer",
+      "verdict": "PASS",
+      "reason": "Specific and widely recognized technical title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Cybersecurity Compliance Manager",
+      "verdict": "PASS",
+      "reason": "Descriptive enough to convey security compliance management.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Cybersecurity Engineer",
+      "verdict": "PASS",
+      "reason": "Clear and standard private-sector title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Cybersecurity Program Manager",
+      "verdict": "PASS",
+      "reason": "Specific enough to indicate program management in cybersecurity.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "IT Systems Manager",
+      "verdict": "PASS",
+      "reason": "Reasonably descriptive management title for systems work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Information Assurance Analyst",
+      "verdict": "FAIL",
+      "reason": "'Information assurance' is federal jargon and less common in private-sector job titles; the role is clearer if framed in security, risk, or compliance terms.",
+      "suggested_replacements": [
+        "Information Security Analyst",
+        "Security Compliance Analyst",
+        "Cybersecurity Risk Analyst",
+        "Risk and Compliance Analyst"
+      ]
+    },
+    {
+      "title": "Software Developer",
+      "verdict": "PASS",
+      "reason": "Clear, standard private-sector title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Application Support Specialist",
+      "verdict": "PASS",
+      "reason": "Specific and understandable support title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Cybersecurity Compliance Analyst",
+      "verdict": "PASS",
+      "reason": "Clear and descriptive title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Enterprise Applications Manager",
+      "verdict": "PASS",
+      "reason": "Specific enough to indicate management of enterprise applications.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Information Assurance Specialist",
+      "verdict": "FAIL",
+      "reason": "Uses federal jargon rather than plain private-sector language.",
+      "suggested_replacements": [
+        "Information Security Specialist",
+        "Security Compliance Specialist",
+        "Cybersecurity Specialist",
+        "Risk and Compliance Specialist"
+      ]
+    },
+    {
+      "title": "Network Infrastructure Engineer",
+      "verdict": "PASS",
+      "reason": "Descriptive and recognizable technical title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Network Support Specialist",
+      "verdict": "PASS",
+      "reason": "Clear support-oriented title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "SharePoint Administrator",
+      "verdict": "PASS",
+      "reason": "Specific platform title that jobseekers will understand.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Software Development Manager",
+      "verdict": "PASS",
+      "reason": "Clear management title used in the private sector.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Systems Support Specialist",
+      "verdict": "PASS",
+      "reason": "Descriptive support title, though broad.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Application Developer",
+      "verdict": "PASS",
+      "reason": "Common and understandable title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Cloud Systems Administrator",
+      "verdict": "PASS",
+      "reason": "Specific and modern private-sector title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Communications Systems Manager",
+      "verdict": "PASS",
+      "reason": "Descriptive enough to indicate management of communications systems.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Cyber Defense Manager",
+      "verdict": "PASS",
+      "reason": "Specific security-focused management title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Cybersecurity Compliance Specialist",
+      "verdict": "PASS",
+      "reason": "Clear and descriptive title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Database Administrator",
+      "verdict": "PASS",
+      "reason": "Standard, widely recognized private-sector title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "End User Computing Specialist",
+      "verdict": "PASS",
+      "reason": "Recognizable support/infrastructure title, though somewhat enterprise-specific.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Enterprise Systems Manager",
+      "verdict": "PASS",
+      "reason": "Specific enough to indicate management of enterprise systems.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "IT Security Director",
+      "verdict": "PASS",
+      "reason": "Clear executive/security leadership title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "IT Support Manager",
+      "verdict": "PASS",
+      "reason": "Common and understandable management title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "IT Systems Support Specialist",
+      "verdict": "PASS",
+      "reason": "Descriptive support title, though a bit long.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Information Assurance Manager",
+      "verdict": "FAIL",
+      "reason": "'Information assurance' is jargon-heavy and not plain language for outside jobseekers.",
+      "suggested_replacements": [
+        "Information Security Manager",
+        "Security Compliance Manager",
+        "Cybersecurity Manager",
+        "Risk and Compliance Manager"
+      ]
+    },
+    {
+      "title": "Information Security Specialist",
+      "verdict": "PASS",
+      "reason": "Clear and widely understood title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Information Systems Manager",
+      "verdict": "PASS",
+      "reason": "Common title, though broad, it is still understandable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Linux Systems Administrator",
+      "verdict": "PASS",
+      "reason": "Specific platform-based title that is easy to understand.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Litigation Support Specialist",
+      "verdict": "PASS",
+      "reason": "Clear and specific title, though not obviously 2210-related.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Network Security Administrator",
+      "verdict": "PASS",
+      "reason": "Specific and descriptive security/network title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Network Security Analyst",
+      "verdict": "PASS",
+      "reason": "Clear and commonly used title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Network Security Engineer",
+      "verdict": "PASS",
+      "reason": "Specific and recognizable technical title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Server Administrator",
+      "verdict": "PASS",
+      "reason": "Clear and understandable infrastructure title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Software Engineer",
+      "verdict": "PASS",
+      "reason": "Standard private-sector title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Systems Engineer",
+      "verdict": "PASS",
+      "reason": "Common technical title, though broad, it is still recognizable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Systems Integration Manager",
+      "verdict": "PASS",
+      "reason": "Descriptive enough to indicate integration management.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Technical Project Manager",
+      "verdict": "PASS",
+      "reason": "Common and understandable title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Technical Support Specialist",
+      "verdict": "PASS",
+      "reason": "Clear support title used in the private sector.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Technical Support Supervisor",
+      "verdict": "PASS",
+      "reason": "Specific and understandable supervisory title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Unified Communications Engineer",
+      "verdict": "PASS",
+      "reason": "Recognizable private-sector title for voice/video/collaboration systems.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Application Support Analyst",
+      "verdict": "PASS",
+      "reason": "Clear and descriptive support/analysis title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Cloud Security Architect",
+      "verdict": "PASS",
+      "reason": "Specific and modern private-sector title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Communications Systems Technician",
+      "verdict": "PASS",
+      "reason": "Clear technical support title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Cyber Risk Manager",
+      "verdict": "PASS",
+      "reason": "Specific and understandable security/risk management title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Cybersecurity Architect",
+      "verdict": "PASS",
+      "reason": "Clear and widely used title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Cybersecurity Assessor",
+      "verdict": "PASS",
+      "reason": "Specific enough to indicate assessment work in cybersecurity.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Cybersecurity Project Manager",
+      "verdict": "PASS",
+      "reason": "Clear and descriptive title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Cybersecurity Risk Analyst",
+      "verdict": "PASS",
+      "reason": "Specific and understandable title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Enterprise Architect",
+      "verdict": "PASS",
+      "reason": "Common private-sector title, though broad, it is still descriptive.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Enterprise IT Director",
+      "verdict": "PASS",
+      "reason": "Clear leadership title for enterprise IT.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "IT Acquisition Manager",
+      "verdict": "PASS",
+      "reason": "Descriptive enough to indicate IT procurement/acquisition management.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "IT Asset Manager",
+      "verdict": "PASS",
+      "reason": "Clear and commonly understood title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "IT Director",
+      "verdict": "PASS",
+      "reason": "Common leadership title, though broad, it is still recognizable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "IT Infrastructure Specialist",
+      "verdict": "PASS",
+      "reason": "Descriptive infrastructure-focused title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "IT Policy Manager",
+      "verdict": "PASS",
+      "reason": "Specific enough to indicate policy management in IT.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "IT Service Delivery Manager",
+      "verdict": "PASS",
+      "reason": "Common private-sector title that clearly conveys service delivery leadership.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "IT Systems Architect",
+      "verdict": "PASS",
+      "reason": "Specific and understandable architecture title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "IT Systems Engineer",
+      "verdict": "PASS",
+      "reason": "Clear and standard technical title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Infrastructure Support Engineer",
+      "verdict": "PASS",
+      "reason": "Descriptive and recognizable support/infrastructure title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "LAN/WAN Administrator",
+      "verdict": "FAIL",
+      "reason": "Contains acronym-style jargon and is not plain language for outside jobseekers.",
+      "suggested_replacements": [
+        "Network Administrator",
+        "Network Support Specialist",
+        "Network Operations Administrator",
+        "Network Infrastructure Administrator"
+      ]
+    },
+    {
+      "title": "Legal Technology Specialist",
+      "verdict": "PASS",
+      "reason": "Clear and specific title for legal-tech support work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Network Operations Engineer",
+      "verdict": "PASS",
+      "reason": "Specific and understandable technical title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Network Support Technician",
+      "verdict": "PASS",
+      "reason": "Clear support title used in the private sector.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Network Systems Engineer",
+      "verdict": "PASS",
+      "reason": "Specific and recognizable technical title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "SharePoint Developer",
+      "verdict": "PASS",
+      "reason": "Specific platform title that jobseekers will understand.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Systems Engineering Manager",
+      "verdict": "PASS",
+      "reason": "Clear management title for systems engineering work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Systems Security Administrator",
+      "verdict": "PASS",
+      "reason": "Descriptive and understandable security administration title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Systems Support Analyst",
+      "verdict": "PASS",
+      "reason": "Clear support/analysis title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Technical Support Analyst",
+      "verdict": "PASS",
+      "reason": "Common and understandable title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Vulnerability Management Analyst",
+      "verdict": "PASS",
+      "reason": "Specific and descriptive cybersecurity title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "AI Solutions Architect",
+      "verdict": "PASS",
+      "reason": "Specific and modern private-sector title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Analytics Engineer",
+      "verdict": "PASS",
+      "reason": "Recognizable private-sector title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Application Development Supervisor",
+      "verdict": "PASS",
+      "reason": "Clear supervisory title for application development work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Application Support Manager",
+      "verdict": "PASS",
+      "reason": "Specific and understandable management title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Business Systems Analyst",
+      "verdict": "PASS",
+      "reason": "Common private-sector title that clearly conveys systems analysis for business needs.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Chief Information Officer",
+      "verdict": "PASS",
+      "reason": "Well-known executive title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Cloud Security Manager",
+      "verdict": "PASS",
+      "reason": "Specific and understandable management title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Cloud Solutions Architect",
+      "verdict": "PASS",
+      "reason": "Clear and widely used private-sector title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Computer Systems Technician",
+      "verdict": "PASS",
+      "reason": "Clear technical support title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Customer Support Manager",
+      "verdict": "PASS",
+      "reason": "Common and understandable management title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Cyber Operations Manager",
+      "verdict": "PASS",
+      "reason": "Specific enough to indicate cyber operations leadership.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Cyber Threat Analyst",
+      "verdict": "PASS",
+      "reason": "Clear and descriptive title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Cybersecurity Operations Manager",
+      "verdict": "PASS",
+      "reason": "Specific and understandable management title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Cybersecurity Policy Manager",
+      "verdict": "PASS",
+      "reason": "Clear and descriptive title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Cybersecurity Systems Administrator",
+      "verdict": "PASS",
+      "reason": "Specific and understandable technical title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Cybersecurity Systems Engineer",
+      "verdict": "PASS",
+      "reason": "Clear and descriptive title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Cybersecurity Team Lead",
+      "verdict": "PASS",
+      "reason": "Common and understandable leadership title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Data Architect",
+      "verdict": "PASS",
+      "reason": "Standard private-sector title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Data Integration Manager",
+      "verdict": "PASS",
+      "reason": "Specific and understandable management title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Data Management Specialist",
+      "verdict": "PASS",
+      "reason": "Clear and descriptive title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Data Systems Manager",
+      "verdict": "PASS",
+      "reason": "Specific enough to indicate management of data systems.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Database Systems Administrator",
+      "verdict": "PASS",
+      "reason": "Descriptive and understandable title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "DevOps Engineer",
+      "verdict": "PASS",
+      "reason": "Widely used private-sector title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "End User Computing Manager",
+      "verdict": "PASS",
+      "reason": "Recognizable enterprise IT management title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Enterprise Applications Analyst",
+      "verdict": "PASS",
+      "reason": "Specific and understandable title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Enterprise Network Engineer",
+      "verdict": "PASS",
+      "reason": "Clear and descriptive technical title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Firewall Administrator",
+      "verdict": "PASS",
+      "reason": "Specific and understandable security/network title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Full Stack Developer",
+      "verdict": "PASS",
+      "reason": "Standard private-sector title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Help Desk Technician",
+      "verdict": "PASS",
+      "reason": "Common and clear support title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "IT Asset Management Manager",
+      "verdict": "FAIL",
+      "reason": "Redundant and awkward phrasing; it sounds like internal jargon rather than a natural job title.",
+      "suggested_replacements": [
+        "IT Asset Manager",
+        "IT Asset Management Specialist",
+        "Technology Asset Manager",
+        "Hardware Asset Manager"
+      ]
+    },
+    {
+      "title": "IT Customer Support Director",
+      "verdict": "PASS",
+      "reason": "Clear leadership title for customer support in IT.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "IT Hardware Deployment Specialist",
+      "verdict": "PASS",
+      "reason": "Specific and understandable title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "IT Hardware Support Specialist",
+      "verdict": "PASS",
+      "reason": "Clear support title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "IT Policy Analyst",
+      "verdict": "PASS",
+      "reason": "Common and understandable title, though broad.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "IT Portfolio Manager",
+      "verdict": "PASS",
+      "reason": "Recognizable management title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "IT Project Coordinator",
+      "verdict": "PASS",
+      "reason": "Clear and common title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "IT Security Compliance Analyst",
+      "verdict": "PASS",
+      "reason": "Specific and descriptive title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "IT Service Desk Lead",
+      "verdict": "PASS",
+      "reason": "Clear and understandable leadership title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "IT Support Technician",
+      "verdict": "PASS",
+      "reason": "Common and clear support title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "IT Team Lead",
+      "verdict": "PASS",
+      "reason": "Recognizable leadership title, though broad.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Identity Access Management Specialist",
+      "verdict": "FAIL",
+      "reason": "Uses a technical acronym-like phrase and is less plain-language than alternatives; the function is clearer in standard security terminology.",
+      "suggested_replacements": [
+        "Identity and Access Management Specialist",
+        "Access Management Specialist",
+        "Identity Governance Specialist",
+        "Privileged Access Management Specialist"
+      ]
+    },
+    {
+      "title": "Identity Governance Analyst",
+      "verdict": "PASS",
+      "reason": "Specific and understandable security governance title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Information Security Administrator",
+      "verdict": "PASS",
+      "reason": "Clear and descriptive title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Information Security Architect",
+      "verdict": "PASS",
+      "reason": "Standard and recognizable title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Information Security Auditor",
+      "verdict": "PASS",
+      "reason": "Clear and specific title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Information Systems Security Officer",
+      "verdict": "FAIL",
+      "reason": "This is a federal-style title and not plain private-sector language; it sounds like an internal role label rather than a descriptive job title.",
+      "suggested_replacements": [
+        "Information Security Officer",
+        "Security Compliance Officer",
+        "Cybersecurity Compliance Manager",
+        "Information Security Manager"
+      ]
+    },
+    {
+      "title": "Information Systems Security Specialist",
+      "verdict": "FAIL",
+      "reason": "Federal jargon and overly formal wording; not as plain-language or private-sector-friendly as it should be.",
+      "suggested_replacements": [
+        "Information Security Specialist",
+        "Cybersecurity Specialist",
+        "Security Compliance Specialist",
+        "Systems Security Specialist"
+      ]
+    },
+    {
+      "title": "Infrastructure Systems Administrator",
+      "verdict": "PASS",
+      "reason": "Descriptive and understandable title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Infrastructure Systems Engineer",
+      "verdict": "PASS",
+      "reason": "Clear and recognizable technical title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "verdict": "PASS",
+      "reason": "Standard private-sector title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Network Architect",
+      "verdict": "PASS",
+      "reason": "Common and descriptive title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Network Infrastructure Manager",
+      "verdict": "PASS",
+      "reason": "Specific and understandable management title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Network Operations Specialist",
+      "verdict": "PASS",
+      "reason": "Clear and descriptive title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Network Security Specialist",
+      "verdict": "PASS",
+      "reason": "Specific and understandable title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Network Systems Technician",
+      "verdict": "PASS",
+      "reason": "Clear technical support title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Oracle Database Administrator",
+      "verdict": "PASS",
+      "reason": "Specific platform title that jobseekers will understand.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Power Platform Developer",
+      "verdict": "PASS",
+      "reason": "Specific platform title, though product-branded, it is still understandable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "SQL Server Database Administrator",
+      "verdict": "PASS",
+      "reason": "Specific platform title that jobseekers will understand.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Security Compliance Analyst",
+      "verdict": "PASS",
+      "reason": "Clear and descriptive title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Security Operations Lead",
+      "verdict": "PASS",
+      "reason": "Specific and understandable leadership title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Single Sign-On Engineer",
+      "verdict": "FAIL",
+      "reason": "Uses technical jargon/abbreviation-style terminology that is not as plain-language as preferred for external jobseekers.",
+      "suggested_replacements": [
+        "Identity and Access Management Engineer",
+        "Access Management Engineer",
+        "Authentication Engineer",
+        "Identity Security Engineer"
+      ]
+    },
+    {
+      "title": "Software Test Manager",
+      "verdict": "PASS",
+      "reason": "Clear and understandable management title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Systems Administration Supervisor",
+      "verdict": "PASS",
+      "reason": "Descriptive supervisory title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Systems Integration Specialist",
+      "verdict": "PASS",
+      "reason": "Specific and understandable title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Systems Requirements Analyst",
+      "verdict": "PASS",
+      "reason": "Clear and descriptive title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Systems Security Engineer",
+      "verdict": "PASS",
+      "reason": "Specific and understandable technical title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Systems Support Manager",
+      "verdict": "PASS",
+      "reason": "Clear management title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Technical Operations Manager",
+      "verdict": "PASS",
+      "reason": "Specific enough to indicate management of technical operations.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Technology Program Manager",
+      "verdict": "PASS",
+      "reason": "Understandable management title, though broad.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Technology Support Director",
+      "verdict": "PASS",
+      "reason": "Clear leadership title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Voice Network Engineer",
+      "verdict": "PASS",
+      "reason": "Specific and understandable technical title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Web Applications Developer",
+      "verdict": "PASS",
+      "reason": "Clear and standard private-sector title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Windows Server Administrator",
+      "verdict": "PASS",
+      "reason": "Specific platform-based title that jobseekers will recognize.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Windows Systems Engineer",
+      "verdict": "PASS",
+      "reason": "Specific and understandable technical title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Wireless Network Engineer",
+      "verdict": "PASS",
+      "reason": "Specific and descriptive technical title.",
+      "suggested_replacements": []
+    }
+  ],
+  "titles": [
+    {
+      "title": "Systems Administrator",
+      "description": "Maintains and troubleshoots servers, operating systems, user accounts, and core system services to keep IT environments running reliably. Handles routine patching, backups, monitoring, and escalation of system issues.",
+      "absorbs": [
+        "Systems Administrator",
+        "Senior Systems Administrator"
+      ],
+      "count": 41
+    },
+    {
+      "title": "IT Support Specialist",
+      "description": "Provides day-to-day technical help to end users with hardware, software, account, and connectivity problems. Responds to tickets, resolves common issues, and escalates more complex incidents.",
+      "absorbs": [
+        "IT Support Specialist"
+      ],
+      "count": 34
+    },
+    {
+      "title": "Information Security Manager",
+      "description": "Leads a team or function responsible for protecting systems and data through security controls, monitoring, and incident response. Oversees security policies, risk reduction efforts, and compliance activities.",
+      "absorbs": [
+        "Information Security Manager",
+        "Information Security Director"
+      ],
+      "count": 23
+    },
+    {
+      "title": "Desktop Support Specialist",
+      "description": "Supports employee workstations, laptops, printers, and standard business applications. Installs software, configures devices, and resolves user issues at the desktop level.",
+      "absorbs": [
+        "Desktop Support Specialist"
+      ],
+      "count": 22
+    },
+    {
+      "title": "IT Operations Manager",
+      "description": "Oversees the daily operation of IT services, infrastructure, and support processes. Coordinates monitoring, incident handling, maintenance windows, and service reliability improvements.",
+      "absorbs": [
+        "IT Operations Manager",
+        "IT Operations Director",
+        "Director of IT Operations",
+        "IT Operations Supervisor"
+      ],
+      "count": 18
+    },
+    {
+      "title": "Network Systems Administrator",
+      "description": "Administers network-connected systems and supporting infrastructure such as servers, switches, routers, and related services. Monitors performance, applies updates, and resolves connectivity or configuration issues.",
+      "absorbs": [
+        "Network Systems Administrator"
+      ],
+      "count": 17
+    },
+    {
+      "title": "IT Project Manager",
+      "description": "Plans and manages IT projects from initiation through delivery, including scope, schedule, budget, and stakeholder communication. Tracks milestones, risks, and dependencies to ensure technology work is completed successfully.",
+      "absorbs": [
+        "IT Project Manager",
+        "IT Project Director"
+      ],
+      "count": 15
+    },
+    {
+      "title": "Cybersecurity Manager",
+      "description": "Manages cybersecurity operations, controls, and staff responsible for protecting systems and data. Oversees threat response, security tooling, and implementation of security requirements.",
+      "absorbs": [
+        "Cybersecurity Manager",
+        "Cybersecurity Director",
+        "Cybersecurity Lead"
+      ],
+      "count": 14
+    },
+    {
+      "title": "IT Infrastructure Manager",
+      "description": "Leads teams responsible for servers, networks, storage, cloud, and other foundational technology services. Ensures infrastructure is available, secure, and aligned with business needs.",
+      "absorbs": [
+        "IT Infrastructure Manager",
+        "IT Infrastructure Director",
+        "IT Infrastructure Lead"
+      ],
+      "count": 14
+    },
+    {
+      "title": "Network Administrator",
+      "description": "Configures and maintains network devices and services such as routers, switches, firewalls, and VPNs. Monitors network health, troubleshoots outages, and applies changes to keep connectivity stable.",
+      "absorbs": [
+        "Network Administrator"
+      ],
+      "count": 13
+    },
+    {
+      "title": "Cybersecurity Analyst",
+      "description": "Monitors security alerts, investigates suspicious activity, and helps identify vulnerabilities or threats. Supports incident response, log analysis, and security reporting.",
+      "absorbs": [
+        "Cybersecurity Analyst"
+      ],
+      "count": 12
+    },
+    {
+      "title": "Network Operations Manager",
+      "description": "Oversees the team and processes that monitor and maintain enterprise networks. Manages outages, performance issues, maintenance activities, and operational improvements.",
+      "absorbs": [
+        "Network Operations Manager",
+        "Network Operations Lead",
+        "Network Operations Supervisor",
+        "Network Operations Director"
+      ],
+      "count": 12
+    },
+    {
+      "title": "Desktop Support Technician",
+      "description": "Provides hands-on support for user devices, peripherals, and common software problems. Sets up equipment, performs repairs or replacements, and resolves basic technical issues.",
+      "absorbs": [
+        "Desktop Support Technician"
+      ],
+      "count": 11
+    },
+    {
+      "title": "Chief Information Security Officer",
+      "description": "Sets the organization\u2019s overall information security strategy and governance direction. Leads security leadership, risk management, policy development, and executive reporting.",
+      "absorbs": [
+        "Chief Information Security Officer",
+        "Information Security Officer"
+      ],
+      "count": 10
+    },
+    {
+      "title": "IT Program Manager",
+      "description": "Manages a portfolio or program of related IT projects and initiatives. Coordinates multiple teams, budgets, schedules, and dependencies to deliver broader technology outcomes.",
+      "absorbs": [
+        "IT Program Manager",
+        "IT Program Director"
+      ],
+      "count": 10
+    },
+    {
+      "title": "IT Systems Administrator",
+      "description": "Maintains servers, operating systems, accounts, and core IT services used across the organization. Performs patching, monitoring, backups, and troubleshooting for system reliability.",
+      "absorbs": [
+        "IT Systems Administrator"
+      ],
+      "count": 10
+    },
+    {
+      "title": "Windows Systems Administrator",
+      "description": "Administers Windows servers, Active Directory, Group Policy, and related Microsoft infrastructure. Handles patching, account management, server maintenance, and Windows-based troubleshooting.",
+      "absorbs": [
+        "Windows Systems Administrator"
+      ],
+      "count": 9
+    },
+    {
+      "title": "Business Systems Analyst",
+      "description": "Analyzes business needs and translates them into system requirements, process improvements, and functional specifications. Works with users and technical teams to support application changes and enhancements.",
+      "absorbs": [],
+      "replaced_from": "IT Systems Analyst"
+    },
+    {
+      "title": "Application Support Analyst",
+      "description": "Supports business applications by troubleshooting user issues, monitoring application health, and coordinating fixes or enhancements. Works with developers, vendors, and users to keep applications functioning properly.",
+      "absorbs": [],
+      "replaced_from": "IT Systems Analyst"
+    },
+    {
+      "title": "Systems Support Analyst",
+      "description": "Investigates and resolves issues affecting systems, applications, and related services. Monitors incidents, documents solutions, and helps maintain stable day-to-day operations.",
+      "absorbs": [],
+      "replaced_from": "IT Systems Analyst"
+    },
+    {
+      "title": "Enterprise Systems Analyst",
+      "description": "Analyzes enterprise-wide systems and business processes to define requirements and improve system performance or integration. Works across departments to support large-scale technology solutions.",
+      "absorbs": [],
+      "replaced_from": "IT Systems Analyst"
+    },
+    {
+      "title": "Information Security Analyst",
+      "description": "Monitors and analyzes security events, vulnerabilities, and control effectiveness to protect systems and data. Supports incident response, risk identification, and security reporting.",
+      "absorbs": [
+        "Information Security Analyst"
+      ],
+      "count": 7
+    },
+    {
+      "title": "Network Engineer",
+      "description": "Designs, implements, and troubleshoots network infrastructure such as routing, switching, firewalls, and connectivity services. Works on network performance, resilience, and secure architecture changes.",
+      "absorbs": [
+        "Network Engineer",
+        "Senior Network Engineer"
+      ],
+      "count": 7
+    },
+    {
+      "title": "Cybersecurity Compliance Manager",
+      "description": "Manages activities that ensure security controls meet internal policies and external regulatory requirements. Oversees assessments, remediation tracking, and compliance reporting.",
+      "absorbs": [
+        "Cybersecurity Compliance Manager"
+      ],
+      "count": 6
+    },
+    {
+      "title": "Cybersecurity Engineer",
+      "description": "Builds and maintains technical security solutions such as endpoint protection, monitoring tools, identity controls, and network defenses. Implements security architecture and resolves complex protection issues.",
+      "absorbs": [
+        "Cybersecurity Engineer"
+      ],
+      "count": 6
+    },
+    {
+      "title": "Cybersecurity Program Manager",
+      "description": "Coordinates cybersecurity initiatives across multiple projects, teams, and stakeholders. Tracks schedules, risks, deliverables, and governance for security programs.",
+      "absorbs": [
+        "Cybersecurity Program Manager",
+        "Cybersecurity Program Director"
+      ],
+      "count": 6
+    },
+    {
+      "title": "IT Systems Manager",
+      "description": "Leads teams that administer and support core IT systems and services. Oversees maintenance, upgrades, incident response, and operational performance.",
+      "absorbs": [
+        "IT Systems Manager",
+        "IT Systems Supervisor"
+      ],
+      "count": 6
+    },
+    {
+      "title": "Information Security Analyst",
+      "description": "Monitors and analyzes security events, vulnerabilities, and control effectiveness to protect systems and data. Supports incident response, risk identification, and security reporting.",
+      "absorbs": [],
+      "replaced_from": "Information Assurance Analyst"
+    },
+    {
+      "title": "Security Compliance Analyst",
+      "description": "Evaluates whether security controls and practices meet policy, audit, and regulatory requirements. Collects evidence, identifies gaps, and tracks remediation actions.",
+      "absorbs": [],
+      "replaced_from": "Information Assurance Analyst"
+    },
+    {
+      "title": "Cybersecurity Risk Analyst",
+      "description": "Analyzes cyber threats, vulnerabilities, and control gaps to determine risk to the organization. Supports risk documentation, mitigation tracking, and reporting.",
+      "absorbs": [],
+      "replaced_from": "Information Assurance Analyst"
+    },
+    {
+      "title": "Risk and Compliance Analyst",
+      "description": "Reviews processes and controls to identify risk exposure and confirm compliance with policies or regulations. Prepares assessments, documentation, and remediation tracking for management.",
+      "absorbs": [],
+      "replaced_from": "Information Assurance Analyst"
+    },
+    {
+      "title": "Software Developer",
+      "description": "Designs, codes, tests, and maintains software applications or features. Works with users and technical teams to build and improve functionality.",
+      "absorbs": [
+        "Software Developer"
+      ],
+      "count": 6
+    },
+    {
+      "title": "Application Support Specialist",
+      "description": "Provides operational support for business applications, including troubleshooting, user assistance, and issue escalation. Helps keep applications available and usable for end users.",
+      "absorbs": [
+        "Application Support Specialist"
+      ],
+      "count": 5
+    },
+    {
+      "title": "Cybersecurity Compliance Analyst",
+      "description": "Checks security controls and documentation against policy, regulatory, and audit requirements. Supports evidence collection, gap analysis, and remediation follow-up.",
+      "absorbs": [
+        "Cybersecurity Compliance Analyst"
+      ],
+      "count": 5
+    },
+    {
+      "title": "Enterprise Applications Manager",
+      "description": "Leads support and administration for major enterprise applications such as ERP, CRM, or workflow systems. Coordinates upgrades, user support, vendor management, and system improvements.",
+      "absorbs": [
+        "Enterprise Applications Manager"
+      ],
+      "count": 5
+    },
+    {
+      "title": "Information Security Specialist",
+      "description": "Supports security operations and control implementation to protect systems and data. Assists with monitoring, documentation, awareness, and remediation of security issues.",
+      "absorbs": [],
+      "replaced_from": "Information Assurance Specialist"
+    },
+    {
+      "title": "Security Compliance Specialist",
+      "description": "Helps ensure security practices align with internal standards and external requirements. Collects evidence, tracks corrective actions, and supports audits or assessments.",
+      "absorbs": [],
+      "replaced_from": "Information Assurance Specialist"
+    },
+    {
+      "title": "Cybersecurity Specialist",
+      "description": "Performs a mix of security operations, control implementation, and issue resolution to protect systems and data. May support monitoring, hardening, awareness, or incident response tasks.",
+      "absorbs": [],
+      "replaced_from": "Information Assurance Specialist"
+    },
+    {
+      "title": "Risk and Compliance Specialist",
+      "description": "Supports risk assessments, control testing, and compliance documentation for technology or security programs. Helps track findings, remediation, and audit readiness.",
+      "absorbs": [],
+      "replaced_from": "Information Assurance Specialist"
+    },
+    {
+      "title": "Network Infrastructure Engineer",
+      "description": "Designs and supports the underlying network infrastructure, including routing, switching, firewalls, and connectivity services. Focuses on performance, resilience, and secure network operations.",
+      "absorbs": [
+        "Network Infrastructure Engineer"
+      ],
+      "count": 5
+    },
+    {
+      "title": "Network Support Specialist",
+      "description": "Provides operational support for network users and devices by troubleshooting connectivity, access, and configuration issues. Assists with routine maintenance and escalation of network problems.",
+      "absorbs": [
+        "Network Support Specialist"
+      ],
+      "count": 5
+    },
+    {
+      "title": "SharePoint Administrator",
+      "description": "Manages SharePoint sites, permissions, content structures, and platform settings. Supports site owners, resolves access issues, and performs maintenance or upgrades.",
+      "absorbs": [
+        "SharePoint Administrator"
+      ],
+      "count": 5
+    },
+    {
+      "title": "Software Development Manager",
+      "description": "Leads software development teams responsible for building and maintaining applications. Oversees delivery schedules, technical quality, staffing, and coordination with business stakeholders.",
+      "absorbs": [
+        "Software Development Manager",
+        "Software Development Lead"
+      ],
+      "count": 5
+    },
+    {
+      "title": "Systems Support Specialist",
+      "description": "Troubleshoots and resolves issues with systems, applications, and related services. Provides user support, documents fixes, and helps maintain stable operations.",
+      "absorbs": [
+        "Systems Support Specialist"
+      ],
+      "count": 5
+    },
+    {
+      "title": "Application Developer",
+      "description": "Builds and maintains software applications, features, and integrations based on user and business requirements. Writes code, tests changes, and fixes defects.",
+      "absorbs": [
+        "Application Developer"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Cloud Systems Administrator",
+      "description": "Administers cloud-based servers, services, and user access in platforms such as Azure or AWS. Handles provisioning, monitoring, patching, and troubleshooting of cloud environments.",
+      "absorbs": [
+        "Cloud Systems Administrator"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Communications Systems Manager",
+      "description": "Manages systems that support voice, messaging, conferencing, or other communications services. Oversees reliability, upgrades, vendor coordination, and user support for communications platforms.",
+      "absorbs": [
+        "Communications Systems Manager",
+        "Communications Systems Supervisor"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Cyber Defense Manager",
+      "description": "Leads teams and tools focused on detecting, analyzing, and responding to cyber threats. Oversees defensive operations, incident handling, and threat mitigation activities.",
+      "absorbs": [
+        "Cyber Defense Manager",
+        "Cyber Defense Director",
+        "Cyber Defense Lead"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Cybersecurity Compliance Specialist",
+      "description": "Supports compliance efforts by checking security controls against policies, standards, and regulations. Helps gather evidence, document findings, and track remediation tasks.",
+      "absorbs": [
+        "Cybersecurity Compliance Specialist"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Database Administrator",
+      "description": "Maintains database systems by managing performance, backups, security, availability, and recovery. Troubleshoots database issues and supports application teams with data access and tuning.",
+      "absorbs": [
+        "Database Administrator"
+      ],
+      "count": 4
+    },
+    {
+      "title": "End User Computing Specialist",
+      "description": "Supports the devices, software, and services employees use to work, such as laptops, desktops, mobile devices, and collaboration tools. Handles deployment, configuration, and troubleshooting of user endpoints.",
+      "absorbs": [
+        "End User Computing Specialist"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Enterprise Systems Manager",
+      "description": "Leads administration and support for large-scale enterprise systems and platforms. Coordinates upgrades, operations, vendor support, and service improvements across the organization.",
+      "absorbs": [
+        "Enterprise Systems Manager"
+      ],
+      "count": 4
+    },
+    {
+      "title": "IT Security Director",
+      "description": "Directs the organization\u2019s information security strategy, operations, and governance at a senior level. Oversees security teams, risk management, compliance, and executive reporting.",
+      "absorbs": [
+        "IT Security Director",
+        "IT Security Manager"
+      ],
+      "count": 4
+    },
+    {
+      "title": "IT Support Manager",
+      "description": "Manages the team that provides technical support to end users and business units. Oversees ticket queues, service levels, staffing, and escalation of complex issues.",
+      "absorbs": [
+        "IT Support Manager",
+        "IT Support Supervisor",
+        "IT Support Lead"
+      ],
+      "count": 4
+    },
+    {
+      "title": "IT Systems Support Specialist",
+      "description": "Provides technical support for systems, applications, and user access issues. Troubleshoots incidents, performs routine maintenance, and escalates problems when needed.",
+      "absorbs": [
+        "IT Systems Support Specialist"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Information Security Manager",
+      "description": "Leads a team or function responsible for protecting systems and data through security controls, monitoring, and incident response. Oversees security policies, risk reduction efforts, and compliance activities.",
+      "absorbs": [],
+      "replaced_from": "Information Assurance Manager"
+    },
+    {
+      "title": "Security Compliance Manager",
+      "description": "Manages programs that ensure security controls meet policy, audit, and regulatory requirements. Oversees assessments, remediation, and compliance reporting.",
+      "absorbs": [],
+      "replaced_from": "Information Assurance Manager"
+    },
+    {
+      "title": "Cybersecurity Manager",
+      "description": "Manages cybersecurity operations, controls, and staff responsible for protecting systems and data. Oversees threat response, security tooling, and implementation of security requirements.",
+      "absorbs": [],
+      "replaced_from": "Information Assurance Manager"
+    },
+    {
+      "title": "Risk and Compliance Manager",
+      "description": "Leads risk and compliance activities, including assessments, control testing, and remediation tracking. Ensures technology or security practices align with policy and regulatory expectations.",
+      "absorbs": [],
+      "replaced_from": "Information Assurance Manager"
+    },
+    {
+      "title": "Information Security Specialist",
+      "description": "Supports security operations and control implementation to protect systems and data. Assists with monitoring, documentation, awareness, and remediation of security issues.",
+      "absorbs": [
+        "Information Security Specialist"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Information Systems Manager",
+      "description": "Oversees teams and services that support business information systems and related technology operations. Manages priorities, maintenance, upgrades, and user support for systems in use.",
+      "absorbs": [
+        "Information Systems Manager"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Linux Systems Administrator",
+      "description": "Administers Linux servers and related services, including user accounts, patching, monitoring, and troubleshooting. Maintains system availability and supports application hosting environments.",
+      "absorbs": [
+        "Linux Systems Administrator"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Litigation Support Specialist",
+      "description": "Supports legal teams with technology used for e-discovery, document management, and case preparation. Organizes data, manages review tools, and helps troubleshoot litigation support systems.",
+      "absorbs": [
+        "Litigation Support Specialist"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Network Security Administrator",
+      "description": "Configures and maintains security controls on network devices and services such as firewalls, VPNs, and access rules. Monitors network security, investigates issues, and applies protective changes.",
+      "absorbs": [
+        "Network Security Administrator"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Network Security Analyst",
+      "description": "Monitors network traffic and security alerts to identify threats, anomalies, and policy violations. Supports incident response, log analysis, and network security reporting.",
+      "absorbs": [
+        "Network Security Analyst"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Network Security Engineer",
+      "description": "Designs and implements secure network solutions such as firewalls, segmentation, VPNs, and intrusion prevention. Troubleshoots complex security issues and improves network defenses.",
+      "absorbs": [
+        "Network Security Engineer"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Server Administrator",
+      "description": "Maintains physical and virtual servers, including patching, backups, monitoring, and account administration. Troubleshoots server issues and supports availability of hosted services.",
+      "absorbs": [
+        "Server Administrator"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Software Engineer",
+      "description": "Designs, develops, tests, and maintains software systems using engineering practices. Works on application architecture, code quality, debugging, and integration with other systems.",
+      "absorbs": [
+        "Software Engineer",
+        "Senior Software Engineer",
+        "Lead Software Engineer"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Systems Engineer",
+      "description": "Designs, integrates, and supports complex IT systems across servers, networks, storage, and applications. Focuses on reliability, performance, interoperability, and technical problem solving.",
+      "absorbs": [
+        "Systems Engineer"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Systems Integration Manager",
+      "description": "Leads efforts to connect and coordinate multiple systems, applications, and data flows. Oversees integration projects, technical standards, and cross-team implementation work.",
+      "absorbs": [
+        "Systems Integration Manager"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Technical Project Manager",
+      "description": "Manages technical projects by coordinating schedules, resources, risks, and deliverables. Works closely with engineers and stakeholders to deliver technology solutions on time.",
+      "absorbs": [
+        "Technical Project Manager"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Technical Support Specialist",
+      "description": "Provides troubleshooting and user support for hardware, software, and connectivity issues. Resolves routine technical problems and escalates more complex incidents.",
+      "absorbs": [
+        "Technical Support Specialist"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Technical Support Supervisor",
+      "description": "Supervises technical support staff and oversees daily service desk or support operations. Manages workloads, escalations, service quality, and team performance.",
+      "absorbs": [
+        "Technical Support Supervisor",
+        "Technical Support Lead",
+        "Technical Support Manager"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Unified Communications Engineer",
+      "description": "Designs, implements, and supports voice, video, messaging, and collaboration platforms. Troubleshoots communications systems and ensures reliable service for users.",
+      "absorbs": [
+        "Unified Communications Engineer"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Application Support Analyst",
+      "description": "Supports business applications by troubleshooting user issues, monitoring application health, and coordinating fixes or enhancements. Works with developers, vendors, and users to keep applications functioning properly.",
+      "absorbs": [
+        "Application Support Analyst"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Cloud Security Architect",
+      "description": "Designs secure cloud environments, controls, and architectures for applications and infrastructure. Defines security patterns for identity, network, data protection, and monitoring in cloud platforms.",
+      "absorbs": [
+        "Cloud Security Architect"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Communications Systems Technician",
+      "description": "Installs, maintains, and troubleshoots communications equipment and services such as phones, conferencing, and related hardware. Performs routine repairs, configuration, and user support.",
+      "absorbs": [
+        "Communications Systems Technician"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Cyber Risk Manager",
+      "description": "Leads assessment and management of cyber risks across systems, data, and operations. Oversees risk analysis, mitigation planning, and reporting to leadership.",
+      "absorbs": [
+        "Cyber Risk Manager"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Cybersecurity Architect",
+      "description": "Designs the overall security architecture for systems, networks, applications, and cloud environments. Defines security standards, control patterns, and technical requirements for secure solutions.",
+      "absorbs": [
+        "Cybersecurity Architect"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Cybersecurity Assessor",
+      "description": "Evaluates security controls, systems, and processes to determine whether they meet required standards. Performs assessments, documents findings, and recommends corrective actions.",
+      "absorbs": [
+        "Cybersecurity Assessor",
+        "Lead Cybersecurity Assessor"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Cybersecurity Project Manager",
+      "description": "Manages cybersecurity projects such as tool deployments, control implementations, or remediation efforts. Coordinates schedules, stakeholders, risks, and deliverables for security initiatives.",
+      "absorbs": [
+        "Cybersecurity Project Manager"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Cybersecurity Risk Analyst",
+      "description": "Analyzes cyber threats, vulnerabilities, and control gaps to determine risk to the organization. Supports risk documentation, mitigation tracking, and reporting.",
+      "absorbs": [
+        "Cybersecurity Risk Analyst"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Enterprise Architect",
+      "description": "Defines the organization\u2019s high-level technology architecture across business capabilities, applications, data, infrastructure, and security. Aligns technology standards and roadmaps with enterprise strategy.",
+      "absorbs": [
+        "Enterprise Architect"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Enterprise IT Director",
+      "description": "Directs enterprise-wide IT services, strategy, and major operational functions. Oversees managers, budgets, priorities, and alignment of technology with organizational goals.",
+      "absorbs": [
+        "Enterprise IT Director",
+        "Enterprise IT Manager"
+      ],
+      "count": 3
+    },
+    {
+      "title": "IT Acquisition Manager",
+      "description": "Manages the acquisition of IT products and services, including requirements, vendor coordination, and procurement support. Ensures purchases meet technical, budget, and policy needs.",
+      "absorbs": [
+        "IT Acquisition Manager"
+      ],
+      "count": 3
+    },
+    {
+      "title": "IT Asset Manager",
+      "description": "Tracks the lifecycle of IT hardware, software, and licenses from purchase through retirement. Manages inventory, compliance, renewals, and asset reporting.",
+      "absorbs": [
+        "IT Asset Manager"
+      ],
+      "count": 3
+    },
+    {
+      "title": "IT Director",
+      "description": "Directs IT strategy, operations, staffing, and major technology initiatives for an organization or division. Oversees budgets, service delivery, and alignment with business goals.",
+      "absorbs": [
+        "IT Director",
+        "IT Manager"
+      ],
+      "count": 3
+    },
+    {
+      "title": "IT Infrastructure Specialist",
+      "description": "Supports servers, networks, storage, cloud, and other foundational technology components. Performs maintenance, troubleshooting, and operational tasks to keep infrastructure reliable.",
+      "absorbs": [
+        "IT Infrastructure Specialist"
+      ],
+      "count": 3
+    },
+    {
+      "title": "IT Policy Manager",
+      "description": "Develops and manages IT policies, standards, and governance processes. Ensures technology practices align with organizational rules, risk requirements, and compliance needs.",
+      "absorbs": [
+        "IT Policy Manager"
+      ],
+      "count": 3
+    },
+    {
+      "title": "IT Service Delivery Manager",
+      "description": "Oversees delivery of IT services to users and business units, focusing on service levels, customer satisfaction, and operational performance. Coordinates support teams, incident resolution, and continuous improvement.",
+      "absorbs": [
+        "IT Service Delivery Manager"
+      ],
+      "count": 3
+    },
+    {
+      "title": "IT Systems Architect",
+      "description": "Designs the structure and integration of IT systems, platforms, and services. Defines technical standards and solution patterns to meet business and operational requirements.",
+      "absorbs": [
+        "IT Systems Architect"
+      ],
+      "count": 3
+    },
+    {
+      "title": "IT Systems Engineer",
+      "description": "Builds, configures, and supports systems infrastructure and related services. Works on implementation, troubleshooting, automation, and performance improvements.",
+      "absorbs": [
+        "IT Systems Engineer"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Infrastructure Support Engineer",
+      "description": "Supports servers, storage, networks, and other infrastructure components through monitoring, troubleshooting, and maintenance. Resolves operational issues and assists with upgrades or changes.",
+      "absorbs": [
+        "Infrastructure Support Engineer"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Network Administrator",
+      "description": "Configures and maintains network devices and services such as routers, switches, firewalls, and VPNs. Monitors network health, troubleshoots outages, and applies changes to keep connectivity stable.",
+      "absorbs": [],
+      "replaced_from": "LAN/WAN Administrator"
+    },
+    {
+      "title": "Network Support Specialist",
+      "description": "Provides operational support for network users and devices by troubleshooting connectivity, access, and configuration issues. Assists with routine maintenance and escalation of network problems.",
+      "absorbs": [],
+      "replaced_from": "LAN/WAN Administrator"
+    },
+    {
+      "title": "Network Operations Administrator",
+      "description": "Monitors and maintains network infrastructure to ensure availability and performance. Handles routine changes, incident response, and operational troubleshooting.",
+      "absorbs": [],
+      "replaced_from": "LAN/WAN Administrator"
+    },
+    {
+      "title": "Network Infrastructure Administrator",
+      "description": "Administers core network infrastructure including routing, switching, firewalls, and related services. Performs maintenance, monitoring, and troubleshooting to keep the network stable.",
+      "absorbs": [],
+      "replaced_from": "LAN/WAN Administrator"
+    },
+    {
+      "title": "Legal Technology Specialist",
+      "description": "Supports legal staff with technology tools for document management, e-discovery, case preparation, and litigation workflows. Troubleshoots legal software and helps manage case-related data systems.",
+      "absorbs": [
+        "Legal Technology Specialist"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Network Operations Engineer",
+      "description": "Engineers and supports network operations processes, monitoring, and infrastructure changes. Troubleshoots complex network issues and improves reliability and performance.",
+      "absorbs": [
+        "Network Operations Engineer"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Network Support Technician",
+      "description": "Provides hands-on support for network equipment, cabling, and connectivity issues. Assists with installations, repairs, and basic troubleshooting of network problems.",
+      "absorbs": [
+        "Network Support Technician"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Network Systems Engineer",
+      "description": "Designs, implements, and supports networked systems and infrastructure components. Focuses on integration, performance, security, and troubleshooting across the network environment.",
+      "absorbs": [
+        "Network Systems Engineer"
+      ],
+      "count": 3
+    },
+    {
+      "title": "SharePoint Developer",
+      "description": "Builds and customizes SharePoint sites, workflows, forms, and integrations. Develops solutions that improve collaboration, document management, and business processes.",
+      "absorbs": [
+        "SharePoint Developer"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Systems Engineering Manager",
+      "description": "Leads systems engineering teams responsible for designing, integrating, and supporting complex IT environments. Oversees technical planning, project execution, and operational improvements.",
+      "absorbs": [
+        "Systems Engineering Manager"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Systems Security Administrator",
+      "description": "Administers security settings and controls on systems, servers, and user accounts. Manages access, patching, hardening, and routine security maintenance.",
+      "absorbs": [
+        "Systems Security Administrator"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Systems Support Analyst",
+      "description": "Investigates and resolves issues affecting systems, applications, and related services. Monitors incidents, documents solutions, and helps maintain stable day-to-day operations.",
+      "absorbs": [
+        "Systems Support Analyst"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Technical Support Analyst",
+      "description": "Analyzes and resolves technical issues reported by users or detected in systems. Provides troubleshooting, documentation, and escalation support for hardware, software, and connectivity problems.",
+      "absorbs": [
+        "Technical Support Analyst"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Vulnerability Management Analyst",
+      "description": "Identifies, tracks, and prioritizes vulnerabilities across systems and applications. Coordinates scanning, remediation follow-up, and reporting on risk reduction efforts.",
+      "absorbs": [
+        "Vulnerability Management Analyst"
+      ],
+      "count": 3
+    },
+    {
+      "title": "AI Solutions Architect",
+      "description": "Designs AI-enabled solutions and the technical architecture needed to deploy them securely and effectively. Works on model integration, data flow, platform selection, and implementation standards.",
+      "absorbs": [
+        "AI Solutions Architect"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Analytics Engineer",
+      "description": "Builds and maintains data models, pipelines, and transformation layers used for reporting and analytics. Ensures data is reliable, well-structured, and ready for business intelligence use.",
+      "absorbs": [
+        "Analytics Engineer"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Application Development Supervisor",
+      "description": "Supervises developers who build and maintain software applications. Coordinates work assignments, code quality, delivery timelines, and technical problem resolution.",
+      "absorbs": [
+        "Application Development Supervisor",
+        "Application Development Director"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Application Support Manager",
+      "description": "Manages teams that support business applications and resolve user issues. Oversees incident handling, vendor coordination, upgrades, and service quality.",
+      "absorbs": [
+        "Application Support Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Business Systems Analyst",
+      "description": "Analyzes business needs and translates them into system requirements, process improvements, and functional specifications. Works with users and technical teams to support application changes and enhancements.",
+      "absorbs": [
+        "Business Systems Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Chief Information Officer",
+      "description": "Sets overall technology strategy and leads the organization\u2019s IT function at the executive level. Oversees budgets, governance, service delivery, and alignment of technology with mission goals.",
+      "absorbs": [
+        "Chief Information Officer"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Cloud Security Manager",
+      "description": "Leads security efforts for cloud environments, including controls, monitoring, and risk management. Oversees cloud security policies, incident response, and compliance requirements.",
+      "absorbs": [
+        "Cloud Security Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Cloud Solutions Architect",
+      "description": "Designs cloud-based technology solutions that meet business, security, and performance requirements. Selects services, defines architecture, and guides implementation in cloud platforms.",
+      "absorbs": [
+        "Cloud Solutions Architect"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Computer Systems Technician",
+      "description": "Installs, maintains, and repairs computer hardware, peripherals, and basic software configurations. Provides hands-on support for device setup and troubleshooting.",
+      "absorbs": [
+        "Computer Systems Technician"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Customer Support Manager",
+      "description": "Manages customer-facing support operations and staff who handle service requests and issue resolution. Tracks service levels, escalations, and customer satisfaction.",
+      "absorbs": [
+        "Customer Support Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Cyber Operations Manager",
+      "description": "Leads operational cyber teams that monitor, detect, and respond to threats. Oversees incident handling, defensive tooling, and operational readiness.",
+      "absorbs": [
+        "Cyber Operations Manager",
+        "Cyber Operations Director"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Cyber Threat Analyst",
+      "description": "Researches and analyzes threat intelligence, attacker behavior, and indicators of compromise. Supports detection, incident response, and threat reporting.",
+      "absorbs": [
+        "Cyber Threat Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Cybersecurity Operations Manager",
+      "description": "Manages day-to-day cybersecurity operations such as monitoring, alert triage, and incident response. Coordinates staff, tools, and procedures to protect systems and data.",
+      "absorbs": [
+        "Cybersecurity Operations Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Cybersecurity Policy Manager",
+      "description": "Develops and manages cybersecurity policies, standards, and governance processes. Ensures security requirements are documented, communicated, and aligned with organizational risk needs.",
+      "absorbs": [
+        "Cybersecurity Policy Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Cybersecurity Systems Administrator",
+      "description": "Administers security-related systems and tools such as endpoint protection, logging, identity, and monitoring platforms. Performs configuration, maintenance, and troubleshooting of security technologies.",
+      "absorbs": [
+        "Cybersecurity Systems Administrator"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Cybersecurity Systems Engineer",
+      "description": "Designs and supports technical security systems and integrations across the enterprise. Implements security tooling, automation, and architecture improvements to strengthen defenses.",
+      "absorbs": [
+        "Cybersecurity Systems Engineer"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Cybersecurity Team Lead",
+      "description": "Coordinates the work of cybersecurity staff and helps prioritize daily security tasks. Provides technical guidance, handles escalations, and supports team execution of security operations.",
+      "absorbs": [
+        "Cybersecurity Team Lead"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Data Architect",
+      "description": "Designs the structure, standards, and integration patterns for enterprise data systems. Defines how data is stored, moved, governed, and used across applications and analytics.",
+      "absorbs": [
+        "Data Architect"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Data Integration Manager",
+      "description": "Leads teams that connect data sources, pipelines, and platforms across the organization. Oversees integration design, data quality, and delivery of reliable data flows.",
+      "absorbs": [
+        "Data Integration Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Data Management Specialist",
+      "description": "Maintains data quality, definitions, governance, and lifecycle practices across systems. Supports data standards, documentation, and stewardship activities.",
+      "absorbs": [
+        "Data Management Specialist"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Data Systems Manager",
+      "description": "Manages systems and teams responsible for storing, processing, and delivering data. Oversees operations, maintenance, and improvements to data platforms and services.",
+      "absorbs": [
+        "Data Systems Manager",
+        "Data Systems Director"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Database Systems Administrator",
+      "description": "Administers database platforms by managing performance, backups, security, and availability. Troubleshoots database issues and supports application and reporting needs.",
+      "absorbs": [
+        "Database Systems Administrator"
+      ],
+      "count": 2
+    },
+    {
+      "title": "DevOps Engineer",
+      "description": "Builds automation and deployment pipelines that connect development and operations work. Supports infrastructure as code, continuous integration, monitoring, and release reliability.",
+      "absorbs": [
+        "DevOps Engineer"
+      ],
+      "count": 2
+    },
+    {
+      "title": "End User Computing Manager",
+      "description": "Leads support for employee devices, desktop platforms, collaboration tools, and endpoint services. Oversees deployments, standards, troubleshooting, and user experience improvements.",
+      "absorbs": [
+        "End User Computing Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Enterprise Applications Analyst",
+      "description": "Analyzes enterprise application needs, workflows, and system behavior to support improvements and issue resolution. Works with users, vendors, and technical teams on enhancements and troubleshooting.",
+      "absorbs": [
+        "Enterprise Applications Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Enterprise Network Engineer",
+      "description": "Designs and supports large-scale network infrastructure across the enterprise. Focuses on routing, switching, security, performance, and high availability.",
+      "absorbs": [
+        "Enterprise Network Engineer"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Firewall Administrator",
+      "description": "Configures and maintains firewall rules, policies, and related security settings. Monitors traffic, troubleshoots access issues, and supports network protection efforts.",
+      "absorbs": [
+        "Firewall Administrator"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Full Stack Developer",
+      "description": "Builds both front-end and back-end parts of web or software applications. Writes code, tests features, and integrates user interfaces with server-side logic and data services.",
+      "absorbs": [
+        "Full Stack Developer"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Help Desk Technician",
+      "description": "Provides first-line technical support for users with hardware, software, account, and connectivity issues. Logs tickets, resolves common problems, and escalates more complex cases.",
+      "absorbs": [
+        "Help Desk Technician"
+      ],
+      "count": 2
+    },
+    {
+      "title": "IT Asset Manager",
+      "description": "Tracks the lifecycle of IT hardware, software, and licenses from purchase through retirement. Manages inventory, compliance, renewals, and asset reporting.",
+      "absorbs": [],
+      "replaced_from": "IT Asset Management Manager"
+    },
+    {
+      "title": "IT Asset Management Specialist",
+      "description": "Maintains records and processes for IT hardware, software, and license assets. Supports inventory tracking, audits, assignments, and disposal or replacement workflows.",
+      "absorbs": [],
+      "replaced_from": "IT Asset Management Manager"
+    },
+    {
+      "title": "Technology Asset Manager",
+      "description": "Oversees the inventory, lifecycle, and compliance of technology assets across the organization. Coordinates procurement, tracking, renewals, and retirement of equipment and software.",
+      "absorbs": [],
+      "replaced_from": "IT Asset Management Manager"
+    },
+    {
+      "title": "Hardware Asset Manager",
+      "description": "Manages the lifecycle of physical IT equipment such as laptops, servers, and peripherals. Tracks inventory, assignments, maintenance, and disposal or replacement.",
+      "absorbs": [],
+      "replaced_from": "IT Asset Management Manager"
+    },
+    {
+      "title": "IT Customer Support Director",
+      "description": "Directs customer-facing IT support operations and service delivery. Oversees support teams, service levels, escalation handling, and user satisfaction initiatives.",
+      "absorbs": [
+        "IT Customer Support Director",
+        "IT Customer Support Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "IT Hardware Deployment Specialist",
+      "description": "Prepares, configures, and deploys computers and other hardware to users or sites. Handles imaging, installation, asset tagging, and setup of standard equipment.",
+      "absorbs": [
+        "IT Hardware Deployment Specialist"
+      ],
+      "count": 2
+    },
+    {
+      "title": "IT Hardware Support Specialist",
+      "description": "Troubleshoots and repairs IT hardware such as desktops, laptops, printers, and peripherals. Performs maintenance, replacement, and hands-on device support.",
+      "absorbs": [
+        "IT Hardware Support Specialist"
+      ],
+      "count": 2
+    },
+    {
+      "title": "IT Policy Analyst",
+      "description": "Researches, drafts, and evaluates IT policies, standards, and governance documents. Helps ensure technology practices align with organizational rules and compliance needs.",
+      "absorbs": [
+        "IT Policy Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "IT Portfolio Manager",
+      "description": "Manages the collection of IT projects and initiatives to align investments with strategic priorities. Evaluates demand, resource allocation, risks, and performance across the portfolio.",
+      "absorbs": [
+        "IT Portfolio Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "IT Project Coordinator",
+      "description": "Supports IT project managers by tracking tasks, schedules, documentation, and communications. Helps keep projects organized and moving by coordinating meetings, updates, and follow-up actions.",
+      "absorbs": [
+        "IT Project Coordinator"
+      ],
+      "count": 2
+    },
+    {
+      "title": "IT Security Compliance Analyst",
+      "description": "Assesses whether IT security controls meet policy, audit, and regulatory requirements. Collects evidence, documents gaps, and tracks remediation efforts.",
+      "absorbs": [
+        "IT Security Compliance Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "IT Service Desk Lead",
+      "description": "Leads service desk staff who handle user incidents and requests. Manages ticket flow, escalations, service quality, and day-to-day support operations.",
+      "absorbs": [
+        "IT Service Desk Lead",
+        "IT Service Desk Supervisor"
+      ],
+      "count": 2
+    },
+    {
+      "title": "IT Support Technician",
+      "description": "Provides hands-on technical support for users, devices, and common software or connectivity issues. Installs equipment, resolves routine problems, and escalates complex incidents.",
+      "absorbs": [
+        "IT Support Technician"
+      ],
+      "count": 2
+    },
+    {
+      "title": "IT Team Lead",
+      "description": "Coordinates the work of an IT support or operations team and provides technical guidance. Assigns tasks, handles escalations, and helps ensure service delivery targets are met.",
+      "absorbs": [
+        "IT Team Lead",
+        "IT Team Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Identity and Access Management Specialist",
+      "description": "Manages user identities, access requests, and account provisioning across systems and applications. Supports access controls, role assignments, and identity lifecycle processes.",
+      "absorbs": [],
+      "replaced_from": "Identity Access Management Specialist"
+    },
+    {
+      "title": "Access Management Specialist",
+      "description": "Processes and maintains user access to systems, applications, and data based on approved requests and policies. Reviews permissions, resolves access issues, and supports access controls.",
+      "absorbs": [],
+      "replaced_from": "Identity Access Management Specialist"
+    },
+    {
+      "title": "Identity Governance Specialist",
+      "description": "Supports governance processes for user identities, roles, and access reviews. Helps ensure access is appropriate, documented, and periodically certified.",
+      "absorbs": [],
+      "replaced_from": "Identity Access Management Specialist"
+    },
+    {
+      "title": "Privileged Access Management Specialist",
+      "description": "Manages elevated accounts and privileged access controls for sensitive systems. Configures vaulting, approvals, monitoring, and periodic review of high-risk access.",
+      "absorbs": [],
+      "replaced_from": "Identity Access Management Specialist"
+    },
+    {
+      "title": "Identity Governance Analyst",
+      "description": "Analyzes identity and access data to support governance, certification, and compliance activities. Reviews roles, permissions, and access exceptions for risk and policy alignment.",
+      "absorbs": [
+        "Identity Governance Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Information Security Administrator",
+      "description": "Administers security tools, settings, and user access to protect systems and data. Performs routine maintenance, monitoring, and troubleshooting of security controls.",
+      "absorbs": [
+        "Information Security Administrator"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Information Security Architect",
+      "description": "Designs security architecture and standards for systems, applications, networks, and cloud environments. Defines control requirements and secure design patterns for technology solutions.",
+      "absorbs": [
+        "Information Security Architect"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Information Security Auditor",
+      "description": "Evaluates security controls, processes, and evidence to determine compliance with standards and requirements. Documents findings, risks, and recommendations for remediation.",
+      "absorbs": [
+        "Information Security Auditor"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Information Security Officer",
+      "description": "Oversees information security governance, policy implementation, and risk management for an organization or program. Coordinates security initiatives, compliance, and incident response oversight.",
+      "absorbs": [],
+      "replaced_from": "Information Systems Security Officer"
+    },
+    {
+      "title": "Security Compliance Officer",
+      "description": "Ensures security practices and controls meet policy, regulatory, and audit requirements. Oversees assessments, documentation, and corrective action tracking.",
+      "absorbs": [],
+      "replaced_from": "Information Systems Security Officer"
+    },
+    {
+      "title": "Cybersecurity Compliance Manager",
+      "description": "Manages activities that ensure security controls meet internal policies and external regulatory requirements. Oversees assessments, remediation tracking, and compliance reporting.",
+      "absorbs": [],
+      "replaced_from": "Information Systems Security Officer"
+    },
+    {
+      "title": "Information Security Manager",
+      "description": "Leads a team or function responsible for protecting systems and data through security controls, monitoring, and incident response. Oversees security policies, risk reduction efforts, and compliance activities.",
+      "absorbs": [],
+      "replaced_from": "Information Systems Security Officer"
+    },
+    {
+      "title": "Information Security Specialist",
+      "description": "Supports security operations and control implementation to protect systems and data. Assists with monitoring, documentation, awareness, and remediation of security issues.",
+      "absorbs": [],
+      "replaced_from": "Information Systems Security Specialist"
+    },
+    {
+      "title": "Cybersecurity Specialist",
+      "description": "Performs a mix of security operations, control implementation, and issue resolution to protect systems and data. May support monitoring, hardening, awareness, or incident response tasks.",
+      "absorbs": [],
+      "replaced_from": "Information Systems Security Specialist"
+    },
+    {
+      "title": "Security Compliance Specialist",
+      "description": "Helps ensure security practices align with internal standards and external requirements. Collects evidence, tracks corrective actions, and supports audits or assessments.",
+      "absorbs": [],
+      "replaced_from": "Information Systems Security Specialist"
+    },
+    {
+      "title": "Systems Security Specialist",
+      "description": "Supports the security of servers, operating systems, and related infrastructure through hardening, monitoring, and access control. Helps investigate issues and maintain secure configurations.",
+      "absorbs": [],
+      "replaced_from": "Information Systems Security Specialist"
+    },
+    {
+      "title": "Infrastructure Systems Administrator",
+      "description": "Maintains core infrastructure systems such as servers, storage, virtualization, and related services. Handles monitoring, patching, troubleshooting, and routine operational support.",
+      "absorbs": [
+        "Infrastructure Systems Administrator"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Infrastructure Systems Engineer",
+      "description": "Designs, implements, and supports infrastructure systems across servers, storage, virtualization, and cloud components. Focuses on reliability, scalability, and technical problem solving.",
+      "absorbs": [
+        "Infrastructure Systems Engineer"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "description": "Builds and deploys machine learning models and the pipelines that support them. Works on data preparation, model integration, performance tuning, and production reliability.",
+      "absorbs": [
+        "Machine Learning Engineer"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Network Architect",
+      "description": "Designs the overall structure of enterprise networks, including segmentation, routing, security, and resilience. Sets standards and roadmaps for network technology and evolution.",
+      "absorbs": [
+        "Network Architect"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Network Infrastructure Manager",
+      "description": "Leads teams responsible for network infrastructure operations, upgrades, and reliability. Oversees performance, maintenance, security, and vendor coordination.",
+      "absorbs": [
+        "Network Infrastructure Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Network Operations Specialist",
+      "description": "Monitors and supports network services to keep connectivity stable and available. Handles routine troubleshooting, incident response, and operational maintenance.",
+      "absorbs": [
+        "Network Operations Specialist"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Network Security Specialist",
+      "description": "Supports the protection of network environments through monitoring, configuration, and troubleshooting of security controls. Assists with firewall rules, access issues, and threat detection.",
+      "absorbs": [
+        "Network Security Specialist"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Network Systems Technician",
+      "description": "Installs, maintains, and troubleshoots network hardware, cabling, and connectivity issues. Provides hands-on support for network equipment and basic repairs.",
+      "absorbs": [
+        "Network Systems Technician"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Oracle Database Administrator",
+      "description": "Administers Oracle database environments by managing performance, backups, security, and recovery. Troubleshoots database issues and supports application teams with data access and tuning.",
+      "absorbs": [
+        "Oracle Database Administrator"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Power Platform Developer",
+      "description": "Builds business applications, workflows, and automations using Microsoft Power Platform tools. Creates solutions with Power Apps, Power Automate, and related services.",
+      "absorbs": [
+        "Power Platform Developer"
+      ],
+      "count": 2
+    },
+    {
+      "title": "SQL Server Database Administrator",
+      "description": "Maintains SQL Server databases by handling backups, performance tuning, security, and recovery. Supports application teams and resolves database-related issues.",
+      "absorbs": [
+        "SQL Server Database Administrator"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Security Compliance Analyst",
+      "description": "Evaluates whether security controls and practices meet policy, audit, and regulatory requirements. Collects evidence, identifies gaps, and tracks remediation actions.",
+      "absorbs": [
+        "Security Compliance Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Security Operations Lead",
+      "description": "Leads day-to-day security operations such as alert triage, monitoring, and incident response. Coordinates analysts, tools, and procedures to detect and respond to threats.",
+      "absorbs": [
+        "Security Operations Lead",
+        "Security Operations Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Identity and Access Management Engineer",
+      "description": "Designs and implements identity and access management solutions such as provisioning, authentication, and access controls. Integrates IAM tools with enterprise systems and automates access processes.",
+      "absorbs": [],
+      "replaced_from": "Single Sign-On Engineer"
+    },
+    {
+      "title": "Access Management Engineer",
+      "description": "Builds and supports technical access control solutions for user provisioning, permissions, and authentication. Works on integrations, automation, and troubleshooting access systems.",
+      "absorbs": [],
+      "replaced_from": "Single Sign-On Engineer"
+    },
+    {
+      "title": "Authentication Engineer",
+      "description": "Designs and maintains authentication systems such as single sign-on, multi-factor authentication, and federation. Ensures secure and reliable user sign-in across applications.",
+      "absorbs": [],
+      "replaced_from": "Single Sign-On Engineer"
+    },
+    {
+      "title": "Identity Security Engineer",
+      "description": "Implements technical controls that protect identities, credentials, and access pathways. Works on authentication, privileged access, and identity-related security integrations.",
+      "absorbs": [],
+      "replaced_from": "Single Sign-On Engineer"
+    },
+    {
+      "title": "Software Test Manager",
+      "description": "Leads testing efforts to verify software quality, functionality, and reliability. Oversees test planning, defect tracking, automation, and coordination with development teams.",
+      "absorbs": [
+        "Software Test Manager",
+        "Software Test Lead"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Systems Administration Supervisor",
+      "description": "Supervises systems administrators and oversees routine server and infrastructure operations. Assigns work, manages escalations, and ensures maintenance tasks are completed.",
+      "absorbs": [
+        "Systems Administration Supervisor",
+        "Systems Administration Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Systems Integration Specialist",
+      "description": "Connects systems, applications, and data sources so they work together reliably. Builds interfaces, resolves integration issues, and supports data flow between platforms.",
+      "absorbs": [
+        "Systems Integration Specialist"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Systems Requirements Analyst",
+      "description": "Gathers and documents technical and business requirements for systems and application changes. Works with stakeholders and engineers to define what the solution must do.",
+      "absorbs": [
+        "Systems Requirements Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Systems Security Engineer",
+      "description": "Designs and implements security controls for systems, servers, and infrastructure. Focuses on hardening, monitoring, access control, and technical risk reduction.",
+      "absorbs": [
+        "Systems Security Engineer"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Systems Support Manager",
+      "description": "Manages teams that support systems, applications, and infrastructure operations. Oversees incident response, service quality, staffing, and escalation handling.",
+      "absorbs": [
+        "Systems Support Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Technical Operations Manager",
+      "description": "Oversees technical operations that keep IT services and infrastructure running smoothly. Manages daily support, maintenance, performance, and operational improvements.",
+      "absorbs": [
+        "Technical Operations Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Technology Program Manager",
+      "description": "Manages a set of related technology projects and initiatives as a coordinated program. Tracks dependencies, budgets, risks, and stakeholder communication across teams.",
+      "absorbs": [
+        "Technology Program Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Technology Support Director",
+      "description": "Directs technology support services across help desk, desktop, and operational support teams. Oversees service levels, staffing, escalation management, and customer experience.",
+      "absorbs": [
+        "Technology Support Director",
+        "Technology Support Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Voice Network Engineer",
+      "description": "Designs and supports voice communications networks such as VoIP and telephony systems. Troubleshoots call quality, routing, configuration, and integration issues.",
+      "absorbs": [
+        "Voice Network Engineer"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Web Applications Developer",
+      "description": "Builds and maintains web-based applications, user interfaces, and supporting server-side logic. Writes code, tests features, and fixes defects in browser-accessed systems.",
+      "absorbs": [
+        "Web Applications Developer"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Windows Server Administrator",
+      "description": "Administers Windows Server environments, including patching, Active Directory, backups, and monitoring. Troubleshoots server and service issues to keep Microsoft infrastructure available.",
+      "absorbs": [
+        "Windows Server Administrator"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Windows Systems Engineer",
+      "description": "Designs, implements, and supports Windows-based infrastructure and services. Works on server architecture, automation, troubleshooting, and performance improvements.",
+      "absorbs": [
+        "Windows Systems Engineer"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Wireless Network Engineer",
+      "description": "Designs, deploys, and troubleshoots wireless network infrastructure and access points. Focuses on coverage, performance, security, and connectivity for mobile users.",
+      "absorbs": [
+        "Wireless Network Engineer"
+      ],
+      "count": 2
+    }
+  ]
+}

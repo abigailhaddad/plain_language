@@ -1,0 +1,214 @@
+{
+  "series": "1530",
+  "total_postings": 66,
+  "from_list": 65,
+  "proposed_new": 1,
+  "errors": 0,
+  "mean_fit_score": 4.56,
+  "median_fit_score": 5.0,
+  "coverage_by_threshold": {
+    "1": 66,
+    "2": 66,
+    "3": 65,
+    "4": 65,
+    "5": 39
+  },
+  "fit_distribution": {
+    "1": 0,
+    "2": 1,
+    "3": 0,
+    "4": 26,
+    "5": 39
+  },
+  "title_stats": [
+    {
+      "title": "Biostatistical Programmer",
+      "count": 3,
+      "pct": 4.545454545454546,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 3
+      }
+    },
+    {
+      "title": "Data Analyst",
+      "count": 2,
+      "pct": 3.0303030303030303,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 2
+      }
+    },
+    {
+      "title": "Data Analytics Specialist",
+      "count": 2,
+      "pct": 3.0303030303030303,
+      "avg_fit": 3.0,
+      "source": "list",
+      "fit_dist": {
+        "2": 1,
+        "4": 1
+      }
+    },
+    {
+      "title": "Data Engineering Manager",
+      "count": 2,
+      "pct": 3.0303030303030303,
+      "avg_fit": 4.5,
+      "source": "list",
+      "fit_dist": {
+        "5": 1,
+        "4": 1
+      }
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "pct": 1.5151515151515151,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 1
+      }
+    },
+    {
+      "title": "Economic Data Analyst",
+      "count": 2,
+      "pct": 3.0303030303030303,
+      "avg_fit": 4.5,
+      "source": "list",
+      "fit_dist": {
+        "5": 1,
+        "4": 1
+      }
+    },
+    {
+      "title": "Labor Statistics Director",
+      "count": 2,
+      "pct": 3.0303030303030303,
+      "avg_fit": 4.5,
+      "source": "list",
+      "fit_dist": {
+        "5": 1,
+        "4": 1
+      }
+    },
+    {
+      "title": "Medical Research Statistician",
+      "count": 5,
+      "pct": 7.575757575757576,
+      "avg_fit": 4.8,
+      "source": "list",
+      "fit_dist": {
+        "5": 4,
+        "4": 1
+      }
+    },
+    {
+      "title": "Research Data Analyst",
+      "count": 2,
+      "pct": 3.0303030303030303,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 2
+      }
+    },
+    {
+      "title": "Research Statistician",
+      "count": 4,
+      "pct": 6.0606060606060606,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 4
+      }
+    },
+    {
+      "title": "Senior Statistician",
+      "count": 15,
+      "pct": 22.727272727272727,
+      "avg_fit": 4.6,
+      "source": "list",
+      "fit_dist": {
+        "5": 9,
+        "4": 6
+      }
+    },
+    {
+      "title": "Statistical Analyst",
+      "count": 3,
+      "pct": 4.545454545454546,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 3
+      }
+    },
+    {
+      "title": "Statistical Programmer",
+      "count": 3,
+      "pct": 4.545454545454546,
+      "avg_fit": 4.666666666666667,
+      "source": "list",
+      "fit_dist": {
+        "5": 2,
+        "4": 1
+      }
+    },
+    {
+      "title": "Statistical Research Manager",
+      "count": 1,
+      "pct": 1.5151515151515151,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 1
+      }
+    },
+    {
+      "title": "Statistician",
+      "count": 1,
+      "pct": 1.5151515151515151,
+      "avg_fit": 5.0,
+      "source": "new",
+      "fit_dist": {
+        "5": 1
+      }
+    },
+    {
+      "title": "Student Aid Data Analyst",
+      "count": 3,
+      "pct": 4.545454545454546,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 3
+      }
+    },
+    {
+      "title": "Survey Operations Manager",
+      "count": 6,
+      "pct": 9.090909090909092,
+      "avg_fit": 4.833333333333333,
+      "source": "list",
+      "fit_dist": {
+        "5": 5,
+        "4": 1
+      }
+    },
+    {
+      "title": "Survey Statistician",
+      "count": 9,
+      "pct": 13.636363636363635,
+      "avg_fit": 4.666666666666667,
+      "source": "list",
+      "fit_dist": {
+        "5": 6,
+        "4": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,1288 @@
+{
+  "series": "0343",
+  "total_postings": 2873,
+  "from_list": 2858,
+  "proposed_new": 15,
+  "errors": 0,
+  "mean_fit_score": 4.19,
+  "median_fit_score": 4.0,
+  "coverage_by_threshold": {
+    "1": 2870,
+    "2": 2870,
+    "3": 2844,
+    "4": 2683,
+    "5": 779
+  },
+  "fit_distribution": {
+    "1": 0,
+    "2": 26,
+    "3": 161,
+    "4": 1904,
+    "5": 779
+  },
+  "title_stats": [
+    {
+      "title": "Administrative Services Supervisor",
+      "count": 9,
+      "pct": 0.3132613992342499,
+      "avg_fit": 4.444444444444445,
+      "source": "list",
+      "fit_dist": {
+        "4": 5,
+        "5": 4
+      }
+    },
+    {
+      "title": "Aircraft Maintenance Data Analyst",
+      "count": 9,
+      "pct": 0.3132613992342499,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 9
+      }
+    },
+    {
+      "title": "Application Processing Analyst",
+      "count": 14,
+      "pct": 0.4872955099199443,
+      "avg_fit": 3.7142857142857144,
+      "source": "list",
+      "fit_dist": {
+        "4": 6,
+        "3": 6,
+        "5": 2
+      }
+    },
+    {
+      "title": "Budget Analyst",
+      "count": 71,
+      "pct": 2.47128437173686,
+      "avg_fit": 4.225352112676056,
+      "source": "list",
+      "fit_dist": {
+        "4": 51,
+        "5": 18,
+        "3": 2
+      }
+    },
+    {
+      "title": "Budget and Planning Manager",
+      "count": 100,
+      "pct": 3.4806822137138878,
+      "avg_fit": 4.16,
+      "source": "list",
+      "fit_dist": {
+        "4": 74,
+        "5": 21,
+        "3": 5
+      }
+    },
+    {
+      "title": "Business Analyst",
+      "count": 174,
+      "pct": 6.056387051862165,
+      "avg_fit": 3.8850574712643677,
+      "source": "list",
+      "fit_dist": {
+        "4": 154,
+        "3": 20
+      }
+    },
+    {
+      "title": "Business Operations Manager",
+      "count": 67,
+      "pct": 2.332057083188305,
+      "avg_fit": 4.029850746268656,
+      "source": "list",
+      "fit_dist": {
+        "4": 63,
+        "5": 3,
+        "3": 1
+      }
+    },
+    {
+      "title": "Business Systems Analyst",
+      "count": 41,
+      "pct": 1.427079707622694,
+      "avg_fit": 4.195121951219512,
+      "source": "list",
+      "fit_dist": {
+        "4": 29,
+        "5": 10,
+        "3": 2
+      }
+    },
+    {
+      "title": "Chief of Staff",
+      "count": 115,
+      "pct": 4.002784545770971,
+      "avg_fit": 3.9391304347826086,
+      "source": "list",
+      "fit_dist": {
+        "4": 82,
+        "5": 16,
+        "3": 11,
+        "2": 6
+      }
+    },
+    {
+      "title": "Child & Youth Programs Regional Program Analyst",
+      "count": 1,
+      "pct": 0.034806822137138885,
+      "avg_fit": 5.0,
+      "source": "new",
+      "fit_dist": {
+        "5": 1
+      }
+    },
+    {
+      "title": "Child Care Program Manager",
+      "count": 2,
+      "pct": 0.06961364427427777,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 2
+      }
+    },
+    {
+      "title": "Civilian Workforce Planner",
+      "count": 10,
+      "pct": 0.34806822137138876,
+      "avg_fit": 4.4,
+      "source": "list",
+      "fit_dist": {
+        "5": 6,
+        "4": 3,
+        "2": 1
+      }
+    },
+    {
+      "title": "Clinic Operations Manager",
+      "count": 3,
+      "pct": 0.10442046641141664,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 3
+      }
+    },
+    {
+      "title": "Clinical Informatics Manager",
+      "count": 6,
+      "pct": 0.20884093282283328,
+      "avg_fit": 4.666666666666667,
+      "source": "list",
+      "fit_dist": {
+        "5": 4,
+        "4": 2
+      }
+    },
+    {
+      "title": "Clinical Informatics Specialist",
+      "count": 17,
+      "pct": 0.591715976331361,
+      "avg_fit": 4.647058823529412,
+      "source": "list",
+      "fit_dist": {
+        "5": 14,
+        "2": 1,
+        "4": 1,
+        "3": 1
+      }
+    },
+    {
+      "title": "Clinical Operations Analyst",
+      "count": 12,
+      "pct": 0.41768186564566656,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 12
+      }
+    },
+    {
+      "title": "Configuration Control Manager",
+      "count": 4,
+      "pct": 0.13922728854855554,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 4
+      }
+    },
+    {
+      "title": "Congressional Affairs Specialist",
+      "count": 4,
+      "pct": 0.13922728854855554,
+      "avg_fit": 4.75,
+      "source": "list",
+      "fit_dist": {
+        "5": 3,
+        "4": 1
+      }
+    },
+    {
+      "title": "Construction Budget Analyst",
+      "count": 1,
+      "pct": 0.034806822137138885,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 1
+      }
+    },
+    {
+      "title": "Continuous Improvement Manager",
+      "count": 54,
+      "pct": 1.8795683954054996,
+      "avg_fit": 4.518518518518518,
+      "source": "list",
+      "fit_dist": {
+        "5": 28,
+        "4": 26
+      }
+    },
+    {
+      "title": "Contract Administrator",
+      "count": 31,
+      "pct": 1.0790114862513052,
+      "avg_fit": 4.548387096774194,
+      "source": "list",
+      "fit_dist": {
+        "5": 17,
+        "4": 14
+      }
+    },
+    {
+      "title": "Contract Compliance Manager",
+      "count": 1,
+      "pct": 0.034806822137138885,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 1
+      }
+    },
+    {
+      "title": "Contract Compliance Specialist",
+      "count": 18,
+      "pct": 0.6265227984684998,
+      "avg_fit": 4.333333333333333,
+      "source": "list",
+      "fit_dist": {
+        "4": 8,
+        "5": 8,
+        "3": 2
+      }
+    },
+    {
+      "title": "Contracts and Procurement Manager",
+      "count": 31,
+      "pct": 1.0790114862513052,
+      "avg_fit": 4.193548387096774,
+      "source": "list",
+      "fit_dist": {
+        "4": 23,
+        "5": 7,
+        "3": 1
+      }
+    },
+    {
+      "title": "Court Case Management Systems Administrator",
+      "count": 1,
+      "pct": 0.034806822137138885,
+      "avg_fit": 4.0,
+      "source": "new",
+      "fit_dist": {
+        "4": 1
+      }
+    },
+    {
+      "title": "Court Systems Administrator",
+      "count": 1,
+      "pct": 0.034806822137138885,
+      "avg_fit": 2.0,
+      "source": "new",
+      "fit_dist": {
+        "2": 1
+      }
+    },
+    {
+      "title": "Cyber Operations Analyst",
+      "count": 1,
+      "pct": 0.034806822137138885,
+      "avg_fit": 5.0,
+      "source": "new",
+      "fit_dist": {
+        "5": 1
+      }
+    },
+    {
+      "title": "Data & AI Project Manager",
+      "count": 2,
+      "pct": 0.06961364427427777,
+      "avg_fit": 5.0,
+      "source": "new",
+      "fit_dist": {
+        "5": 2
+      }
+    },
+    {
+      "title": "Data Analytics Manager",
+      "count": 21,
+      "pct": 0.7309432648799165,
+      "avg_fit": 3.857142857142857,
+      "source": "list",
+      "fit_dist": {
+        "4": 15,
+        "3": 3,
+        "5": 2,
+        "2": 1
+      }
+    },
+    {
+      "title": "Data Governance Manager",
+      "count": 7,
+      "pct": 0.24364775495997215,
+      "avg_fit": 4.857142857142857,
+      "source": "list",
+      "fit_dist": {
+        "5": 6,
+        "4": 1
+      }
+    },
+    {
+      "title": "Defense Acquisition Manager",
+      "count": 91,
+      "pct": 3.167420814479638,
+      "avg_fit": 4.318681318681318,
+      "source": "list",
+      "fit_dist": {
+        "4": 51,
+        "5": 36,
+        "2": 3,
+        "3": 1
+      }
+    },
+    {
+      "title": "Defense Budget Analyst",
+      "count": 52,
+      "pct": 1.809954751131222,
+      "avg_fit": 4.538461538461538,
+      "source": "list",
+      "fit_dist": {
+        "5": 28,
+        "4": 24
+      }
+    },
+    {
+      "title": "Defense Policy Advisor",
+      "count": 27,
+      "pct": 0.9397841977027498,
+      "avg_fit": 4.111111111111111,
+      "source": "list",
+      "fit_dist": {
+        "4": 21,
+        "5": 5,
+        "2": 1
+      }
+    },
+    {
+      "title": "Defense Policy Analyst",
+      "count": 103,
+      "pct": 3.5851026801253045,
+      "avg_fit": 3.8058252427184467,
+      "source": "list",
+      "fit_dist": {
+        "4": 71,
+        "3": 20,
+        "5": 8,
+        "2": 4
+      }
+    },
+    {
+      "title": "Depot Maintenance Manager",
+      "count": 5,
+      "pct": 0.17403411068569438,
+      "avg_fit": 4.8,
+      "source": "list",
+      "fit_dist": {
+        "5": 4,
+        "4": 1
+      }
+    },
+    {
+      "title": "Deputy Director of Workplace Relations",
+      "count": 1,
+      "pct": 0.034806822137138885,
+      "avg_fit": 5.0,
+      "source": "new",
+      "fit_dist": {
+        "5": 1
+      }
+    },
+    {
+      "title": "Deputy Director, Fleet and Family Readiness",
+      "count": 1,
+      "pct": 0.034806822137138885,
+      "avg_fit": 5.0,
+      "source": "new",
+      "fit_dist": {
+        "5": 1
+      }
+    },
+    {
+      "title": "Education Program Analyst",
+      "count": 18,
+      "pct": 0.6265227984684998,
+      "avg_fit": 4.444444444444445,
+      "source": "list",
+      "fit_dist": {
+        "4": 10,
+        "5": 8
+      }
+    },
+    {
+      "title": "Employee Relations Specialist",
+      "count": 6,
+      "pct": 0.20884093282283328,
+      "avg_fit": 4.333333333333333,
+      "source": "list",
+      "fit_dist": {
+        "4": 4,
+        "5": 2
+      }
+    },
+    {
+      "title": "Enterprise Data Manager",
+      "count": 1,
+      "pct": 0.034806822137138885,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 1
+      }
+    },
+    {
+      "title": "Environmental Budget Analyst",
+      "count": 2,
+      "pct": 0.06961364427427777,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 2
+      }
+    },
+    {
+      "title": "Executive Assistant",
+      "count": 8,
+      "pct": 0.2784545770971111,
+      "avg_fit": 4.25,
+      "source": "list",
+      "fit_dist": {
+        "4": 6,
+        "5": 2
+      }
+    },
+    {
+      "title": "Executive Communications Specialist",
+      "count": 3,
+      "pct": 0.10442046641141664,
+      "avg_fit": 4.333333333333333,
+      "source": "list",
+      "fit_dist": {
+        "4": 2,
+        "5": 1
+      }
+    },
+    {
+      "title": "Executive Program Director, Fleet and Family Readiness Programs",
+      "count": 1,
+      "pct": 0.034806822137138885,
+      "avg_fit": 5.0,
+      "source": "new",
+      "fit_dist": {
+        "5": 1
+      }
+    },
+    {
+      "title": "Facilities Planning Specialist",
+      "count": 10,
+      "pct": 0.34806822137138876,
+      "avg_fit": 4.6,
+      "source": "list",
+      "fit_dist": {
+        "5": 7,
+        "4": 2,
+        "3": 1
+      }
+    },
+    {
+      "title": "Financial Planning Analyst",
+      "count": 8,
+      "pct": 0.2784545770971111,
+      "avg_fit": 3.875,
+      "source": "list",
+      "fit_dist": {
+        "4": 7,
+        "3": 1
+      }
+    },
+    {
+      "title": "HR Operations Specialist",
+      "count": 19,
+      "pct": 0.6613296206056387,
+      "avg_fit": 4.631578947368421,
+      "source": "list",
+      "fit_dist": {
+        "5": 12,
+        "4": 7
+      }
+    },
+    {
+      "title": "HR Operations Supervisor",
+      "count": 3,
+      "pct": 0.10442046641141664,
+      "avg_fit": 4.666666666666667,
+      "source": "list",
+      "fit_dist": {
+        "5": 2,
+        "4": 1
+      }
+    },
+    {
+      "title": "HR Policy Analyst",
+      "count": 25,
+      "pct": 0.8701705534284719,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 21,
+        "3": 2,
+        "5": 2
+      }
+    },
+    {
+      "title": "Health IT Workflow Analyst",
+      "count": 13,
+      "pct": 0.4524886877828055,
+      "avg_fit": 4.769230769230769,
+      "source": "list",
+      "fit_dist": {
+        "5": 10,
+        "4": 3
+      }
+    },
+    {
+      "title": "Health Informatics Analyst",
+      "count": 30,
+      "pct": 1.0442046641141665,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 30
+      }
+    },
+    {
+      "title": "Healthcare Data Analyst",
+      "count": 21,
+      "pct": 0.7309432648799165,
+      "avg_fit": 4.571428571428571,
+      "source": "list",
+      "fit_dist": {
+        "5": 12,
+        "4": 9
+      }
+    },
+    {
+      "title": "Healthcare Operations Analyst",
+      "count": 40,
+      "pct": 1.392272885485555,
+      "avg_fit": 4.225,
+      "source": "list",
+      "fit_dist": {
+        "4": 31,
+        "5": 9
+      }
+    },
+    {
+      "title": "Human Resources Advisor",
+      "count": 17,
+      "pct": 0.591715976331361,
+      "avg_fit": 4.294117647058823,
+      "source": "list",
+      "fit_dist": {
+        "4": 8,
+        "5": 7,
+        "3": 2
+      }
+    },
+    {
+      "title": "Human Resources Analyst",
+      "count": 49,
+      "pct": 1.7055342847198052,
+      "avg_fit": 4.244897959183674,
+      "source": "list",
+      "fit_dist": {
+        "4": 37,
+        "5": 12
+      }
+    },
+    {
+      "title": "Human Resources Manager",
+      "count": 26,
+      "pct": 0.904977375565611,
+      "avg_fit": 4.461538461538462,
+      "source": "list",
+      "fit_dist": {
+        "5": 13,
+        "4": 12,
+        "3": 1
+      }
+    },
+    {
+      "title": "IT Acquisition Manager",
+      "count": 7,
+      "pct": 0.24364775495997215,
+      "avg_fit": 4.714285714285714,
+      "source": "list",
+      "fit_dist": {
+        "5": 5,
+        "4": 2
+      }
+    },
+    {
+      "title": "IT Procurement Specialist",
+      "count": 2,
+      "pct": 0.06961364427427777,
+      "avg_fit": 4.5,
+      "source": "list",
+      "fit_dist": {
+        "5": 1,
+        "4": 1
+      }
+    },
+    {
+      "title": "IT Systems Analyst",
+      "count": 2,
+      "pct": 0.06961364427427777,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 2
+      }
+    },
+    {
+      "title": "Immigration Process Analyst",
+      "count": 14,
+      "pct": 0.4872955099199443,
+      "avg_fit": 4.857142857142857,
+      "source": "list",
+      "fit_dist": {
+        "5": 12,
+        "4": 2
+      }
+    },
+    {
+      "title": "Internal Auditor",
+      "count": 12,
+      "pct": 0.41768186564566656,
+      "avg_fit": 4.5,
+      "source": "list",
+      "fit_dist": {
+        "4": 6,
+        "5": 6
+      }
+    },
+    {
+      "title": "Internal Controls Manager",
+      "count": 43,
+      "pct": 1.4966933518969718,
+      "avg_fit": 4.348837209302325,
+      "source": "list",
+      "fit_dist": {
+        "4": 25,
+        "5": 17,
+        "2": 1
+      }
+    },
+    {
+      "title": "Legislative Affairs Specialist",
+      "count": 5,
+      "pct": 0.17403411068569438,
+      "avg_fit": 4.4,
+      "source": "list",
+      "fit_dist": {
+        "4": 3,
+        "5": 2
+      }
+    },
+    {
+      "title": "Legislative Analyst",
+      "count": 13,
+      "pct": 0.4524886877828055,
+      "avg_fit": 3.923076923076923,
+      "source": "list",
+      "fit_dist": {
+        "4": 12,
+        "3": 1
+      }
+    },
+    {
+      "title": "Logistics Analyst",
+      "count": 13,
+      "pct": 0.4524886877828055,
+      "avg_fit": 4.384615384615385,
+      "source": "list",
+      "fit_dist": {
+        "5": 6,
+        "4": 6,
+        "3": 1
+      }
+    },
+    {
+      "title": "Logistics Program Manager",
+      "count": 13,
+      "pct": 0.4524886877828055,
+      "avg_fit": 4.3076923076923075,
+      "source": "list",
+      "fit_dist": {
+        "4": 9,
+        "5": 4
+      }
+    },
+    {
+      "title": "Maintenance Data Analyst",
+      "count": 3,
+      "pct": 0.10442046641141664,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 3
+      }
+    },
+    {
+      "title": "Maintenance Operations Analyst",
+      "count": 13,
+      "pct": 0.4524886877828055,
+      "avg_fit": 4.3076923076923075,
+      "source": "list",
+      "fit_dist": {
+        "4": 9,
+        "5": 4
+      }
+    },
+    {
+      "title": "Maintenance Operations Manager",
+      "count": 2,
+      "pct": 0.06961364427427777,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 2
+      }
+    },
+    {
+      "title": "Maintenance Systems Administrator",
+      "count": 2,
+      "pct": 0.06961364427427777,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 2
+      }
+    },
+    {
+      "title": "Maintenance Systems Analyst",
+      "count": 17,
+      "pct": 0.591715976331361,
+      "avg_fit": 4.882352941176471,
+      "source": "list",
+      "fit_dist": {
+        "5": 15,
+        "4": 2
+      }
+    },
+    {
+      "title": "Management Consultant",
+      "count": 87,
+      "pct": 3.0281935259310826,
+      "avg_fit": 4.195402298850575,
+      "source": "list",
+      "fit_dist": {
+        "4": 64,
+        "5": 20,
+        "3": 3
+      }
+    },
+    {
+      "title": "Office Operations Manager",
+      "count": 21,
+      "pct": 0.7309432648799165,
+      "avg_fit": 4.333333333333333,
+      "source": "list",
+      "fit_dist": {
+        "4": 14,
+        "5": 7
+      }
+    },
+    {
+      "title": "Operations Coordinator",
+      "count": 66,
+      "pct": 2.297250261051166,
+      "avg_fit": 3.742424242424242,
+      "source": "list",
+      "fit_dist": {
+        "4": 47,
+        "3": 18,
+        "5": 1
+      }
+    },
+    {
+      "title": "Operations Planning Manager",
+      "count": 219,
+      "pct": 7.622694048033414,
+      "avg_fit": 3.922374429223744,
+      "source": "list",
+      "fit_dist": {
+        "4": 196,
+        "3": 20,
+        "5": 3
+      }
+    },
+    {
+      "title": "Operations Support Manager",
+      "count": 103,
+      "pct": 3.5851026801253045,
+      "avg_fit": 4.038834951456311,
+      "source": "list",
+      "fit_dist": {
+        "4": 93,
+        "5": 7,
+        "3": 3
+      }
+    },
+    {
+      "title": "Parking Program Manager",
+      "count": 1,
+      "pct": 0.034806822137138885,
+      "avg_fit": 5.0,
+      "source": "new",
+      "fit_dist": {
+        "5": 1
+      }
+    },
+    {
+      "title": "Performance Metrics Analyst",
+      "count": 11,
+      "pct": 0.38287504350852763,
+      "avg_fit": 4.363636363636363,
+      "source": "list",
+      "fit_dist": {
+        "4": 7,
+        "5": 4
+      }
+    },
+    {
+      "title": "Procurement Analyst",
+      "count": 3,
+      "pct": 0.10442046641141664,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 3
+      }
+    },
+    {
+      "title": "Procurement Specialist",
+      "count": 12,
+      "pct": 0.41768186564566656,
+      "avg_fit": 4.083333333333333,
+      "source": "list",
+      "fit_dist": {
+        "4": 9,
+        "5": 2,
+        "3": 1
+      }
+    },
+    {
+      "title": "Procurement and Budget Manager",
+      "count": 4,
+      "pct": 0.13922728854855554,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 4
+      }
+    },
+    {
+      "title": "Program Analyst - Clinic Profile Manager",
+      "count": 1,
+      "pct": 0.034806822137138885,
+      "avg_fit": 5.0,
+      "source": "new",
+      "fit_dist": {
+        "5": 1
+      }
+    },
+    {
+      "title": "Program Budget Analyst",
+      "count": 19,
+      "pct": 0.6613296206056387,
+      "avg_fit": 4.7894736842105265,
+      "source": "list",
+      "fit_dist": {
+        "5": 15,
+        "4": 4
+      }
+    },
+    {
+      "title": "Program Evaluation Analyst",
+      "count": 178,
+      "pct": 6.19561434041072,
+      "avg_fit": 4.207865168539326,
+      "source": "list",
+      "fit_dist": {
+        "4": 117,
+        "5": 49,
+        "3": 12
+      }
+    },
+    {
+      "title": "Project Budget Analyst",
+      "count": 10,
+      "pct": 0.34806822137138876,
+      "avg_fit": 4.6,
+      "source": "list",
+      "fit_dist": {
+        "5": 6,
+        "4": 4
+      }
+    },
+    {
+      "title": "Project Controls Manager",
+      "count": 31,
+      "pct": 1.0790114862513052,
+      "avg_fit": 4.193548387096774,
+      "source": "list",
+      "fit_dist": {
+        "4": 25,
+        "5": 6
+      }
+    },
+    {
+      "title": "Project Coordinator",
+      "count": 5,
+      "pct": 0.17403411068569438,
+      "avg_fit": 4.2,
+      "source": "list",
+      "fit_dist": {
+        "4": 4,
+        "5": 1
+      }
+    },
+    {
+      "title": "Quality Assurance Manager",
+      "count": 6,
+      "pct": 0.20884093282283328,
+      "avg_fit": 4.833333333333333,
+      "source": "list",
+      "fit_dist": {
+        "5": 5,
+        "4": 1
+      }
+    },
+    {
+      "title": "Quality Assurance Specialist",
+      "count": 27,
+      "pct": 0.9397841977027498,
+      "avg_fit": 4.481481481481482,
+      "source": "list",
+      "fit_dist": {
+        "5": 14,
+        "4": 12,
+        "3": 1
+      }
+    },
+    {
+      "title": "Recruitment Specialist",
+      "count": 6,
+      "pct": 0.20884093282283328,
+      "avg_fit": 4.5,
+      "source": "list",
+      "fit_dist": {
+        "5": 3,
+        "4": 3
+      }
+    },
+    {
+      "title": "Regulatory Affairs Analyst",
+      "count": 42,
+      "pct": 1.461886529759833,
+      "avg_fit": 4.285714285714286,
+      "source": "list",
+      "fit_dist": {
+        "4": 28,
+        "5": 13,
+        "3": 1
+      }
+    },
+    {
+      "title": "Requirements Analyst",
+      "count": 12,
+      "pct": 0.41768186564566656,
+      "avg_fit": 4.5,
+      "source": "list",
+      "fit_dist": {
+        "5": 6,
+        "4": 6
+      }
+    },
+    {
+      "title": "Resource Planning Analyst",
+      "count": 11,
+      "pct": 0.38287504350852763,
+      "avg_fit": 4.090909090909091,
+      "source": "list",
+      "fit_dist": {
+        "4": 10,
+        "5": 1
+      }
+    },
+    {
+      "title": "Security Program Manager",
+      "count": 10,
+      "pct": 0.34806822137138876,
+      "avg_fit": 3.9,
+      "source": "list",
+      "fit_dist": {
+        "4": 9,
+        "3": 1
+      }
+    },
+    {
+      "title": "Small Business Program Analyst",
+      "count": 1,
+      "pct": 0.034806822137138885,
+      "avg_fit": 5.0,
+      "source": "new",
+      "fit_dist": {
+        "5": 1
+      }
+    },
+    {
+      "title": "Staffing Analyst",
+      "count": 1,
+      "pct": 0.034806822137138885,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 1
+      }
+    },
+    {
+      "title": "Strategic Communications Director",
+      "count": 7,
+      "pct": 0.24364775495997215,
+      "avg_fit": 4.142857142857143,
+      "source": "list",
+      "fit_dist": {
+        "4": 6,
+        "5": 1
+      }
+    },
+    {
+      "title": "Supply Chain Manager",
+      "count": 2,
+      "pct": 0.06961364427427777,
+      "avg_fit": 4.5,
+      "source": "list",
+      "fit_dist": {
+        "5": 1,
+        "4": 1
+      }
+    },
+    {
+      "title": "Supply Operations Manager",
+      "count": 2,
+      "pct": 0.06961364427427777,
+      "avg_fit": 3.5,
+      "source": "list",
+      "fit_dist": {
+        "4": 1,
+        "3": 1
+      }
+    },
+    {
+      "title": "Systems Integration Manager",
+      "count": 5,
+      "pct": 0.17403411068569438,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 5
+      }
+    },
+    {
+      "title": "Technical Program Coordinator",
+      "count": 11,
+      "pct": 0.38287504350852763,
+      "avg_fit": 3.909090909090909,
+      "source": "list",
+      "fit_dist": {
+        "4": 10,
+        "3": 1
+      }
+    },
+    {
+      "title": "Technical Program Manager",
+      "count": 71,
+      "pct": 2.47128437173686,
+      "avg_fit": 4.267605633802817,
+      "source": "list",
+      "fit_dist": {
+        "4": 46,
+        "5": 22,
+        "3": 3
+      }
+    },
+    {
+      "title": "Technical Training Specialist",
+      "count": 2,
+      "pct": 0.06961364427427777,
+      "avg_fit": 4.5,
+      "source": "list",
+      "fit_dist": {
+        "5": 1,
+        "4": 1
+      }
+    },
+    {
+      "title": "Technology Commercialization Specialist",
+      "count": 4,
+      "pct": 0.13922728854855554,
+      "avg_fit": 3.75,
+      "source": "list",
+      "fit_dist": {
+        "5": 2,
+        "2": 1,
+        "3": 1
+      }
+    },
+    {
+      "title": "Training Operations Manager",
+      "count": 3,
+      "pct": 0.10442046641141664,
+      "avg_fit": 4.333333333333333,
+      "source": "list",
+      "fit_dist": {
+        "4": 2,
+        "5": 1
+      }
+    },
+    {
+      "title": "Training Program Analyst",
+      "count": 22,
+      "pct": 0.7657500870170553,
+      "avg_fit": 4.2272727272727275,
+      "source": "list",
+      "fit_dist": {
+        "4": 15,
+        "5": 6,
+        "3": 1
+      }
+    },
+    {
+      "title": "Training Program Manager",
+      "count": 35,
+      "pct": 1.2182387747998606,
+      "avg_fit": 4.171428571428572,
+      "source": "list",
+      "fit_dist": {
+        "4": 29,
+        "5": 6
+      }
+    },
+    {
+      "title": "Vendor Manager",
+      "count": 1,
+      "pct": 0.034806822137138885,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 1
+      }
+    },
+    {
+      "title": "Workforce Planning Analyst",
+      "count": 68,
+      "pct": 2.366863905325444,
+      "avg_fit": 4.4411764705882355,
+      "source": "list",
+      "fit_dist": {
+        "4": 35,
+        "5": 32,
+        "2": 1
+      }
+    },
+    {
+      "title": "Workforce Planning Manager",
+      "count": 92,
+      "pct": 3.2022276366167772,
+      "avg_fit": 4.369565217391305,
+      "source": "list",
+      "fit_dist": {
+        "4": 48,
+        "5": 40,
+        "3": 2,
+        "2": 2
+      }
+    },
+    {
+      "title": "Workforce Planning Specialist",
+      "count": 35,
+      "pct": 1.2182387747998606,
+      "avg_fit": 4.3428571428571425,
+      "source": "list",
+      "fit_dist": {
+        "4": 23,
+        "5": 12
+      }
+    },
+    {
+      "title": "Workforce Programs Manager",
+      "count": 52,
+      "pct": 1.809954751131222,
+      "avg_fit": 3.8461538461538463,
+      "source": "list",
+      "fit_dist": {
+        "4": 35,
+        "3": 8,
+        "5": 6,
+        "2": 3
+      }
+    },
+    {
+      "title": "Workforce Training Coordinator",
+      "count": 2,
+      "pct": 0.06961364427427777,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 2
+      }
+    },
+    {
+      "title": "missing_duties",
+      "count": 3,
+      "pct": 0.10442046641141664,
+      "avg_fit": 0.0,
+      "source": "new",
+      "fit_dist": {
+        "0": 3
+      }
+    }
+  ]
+}

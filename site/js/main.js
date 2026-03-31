@@ -3,6 +3,8 @@ import { decodeHashState, pushHashState, onHashChange } from './router.js';
 import { renderBipartite } from './graph.js';
 import { showDetail, hideDetail } from './detail.js';
 
+const fmt = (n) => n.toLocaleString();
+
 let currentSeries = null;
 
 // --- Tabs ---
@@ -28,21 +30,20 @@ function renderStats(data) {
     const total = data.postings.length;
 
     document.getElementById('seriesIntro').innerHTML =
-        `The <strong>${config.code} - ${config.name}</strong> series titles everyone ` +
-        `"${config.fedTitle}." We analyzed ${total.toLocaleString()} postings and found ` +
-        `${numPlain} distinct roles hiding behind ${numFed} federal title variants.`;
+        `In the <strong>${config.code} - ${config.name}</strong> series, ` +
+        `${fmt(total)} postings map to ${fmt(numPlain)} plain language titles.`;
 
     document.getElementById('statsGrid').innerHTML = `
         <div class="stat-card">
-            <div class="stat-value">${total.toLocaleString()}</div>
+            <div class="stat-value">${fmt(total)}</div>
             <div class="stat-label">Postings Analyzed</div>
         </div>
         <div class="stat-card">
-            <div class="stat-value">${numFed}</div>
+            <div class="stat-value">${fmt(numFed)}</div>
             <div class="stat-label">Federal Title Variants</div>
         </div>
         <div class="stat-card">
-            <div class="stat-value">${numPlain}</div>
+            <div class="stat-value">${fmt(numPlain)}</div>
             <div class="stat-label">Plain Language Titles</div>
         </div>
     `;

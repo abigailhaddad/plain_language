@@ -1,0 +1,305 @@
+{
+  "series": "1084",
+  "total_postings": 86,
+  "from_list": 83,
+  "proposed_new": 3,
+  "errors": 0,
+  "mean_fit_score": 4.67,
+  "median_fit_score": 5.0,
+  "coverage_by_threshold": {
+    "1": 85,
+    "2": 85,
+    "3": 85,
+    "4": 85,
+    "5": 62
+  },
+  "fit_distribution": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 23,
+    "5": 62
+  },
+  "title_stats": [
+    {
+      "title": "Broadcast Technician",
+      "count": 2,
+      "pct": 2.3255813953488373,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 2
+      }
+    },
+    {
+      "title": "Creative Director",
+      "count": 1,
+      "pct": 1.1627906976744187,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 1
+      }
+    },
+    {
+      "title": "Digital Content Designer",
+      "count": 2,
+      "pct": 2.3255813953488373,
+      "avg_fit": 4.5,
+      "source": "list",
+      "fit_dist": {
+        "4": 1,
+        "5": 1
+      }
+    },
+    {
+      "title": "Digital Content Specialist",
+      "count": 3,
+      "pct": 3.488372093023256,
+      "avg_fit": 4.666666666666667,
+      "source": "list",
+      "fit_dist": {
+        "5": 2,
+        "4": 1
+      }
+    },
+    {
+      "title": "Digital Marketing Specialist",
+      "count": 1,
+      "pct": 1.1627906976744187,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 1
+      }
+    },
+    {
+      "title": "E-Learning Developer",
+      "count": 3,
+      "pct": 3.488372093023256,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 3
+      }
+    },
+    {
+      "title": "Exhibit Design Manager",
+      "count": 1,
+      "pct": 1.1627906976744187,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 1
+      }
+    },
+    {
+      "title": "Exhibit Designer",
+      "count": 1,
+      "pct": 1.1627906976744187,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 1
+      }
+    },
+    {
+      "title": "Exhibition Graphic Designer",
+      "count": 7,
+      "pct": 8.13953488372093,
+      "avg_fit": 4.857142857142857,
+      "source": "list",
+      "fit_dist": {
+        "5": 6,
+        "4": 1
+      }
+    },
+    {
+      "title": "Graphic Designer",
+      "count": 2,
+      "pct": 2.3255813953488373,
+      "avg_fit": 4.5,
+      "source": "list",
+      "fit_dist": {
+        "5": 1,
+        "4": 1
+      }
+    },
+    {
+      "title": "Marketing Communications Specialist",
+      "count": 4,
+      "pct": 4.651162790697675,
+      "avg_fit": 4.25,
+      "source": "list",
+      "fit_dist": {
+        "4": 3,
+        "5": 1
+      }
+    },
+    {
+      "title": "Marketing Graphic Designer",
+      "count": 4,
+      "pct": 4.651162790697675,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 4
+      }
+    },
+    {
+      "title": "Multimedia Content Creator",
+      "count": 2,
+      "pct": 2.3255813953488373,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 2
+      }
+    },
+    {
+      "title": "Multimedia Content Designer",
+      "count": 3,
+      "pct": 3.488372093023256,
+      "avg_fit": 4.666666666666667,
+      "source": "list",
+      "fit_dist": {
+        "5": 2,
+        "4": 1
+      }
+    },
+    {
+      "title": "Multimedia Designer",
+      "count": 1,
+      "pct": 1.1627906976744187,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 1
+      }
+    },
+    {
+      "title": "Multimedia Production Manager",
+      "count": 2,
+      "pct": 2.3255813953488373,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 2
+      }
+    },
+    {
+      "title": "Museum Exhibits Director",
+      "count": 3,
+      "pct": 3.488372093023256,
+      "avg_fit": 4.666666666666667,
+      "source": "list",
+      "fit_dist": {
+        "5": 2,
+        "4": 1
+      }
+    },
+    {
+      "title": "Social Media Specialist",
+      "count": 5,
+      "pct": 5.813953488372093,
+      "avg_fit": 4.4,
+      "source": "list",
+      "fit_dist": {
+        "4": 3,
+        "5": 2
+      }
+    },
+    {
+      "title": "VISUAL INFORMATION SPECIALIST",
+      "count": 2,
+      "pct": 2.3255813953488373,
+      "avg_fit": 5.0,
+      "source": "new",
+      "fit_dist": {
+        "5": 2
+      }
+    },
+    {
+      "title": "Video Conferencing Technician",
+      "count": 2,
+      "pct": 2.3255813953488373,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 2
+      }
+    },
+    {
+      "title": "Visual Communications Designer",
+      "count": 1,
+      "pct": 1.1627906976744187,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 1
+      }
+    },
+    {
+      "title": "Visual Communications Manager",
+      "count": 5,
+      "pct": 5.813953488372093,
+      "avg_fit": 4.8,
+      "source": "list",
+      "fit_dist": {
+        "5": 4,
+        "4": 1
+      }
+    },
+    {
+      "title": "Visual Communications Specialist",
+      "count": 19,
+      "pct": 22.093023255813954,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 19
+      }
+    },
+    {
+      "title": "Visual Merchandising Lead",
+      "count": 4,
+      "pct": 4.651162790697675,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 4
+      }
+    },
+    {
+      "title": "Web Content Manager",
+      "count": 2,
+      "pct": 2.3255813953488373,
+      "avg_fit": 4.5,
+      "source": "list",
+      "fit_dist": {
+        "5": 1,
+        "4": 1
+      }
+    },
+    {
+      "title": "Web Content Specialist",
+      "count": 3,
+      "pct": 3.488372093023256,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 3
+      }
+    },
+    {
+      "title": "missing_duties",
+      "count": 1,
+      "pct": 1.1627906976744187,
+      "avg_fit": 0.0,
+      "source": "new",
+      "fit_dist": {
+        "0": 1
+      }
+    }
+  ]
+}

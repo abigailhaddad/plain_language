@@ -63,7 +63,7 @@
                         <div class="pipeline-step">
                             <div class="step-number">1</div>
                             <div class="step-content">
-                                <h4>Read the actual duties</h4>
+                                <h4>Read the duties</h4>
                                 <p>We pull job postings from USAJobs for a target occupational series, extracting the duties, qualifications, and summary text that describe what the person does day to day.</p>
                             </div>
                         </div>
@@ -71,7 +71,7 @@
                             <div class="step-number">2</div>
                             <div class="step-content">
                                 <h4>Propose real titles</h4>
-                                <p>An LLM reads each posting's current title and duties. If the existing title is already clear and specific&mdash;something you'd see on LinkedIn&mdash;it keeps it as-is. Otherwise, it proposes alternatives, explicitly avoiding vague catch-alls like "Program Manager" or "Management Analyst."</p>
+                                <p>An LLM reads each posting's duties&mdash;without seeing the current title&mdash;and proposes titles you'd see on LinkedIn. The prompt explicitly avoids vague catch-alls like "Program Manager" or "Management Analyst."</p>
                             </div>
                         </div>
                         <div class="pipeline-step">
@@ -92,7 +92,7 @@
                             <div class="step-number">5</div>
                             <div class="step-content">
                                 <h4>Classify every posting</h4>
-                                <p>Each posting gets matched to the best-fitting validated title with a 1&ndash;5 fit score. Postings whose existing title is already plain language are kept as-is, and postings that don't fit any title well are flagged rather than forced into one. The classification includes reasoning so you can judge the fit yourself.</p>
+                                <p>Each posting gets matched to the best-fitting title with a 1&ndash;5 fit score. The LLM classifies based on duties alone&mdash;it doesn't see the current title. If a posting's original title passes a plain-language check, it's included as one of the options. If nothing fits well, the LLM proposes a new title on the spot.</p>
                             </div>
                         </div>
                         <div class="pipeline-step">
@@ -107,8 +107,8 @@
 
                 <div class="method-block">
                     <h3>What you're seeing</h3>
-                    <p>The graph above shows how generic federal titles (left) map to specific plain language titles (right). One federal title often hides several distinct roles. Hover over any title to see its connections, or click to drill into individual postings with the classification reasoning.</p>
-                    <p>This is a starting point, not an exhaustive menu. Some postings already have clear, descriptive titles that don't need changing. The goal isn't to force every job into a new label&mdash;it's to surface where the current titles are hiding what people do, and suggest better alternatives for those cases. Hiring managers know their roles best; these suggestions are meant to give them a head start.</p>
+                    <p>The graph above shows how federal titles (left) map to plain language titles (right). One federal title often covers several distinct roles. Hover over any title to see its connections, or click to drill into individual postings with the classification reasoning.</p>
+                    <p>This is a starting point, not an exhaustive menu. Some postings already have clear, descriptive titles that don't need changing. The goal isn't to force every job into a new label&mdash;it's to show where the current titles don't capture what people do, and suggest alternatives for those cases. Hiring managers know their roles best; these suggestions are meant to give them a head start.</p>
                 </div>
             </div>
         </section>

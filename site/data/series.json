@@ -1,0 +1,22 @@
+[
+    {
+        "code": "0343",
+        "name": "Management & Program Analysis",
+        "fedTitle": "Management and Program Analyst"
+    },
+    {
+        "code": "2210",
+        "name": "Information Technology",
+        "fedTitle": "IT Specialist"
+    },
+    {
+        "code": "1530",
+        "name": "Statistics",
+        "fedTitle": "Statistician"
+    },
+    {
+        "code": "1084",
+        "name": "Visual Information",
+        "fedTitle": "Visual Information Specialist"
+    }
+]

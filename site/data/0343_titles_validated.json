@@ -1,0 +1,1735 @@
+{
+  "series": "0343",
+  "model": "gpt-5.4-mini",
+  "num_titles_before": 113,
+  "num_passed": 107,
+  "num_failed": 6,
+  "num_titles_after": 131,
+  "validation_details": [
+    {
+      "title": "Workforce Planning Analyst",
+      "verdict": "PASS",
+      "reason": "Specific and functional; clearly suggests workforce planning work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Workforce Planning Manager",
+      "verdict": "PASS",
+      "reason": "Specific and functional; understandable to outside jobseekers.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Policy Analyst",
+      "verdict": "FAIL",
+      "reason": "Too broad and generic. It does not indicate what policy area or type of analysis.",
+      "suggested_replacements": [
+        "Defense Policy Analyst",
+        "HR Policy Analyst",
+        "Regulatory Affairs Analyst",
+        "Legislative Analyst"
+      ]
+    },
+    {
+      "title": "Budget Analyst",
+      "verdict": "PASS",
+      "reason": "Common private-sector title and sufficiently descriptive.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Defense Budget Analyst",
+      "verdict": "PASS",
+      "reason": "Specific and understandable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Healthcare Data Analyst",
+      "verdict": "PASS",
+      "reason": "Clear and descriptive.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Program Evaluation Analyst",
+      "verdict": "PASS",
+      "reason": "Specific enough to convey evaluation-focused analytical work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Administrative Coordinator",
+      "verdict": "FAIL",
+      "reason": "Still too generic. It describes an administrative role but not the functional area or type of coordination.",
+      "suggested_replacements": [
+        "Operations Coordinator",
+        "Project Coordinator",
+        "Executive Assistant",
+        "Administrative Services Supervisor"
+      ]
+    },
+    {
+      "title": "Administrative Operations Manager",
+      "verdict": "FAIL",
+      "reason": "Too broad and federal-sounding. 'Administrative operations' does not clearly tell a jobseeker what domain or work is managed.",
+      "suggested_replacements": [
+        "Operations Support Manager",
+        "Administrative Services Supervisor",
+        "Office Operations Manager",
+        "Business Operations Manager"
+      ]
+    },
+    {
+      "title": "Continuous Improvement Manager",
+      "verdict": "PASS",
+      "reason": "Recognizable private-sector title and reasonably descriptive.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Operations Planning Manager",
+      "verdict": "PASS",
+      "reason": "Specific enough to indicate planning within operations.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Program Budget Analyst",
+      "verdict": "PASS",
+      "reason": "Clear and functional.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Quality Assurance Specialist",
+      "verdict": "PASS",
+      "reason": "Common and understandable title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Chief of Staff",
+      "verdict": "PASS",
+      "reason": "Widely recognized title with clear meaning in many organizations.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Clinical Informatics Specialist",
+      "verdict": "PASS",
+      "reason": "Specific and recognizable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Clinical Operations Analyst",
+      "verdict": "PASS",
+      "reason": "Clear enough to indicate analysis of clinical operations.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Contract Administrator",
+      "verdict": "PASS",
+      "reason": "Common private-sector title and sufficiently descriptive.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Executive Assistant",
+      "verdict": "PASS",
+      "reason": "Widely understood title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Financial Planning Analyst",
+      "verdict": "PASS",
+      "reason": "Clear and common in the private sector.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Human Resources Advisor",
+      "verdict": "PASS",
+      "reason": "Plain-language and understandable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Maintenance Data Analyst",
+      "verdict": "PASS",
+      "reason": "Specific and descriptive.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Project Budget Analyst",
+      "verdict": "PASS",
+      "reason": "Clear and functional.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Academic Operations Coordinator",
+      "verdict": "PASS",
+      "reason": "Specific enough to indicate coordination in an academic operations setting.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Administrative Services Supervisor",
+      "verdict": "PASS",
+      "reason": "A bit broad, but still functional and understandable as a supervisory administrative role.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Aircraft Maintenance Data Analyst",
+      "verdict": "PASS",
+      "reason": "Specific and descriptive.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Business Analyst",
+      "verdict": "PASS",
+      "reason": "Common private-sector title; while broad, it is still a recognized functional title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Construction Budget Analyst",
+      "verdict": "PASS",
+      "reason": "Specific and understandable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Contract Compliance Specialist",
+      "verdict": "PASS",
+      "reason": "Clear and functional.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Data Governance Manager",
+      "verdict": "PASS",
+      "reason": "Recognizable private-sector title and specific enough.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Defense Policy Advisor",
+      "verdict": "PASS",
+      "reason": "Specific and understandable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Education Program Analyst",
+      "verdict": "PASS",
+      "reason": "Clear enough to indicate analysis of education programs.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Executive Communications Specialist",
+      "verdict": "PASS",
+      "reason": "Specific and understandable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "HR Policy Analyst",
+      "verdict": "PASS",
+      "reason": "Plain-language and specific.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Health Informatics Analyst",
+      "verdict": "PASS",
+      "reason": "Clear and recognizable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Human Resources Analyst",
+      "verdict": "PASS",
+      "reason": "Common and understandable title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "IT Acquisition Manager",
+      "verdict": "PASS",
+      "reason": "Specific enough, though 'IT' is an abbreviation; it is widely understood but slightly less ideal than fully spelled-out language.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Internal Controls Manager",
+      "verdict": "PASS",
+      "reason": "Specific and functional.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Maintenance Systems Analyst",
+      "verdict": "PASS",
+      "reason": "Specific and understandable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Management Consultant",
+      "verdict": "PASS",
+      "reason": "Common private-sector title and sufficiently descriptive.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Manpower Planning Manager",
+      "verdict": "FAIL",
+      "reason": "'Manpower' is dated and federal jargon; it is less plain-language and less inclusive than modern workforce terminology.",
+      "suggested_replacements": [
+        "Workforce Planning Manager",
+        "Workforce Planning Specialist",
+        "Civilian Workforce Planner",
+        "Workforce Programs Manager"
+      ]
+    },
+    {
+      "title": "Personnel Actions Specialist",
+      "verdict": "FAIL",
+      "reason": "Sounds like federal HR jargon and does not clearly convey the broader work area to outside jobseekers.",
+      "suggested_replacements": [
+        "HR Operations Specialist",
+        "Human Resources Analyst",
+        "Employee Relations Specialist",
+        "Recruitment Specialist"
+      ]
+    },
+    {
+      "title": "Procurement Analyst",
+      "verdict": "PASS",
+      "reason": "Common and understandable title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Procurement Specialist",
+      "verdict": "PASS",
+      "reason": "Common and understandable title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Requirements Analyst",
+      "verdict": "PASS",
+      "reason": "Recognizable private-sector title, though somewhat broad.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Resource Planning Analyst",
+      "verdict": "PASS",
+      "reason": "Specific enough to indicate planning and analysis work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Technical Program Manager",
+      "verdict": "PASS",
+      "reason": "Common private-sector title and understandable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Training Program Analyst",
+      "verdict": "PASS",
+      "reason": "Specific and functional.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Training Program Manager",
+      "verdict": "PASS",
+      "reason": "Specific and functional.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Aircraft Maintenance Analyst",
+      "verdict": "PASS",
+      "reason": "Specific and descriptive.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Application Processing Analyst",
+      "verdict": "PASS",
+      "reason": "Clear enough to indicate work involving application processing.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Budget and Planning Manager",
+      "verdict": "PASS",
+      "reason": "Reasonably descriptive, though broad.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Business Systems Analyst",
+      "verdict": "PASS",
+      "reason": "Common private-sector title and sufficiently descriptive.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Child Care Program Manager",
+      "verdict": "PASS",
+      "reason": "Specific and understandable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Civilian Workforce Planner",
+      "verdict": "PASS",
+      "reason": "Specific and plain-language.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Clinic Operations Manager",
+      "verdict": "PASS",
+      "reason": "Clear and functional.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Clinical Informatics Manager",
+      "verdict": "PASS",
+      "reason": "Specific and recognizable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Clinical Systems Analyst",
+      "verdict": "PASS",
+      "reason": "Specific and understandable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Configuration Control Manager",
+      "verdict": "PASS",
+      "reason": "Recognizable technical title and sufficiently descriptive.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Congressional Affairs Specialist",
+      "verdict": "PASS",
+      "reason": "Specific and understandable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Contract Compliance Manager",
+      "verdict": "PASS",
+      "reason": "Clear and functional.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Contracting Officer Representative",
+      "verdict": "FAIL",
+      "reason": "This is a federal designation/acronym-style role title rather than plain-language private-sector terminology.",
+      "suggested_replacements": [
+        "Contract Compliance Specialist",
+        "Contract Administrator",
+        "Vendor Manager",
+        "Procurement Specialist"
+      ]
+    },
+    {
+      "title": "Contracts and Procurement Manager",
+      "verdict": "PASS",
+      "reason": "Specific and understandable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Data Analytics Manager",
+      "verdict": "PASS",
+      "reason": "Common and descriptive.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Defense Acquisition Manager",
+      "verdict": "PASS",
+      "reason": "Specific enough to indicate acquisition work in the defense domain.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Defense Policy Analyst",
+      "verdict": "PASS",
+      "reason": "Specific and understandable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Depot Maintenance Manager",
+      "verdict": "PASS",
+      "reason": "Specific and functional.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Employee Relations Specialist",
+      "verdict": "PASS",
+      "reason": "Common HR title and clear.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Enterprise Data Manager",
+      "verdict": "PASS",
+      "reason": "Recognizable and sufficiently descriptive.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Environmental Budget Analyst",
+      "verdict": "PASS",
+      "reason": "Specific and understandable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Facilities Planning Specialist",
+      "verdict": "PASS",
+      "reason": "Clear and functional.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "HR Operations Specialist",
+      "verdict": "PASS",
+      "reason": "Plain-language and understandable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "HR Operations Supervisor",
+      "verdict": "PASS",
+      "reason": "Plain-language and understandable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Health IT Workflow Analyst",
+      "verdict": "PASS",
+      "reason": "Specific and understandable, though 'IT' is an abbreviation.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Healthcare Operations Analyst",
+      "verdict": "PASS",
+      "reason": "Clear and descriptive.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Human Resources Manager",
+      "verdict": "PASS",
+      "reason": "Common and clear title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "IT Procurement Specialist",
+      "verdict": "PASS",
+      "reason": "Specific and understandable, though 'IT' is an abbreviation.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "IT Project Coordinator",
+      "verdict": "PASS",
+      "reason": "Specific and understandable, though 'IT' is an abbreviation.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "IT Systems Analyst",
+      "verdict": "PASS",
+      "reason": "Common and understandable, though 'IT' is an abbreviation.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Immigration Process Analyst",
+      "verdict": "PASS",
+      "reason": "Specific and descriptive.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Internal Auditor",
+      "verdict": "PASS",
+      "reason": "Common private-sector title and clear.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Legislative Affairs Specialist",
+      "verdict": "PASS",
+      "reason": "Specific and understandable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Legislative Analyst",
+      "verdict": "PASS",
+      "reason": "Specific enough to indicate analysis of legislation.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Logistics Analyst",
+      "verdict": "PASS",
+      "reason": "Common and understandable title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Logistics Compliance Manager",
+      "verdict": "PASS",
+      "reason": "Specific and functional.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Logistics Program Manager",
+      "verdict": "PASS",
+      "reason": "Specific enough to indicate program management in logistics.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Maintenance Operations Analyst",
+      "verdict": "PASS",
+      "reason": "Specific and descriptive.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Maintenance Operations Manager",
+      "verdict": "PASS",
+      "reason": "Specific and functional.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Maintenance Planning Analyst",
+      "verdict": "PASS",
+      "reason": "Specific and understandable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Maintenance Systems Administrator",
+      "verdict": "PASS",
+      "reason": "Specific and understandable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Operations Coordinator",
+      "verdict": "PASS",
+      "reason": "Common and understandable title, though broad.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Operations Support Manager",
+      "verdict": "PASS",
+      "reason": "Specific enough to indicate management of support operations.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Performance Metrics Analyst",
+      "verdict": "PASS",
+      "reason": "Clear and descriptive.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Procurement Operations Manager",
+      "verdict": "PASS",
+      "reason": "Specific and understandable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Procurement and Budget Manager",
+      "verdict": "PASS",
+      "reason": "Specific and functional.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Project Controls Manager",
+      "verdict": "PASS",
+      "reason": "Recognizable private-sector title and sufficiently descriptive.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Project Coordinator",
+      "verdict": "PASS",
+      "reason": "Common and understandable title, though broad.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Public Works Project Coordinator",
+      "verdict": "PASS",
+      "reason": "Specific and descriptive.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Quality Assurance Manager",
+      "verdict": "PASS",
+      "reason": "Common and clear title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Recruitment Specialist",
+      "verdict": "PASS",
+      "reason": "Clear and understandable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Regulatory Affairs Analyst",
+      "verdict": "PASS",
+      "reason": "Specific and recognizable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Security Program Manager",
+      "verdict": "PASS",
+      "reason": "Specific enough to indicate management of a security program.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Staffing Analyst",
+      "verdict": "PASS",
+      "reason": "Common HR title and understandable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Strategic Communications Director",
+      "verdict": "PASS",
+      "reason": "Common private-sector title and sufficiently descriptive.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Supply Chain Manager",
+      "verdict": "PASS",
+      "reason": "Common and clear title.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Supply Operations Manager",
+      "verdict": "PASS",
+      "reason": "Specific and understandable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Systems Integration Manager",
+      "verdict": "PASS",
+      "reason": "Recognizable and descriptive.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Technical Program Coordinator",
+      "verdict": "PASS",
+      "reason": "Specific and understandable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Technical Training Specialist",
+      "verdict": "PASS",
+      "reason": "Specific and clear.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Technology Commercialization Specialist",
+      "verdict": "PASS",
+      "reason": "Specific and descriptive.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Training Operations Manager",
+      "verdict": "PASS",
+      "reason": "Specific and understandable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Workforce Planning Specialist",
+      "verdict": "PASS",
+      "reason": "Specific and functional.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Workforce Programs Manager",
+      "verdict": "PASS",
+      "reason": "Specific and understandable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Workforce Training Coordinator",
+      "verdict": "PASS",
+      "reason": "Specific and functional.",
+      "suggested_replacements": []
+    }
+  ],
+  "titles": [
+    {
+      "title": "Workforce Planning Analyst",
+      "description": "Analyzes workforce data, staffing trends, and organizational needs to help leaders forecast hiring, retention, and skill gaps. Builds reports and recommendations for workforce plans and staffing strategies.",
+      "absorbs": [
+        "Workforce Planning Analyst"
+      ],
+      "count": 28
+    },
+    {
+      "title": "Workforce Planning Manager",
+      "description": "Leads workforce planning efforts across an organization, overseeing staffing forecasts, position management, and long-range labor planning. Coordinates with HR and leadership to align workforce strategy with mission needs.",
+      "absorbs": [
+        "Workforce Planning Manager",
+        "Workforce Planning Supervisor",
+        "Workforce Planning Director",
+        "Workforce Planning Lead"
+      ],
+      "count": 10
+    },
+    {
+      "title": "Defense Policy Analyst",
+      "description": "Researches and analyzes defense-related policies, programs, and issues to support decision-making and policy development. Prepares briefs, recommendations, and background materials for leaders and stakeholders.",
+      "absorbs": [],
+      "replaced_from": "Policy Analyst"
+    },
+    {
+      "title": "HR Policy Analyst",
+      "description": "Reviews human resources policies, procedures, and regulations to ensure they are current and compliant. Drafts policy updates, analyzes impacts, and advises on HR policy implementation.",
+      "absorbs": [],
+      "replaced_from": "Policy Analyst"
+    },
+    {
+      "title": "Regulatory Affairs Analyst",
+      "description": "Interprets regulations and helps ensure programs, products, or operations comply with applicable rules. Prepares compliance documentation, tracks regulatory changes, and supports responses to regulators.",
+      "absorbs": [],
+      "replaced_from": "Policy Analyst"
+    },
+    {
+      "title": "Legislative Analyst",
+      "description": "Tracks legislation, congressional activity, and policy proposals that affect the organization. Summarizes bills, prepares issue papers, and advises leaders on legislative impacts.",
+      "absorbs": [],
+      "replaced_from": "Policy Analyst"
+    },
+    {
+      "title": "Budget Analyst",
+      "description": "Develops, monitors, and analyzes budgets for programs or offices. Reviews spending, prepares budget justifications, and helps managers make funding decisions.",
+      "absorbs": [
+        "Budget Analyst"
+      ],
+      "count": 8
+    },
+    {
+      "title": "Defense Budget Analyst",
+      "description": "Analyzes defense program budgets, funding requests, and execution data to support military or defense agency planning. Prepares budget exhibits, forecasts, and justification materials.",
+      "absorbs": [
+        "Defense Budget Analyst"
+      ],
+      "count": 8
+    },
+    {
+      "title": "Healthcare Data Analyst",
+      "description": "Collects, cleans, and analyzes healthcare data to identify trends in patient care, operations, or outcomes. Produces reports and dashboards that support clinical and administrative decisions.",
+      "absorbs": [
+        "Healthcare Data Analyst"
+      ],
+      "count": 8
+    },
+    {
+      "title": "Program Evaluation Analyst",
+      "description": "Evaluates whether programs are meeting goals, using performance data, metrics, and qualitative information. Recommends improvements based on findings and prepares evaluation reports.",
+      "absorbs": [
+        "Program Evaluation Analyst"
+      ],
+      "count": 7
+    },
+    {
+      "title": "Operations Coordinator",
+      "description": "Coordinates day-to-day operational tasks, schedules, and follow-up actions to keep office or program activities running smoothly. Tracks requests, communicates with stakeholders, and helps resolve routine issues.",
+      "absorbs": [],
+      "replaced_from": "Administrative Coordinator"
+    },
+    {
+      "title": "Project Coordinator",
+      "description": "Supports project managers by tracking tasks, schedules, deliverables, and meeting actions. Helps organize project documentation, communications, and status updates.",
+      "absorbs": [],
+      "replaced_from": "Administrative Coordinator"
+    },
+    {
+      "title": "Executive Assistant",
+      "description": "Provides high-level administrative support to executives, managing calendars, correspondence, travel, and meeting logistics. Often prepares briefing materials and handles confidential information.",
+      "absorbs": [],
+      "replaced_from": "Administrative Coordinator"
+    },
+    {
+      "title": "Administrative Services Supervisor",
+      "description": "Supervises administrative support staff and oversees office services such as records, scheduling, supplies, and correspondence. Ensures administrative processes run efficiently and meet organizational needs.",
+      "absorbs": [],
+      "replaced_from": "Administrative Coordinator"
+    },
+    {
+      "title": "Operations Support Manager",
+      "description": "Manages support functions that keep operations running, such as coordination, reporting, logistics, and administrative services. Improves workflows and ensures teams have the resources they need.",
+      "absorbs": [],
+      "replaced_from": "Administrative Operations Manager"
+    },
+    {
+      "title": "Administrative Services Supervisor",
+      "description": "Supervises administrative support staff and oversees office services such as records, scheduling, supplies, and correspondence. Ensures administrative processes run efficiently and meet organizational needs.",
+      "absorbs": [],
+      "replaced_from": "Administrative Operations Manager"
+    },
+    {
+      "title": "Office Operations Manager",
+      "description": "Oversees daily office operations, including administrative processes, staffing, facilities coordination, and workflow management. Ensures the office functions efficiently and supports leadership needs.",
+      "absorbs": [],
+      "replaced_from": "Administrative Operations Manager"
+    },
+    {
+      "title": "Business Operations Manager",
+      "description": "Manages business processes and operational support activities to improve efficiency, service delivery, and coordination across teams. Tracks performance, resolves operational issues, and implements process improvements.",
+      "absorbs": [],
+      "replaced_from": "Administrative Operations Manager"
+    },
+    {
+      "title": "Continuous Improvement Manager",
+      "description": "Leads process improvement efforts using data, workflow analysis, and performance metrics to reduce waste and improve efficiency. Guides teams in adopting better methods and standardizing practices.",
+      "absorbs": [
+        "Continuous Improvement Manager"
+      ],
+      "count": 6
+    },
+    {
+      "title": "Operations Planning Manager",
+      "description": "Plans and coordinates operational activities, staffing, and resources to meet short- and long-term mission requirements. Develops schedules, forecasts needs, and aligns operations with organizational goals.",
+      "absorbs": [
+        "Operations Planning Manager"
+      ],
+      "count": 5
+    },
+    {
+      "title": "Program Budget Analyst",
+      "description": "Analyzes and tracks budgets for specific programs, ensuring funds are allocated and spent appropriately. Prepares budget plans, forecasts, and financial reports for program managers.",
+      "absorbs": [
+        "Program Budget Analyst"
+      ],
+      "count": 5
+    },
+    {
+      "title": "Quality Assurance Specialist",
+      "description": "Reviews processes, outputs, or services to ensure they meet established standards and requirements. Conducts audits, identifies defects or gaps, and recommends corrective actions.",
+      "absorbs": [
+        "Quality Assurance Specialist"
+      ],
+      "count": 5
+    },
+    {
+      "title": "Chief of Staff",
+      "description": "Serves as a senior coordinator for an executive or leadership office, managing priorities, communications, and follow-through on key initiatives. Often oversees staff, prepares decision materials, and ensures leadership actions are executed.",
+      "absorbs": [
+        "Chief of Staff"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Clinical Informatics Specialist",
+      "description": "Supports the use of health information systems and clinical data to improve patient care and workflow. Works with clinicians and IT staff to configure systems, analyze data, and troubleshoot issues.",
+      "absorbs": [
+        "Clinical Informatics Specialist"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Clinical Operations Analyst",
+      "description": "Analyzes clinical workflows, staffing, and operational data to improve patient care delivery and efficiency. Produces reports and recommendations for clinic or hospital leadership.",
+      "absorbs": [
+        "Clinical Operations Analyst"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Contract Administrator",
+      "description": "Manages contract paperwork, compliance, modifications, and correspondence throughout the contract lifecycle. Tracks deliverables, deadlines, and contractor performance to ensure terms are met.",
+      "absorbs": [
+        "Contract Administrator"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Executive Assistant",
+      "description": "Provides high-level administrative support to executives, managing calendars, correspondence, travel, and meeting logistics. Often prepares briefing materials and handles confidential information.",
+      "absorbs": [
+        "Executive Assistant"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Financial Planning Analyst",
+      "description": "Analyzes financial data, forecasts, and spending trends to support planning and decision-making. Builds models, prepares reports, and helps managers plan future resource needs.",
+      "absorbs": [
+        "Financial Planning Analyst"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Human Resources Advisor",
+      "description": "Advises managers and employees on HR matters such as staffing, employee relations, policy interpretation, and workforce issues. Helps resolve personnel questions and ensures actions follow HR rules.",
+      "absorbs": [
+        "Human Resources Advisor"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Maintenance Data Analyst",
+      "description": "Analyzes maintenance records, equipment performance data, and repair trends to improve reliability and scheduling. Produces reports that help maintenance teams plan work and reduce downtime.",
+      "absorbs": [
+        "Maintenance Data Analyst"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Project Budget Analyst",
+      "description": "Tracks project funding, expenditures, and forecasts to ensure projects stay within budget. Prepares financial reports, funding requests, and cost analyses for project leaders.",
+      "absorbs": [
+        "Project Budget Analyst"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Academic Operations Coordinator",
+      "description": "Coordinates administrative and operational tasks that support academic programs, schedules, and student or faculty services. Handles communications, records, and routine process follow-up.",
+      "absorbs": [
+        "Academic Operations Coordinator"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Administrative Services Supervisor",
+      "description": "Supervises administrative support staff and oversees office services such as records, scheduling, supplies, and correspondence. Ensures administrative processes run efficiently and meet organizational needs.",
+      "absorbs": [
+        "Administrative Services Supervisor",
+        "Administrative Services Manager",
+        "Director of Administrative Services"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Aircraft Maintenance Data Analyst",
+      "description": "Analyzes aircraft maintenance data, repair histories, and readiness metrics to support fleet maintenance decisions. Identifies trends, tracks performance, and helps improve maintenance planning.",
+      "absorbs": [
+        "Aircraft Maintenance Data Analyst"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Business Analyst",
+      "description": "Studies business processes, requirements, and data to identify problems and recommend improvements. Works with stakeholders to document needs, analyze options, and support implementation.",
+      "absorbs": [
+        "Business Analyst"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Construction Budget Analyst",
+      "description": "Monitors construction project budgets, costs, and forecasts to keep projects financially on track. Prepares funding reports, cost analyses, and budget justifications.",
+      "absorbs": [
+        "Construction Budget Analyst"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Contract Compliance Specialist",
+      "description": "Reviews contracts and contractor performance to verify compliance with terms and requirements. Tracks deliverables, documents issues, and supports enforcement or remediation.",
+      "absorbs": [
+        "Contract Compliance Specialist"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Data Governance Manager",
+      "description": "Leads policies and processes for managing data quality, ownership, access, and standards across an organization. Coordinates with stakeholders to ensure data is accurate, secure, and usable.",
+      "absorbs": [
+        "Data Governance Manager"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Defense Policy Advisor",
+      "description": "Advises leaders on defense policy issues, strategic options, and implications of proposed actions. Prepares analysis, talking points, and recommendations for decision-makers.",
+      "absorbs": [
+        "Defense Policy Advisor"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Education Program Analyst",
+      "description": "Analyzes education programs, performance data, and service delivery to assess effectiveness and identify improvements. Supports planning, reporting, and program evaluation activities.",
+      "absorbs": [
+        "Education Program Analyst"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Executive Communications Specialist",
+      "description": "Develops speeches, talking points, memos, and other communications for senior leaders. Shapes messaging, prepares briefing materials, and helps manage executive-level communications.",
+      "absorbs": [
+        "Executive Communications Specialist"
+      ],
+      "count": 3
+    },
+    {
+      "title": "HR Policy Analyst",
+      "description": "Reviews human resources policies, procedures, and regulations to ensure they are current and compliant. Drafts policy updates, analyzes impacts, and advises on HR policy implementation.",
+      "absorbs": [
+        "HR Policy Analyst"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Health Informatics Analyst",
+      "description": "Analyzes health data and information systems to improve clinical workflows, reporting, and decision support. Works with healthcare staff and IT teams to translate data needs into system solutions.",
+      "absorbs": [
+        "Health Informatics Analyst"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Human Resources Analyst",
+      "description": "Analyzes HR data, staffing actions, and personnel processes to support workforce management. Prepares reports, tracks trends, and helps resolve HR process issues.",
+      "absorbs": [
+        "Human Resources Analyst"
+      ],
+      "count": 3
+    },
+    {
+      "title": "IT Acquisition Manager",
+      "description": "Manages acquisition activities for information technology products and services, including requirements, sourcing, and vendor coordination. Ensures purchases align with technical needs, budgets, and procurement rules.",
+      "absorbs": [
+        "IT Acquisition Manager",
+        "IT Acquisition Director",
+        "Senior IT Acquisition Manager"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Internal Controls Manager",
+      "description": "Oversees internal control processes to reduce risk, ensure compliance, and improve accountability. Reviews procedures, tests controls, and coordinates corrective actions for weaknesses.",
+      "absorbs": [
+        "Internal Controls Manager"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Maintenance Systems Analyst",
+      "description": "Analyzes maintenance systems, data, and workflows to improve equipment tracking, scheduling, and reliability. Supports system configuration, reporting, and process improvements for maintenance operations.",
+      "absorbs": [
+        "Maintenance Systems Analyst"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Management Consultant",
+      "description": "Advises organizations on improving strategy, operations, structure, and performance. Conducts analysis, interviews stakeholders, and develops recommendations for change.",
+      "absorbs": [
+        "Management Consultant"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Workforce Planning Manager",
+      "description": "Leads workforce planning efforts across an organization, overseeing staffing forecasts, position management, and long-range labor planning. Coordinates with HR and leadership to align workforce strategy with mission needs.",
+      "absorbs": [],
+      "replaced_from": "Manpower Planning Manager"
+    },
+    {
+      "title": "Workforce Planning Specialist",
+      "description": "Supports workforce planning by analyzing staffing data, position needs, and workforce trends. Helps develop forecasts, reports, and recommendations for hiring and resource planning.",
+      "absorbs": [],
+      "replaced_from": "Manpower Planning Manager"
+    },
+    {
+      "title": "Civilian Workforce Planner",
+      "description": "Plans civilian staffing needs by analyzing vacancies, workforce trends, and organizational requirements. Helps leaders forecast hiring, manage positions, and align staffing with mission priorities.",
+      "absorbs": [],
+      "replaced_from": "Manpower Planning Manager"
+    },
+    {
+      "title": "Workforce Programs Manager",
+      "description": "Manages workforce-related programs such as staffing, development, retention, or succession planning. Oversees program performance, policy implementation, and coordination with HR stakeholders.",
+      "absorbs": [],
+      "replaced_from": "Manpower Planning Manager"
+    },
+    {
+      "title": "HR Operations Specialist",
+      "description": "Handles day-to-day human resources transactions and operational processes such as onboarding, personnel actions, records, and benefits support. Ensures HR work is accurate, timely, and compliant.",
+      "absorbs": [],
+      "replaced_from": "Personnel Actions Specialist"
+    },
+    {
+      "title": "Human Resources Analyst",
+      "description": "Analyzes HR data, staffing actions, and personnel processes to support workforce management. Prepares reports, tracks trends, and helps resolve HR process issues.",
+      "absorbs": [],
+      "replaced_from": "Personnel Actions Specialist"
+    },
+    {
+      "title": "Employee Relations Specialist",
+      "description": "Advises managers and employees on workplace conduct, grievances, disciplinary actions, and conflict resolution. Investigates issues, interprets policy, and helps resolve employee relations matters.",
+      "absorbs": [],
+      "replaced_from": "Personnel Actions Specialist"
+    },
+    {
+      "title": "Recruitment Specialist",
+      "description": "Plans and executes recruiting activities to attract and hire qualified candidates. Posts jobs, screens applicants, coordinates interviews, and supports hiring managers.",
+      "absorbs": [],
+      "replaced_from": "Personnel Actions Specialist"
+    },
+    {
+      "title": "Procurement Analyst",
+      "description": "Analyzes purchasing data, vendor performance, and procurement processes to improve buying decisions and compliance. Prepares reports, tracks spending, and supports sourcing activities.",
+      "absorbs": [
+        "Procurement Analyst"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Procurement Specialist",
+      "description": "Handles purchasing actions, vendor coordination, and procurement documentation for goods and services. Ensures acquisitions follow policy, budget, and competition requirements.",
+      "absorbs": [
+        "Procurement Specialist"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Requirements Analyst",
+      "description": "Gathers and documents business or technical requirements for systems, services, or projects. Works with stakeholders to clarify needs and translate them into actionable specifications.",
+      "absorbs": [
+        "Requirements Analyst"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Resource Planning Analyst",
+      "description": "Analyzes staffing, funding, equipment, or other resource needs to support planning and allocation decisions. Develops forecasts and reports to help managers balance demand and capacity.",
+      "absorbs": [
+        "Resource Planning Analyst"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Technical Program Manager",
+      "description": "Coordinates technical projects or programs, aligning engineering, IT, or operations teams around schedules, deliverables, and risks. Tracks progress, resolves blockers, and ensures technical work meets program goals.",
+      "absorbs": [
+        "Technical Program Manager"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Training Program Analyst",
+      "description": "Analyzes training needs, program performance, and learner outcomes to improve training offerings. Supports curriculum planning, reporting, and evaluation of training effectiveness.",
+      "absorbs": [
+        "Training Program Analyst"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Training Program Manager",
+      "description": "Manages training programs, including planning, delivery, staffing, and performance tracking. Ensures training initiatives meet organizational needs and improve employee capability.",
+      "absorbs": [
+        "Training Program Manager"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Aircraft Maintenance Analyst",
+      "description": "Analyzes aircraft maintenance data, readiness, and repair trends to support fleet sustainment and scheduling. Helps identify maintenance issues and improve aircraft availability.",
+      "absorbs": [
+        "Aircraft Maintenance Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Application Processing Analyst",
+      "description": "Reviews and processes applications, requests, or case files to ensure completeness and compliance with requirements. Tracks status, resolves discrepancies, and supports timely decisions.",
+      "absorbs": [
+        "Application Processing Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Budget and Planning Manager",
+      "description": "Leads budget development and planning activities, aligning resources with organizational priorities. Oversees forecasts, funding plans, and financial analysis for management decisions.",
+      "absorbs": [
+        "Budget and Planning Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Business Systems Analyst",
+      "description": "Analyzes business processes and system requirements to improve how technology supports operations. Works with users and developers to define needs, test solutions, and support implementation.",
+      "absorbs": [
+        "Business Systems Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Child Care Program Manager",
+      "description": "Manages child care programs, including staffing, operations, compliance, and service quality. Oversees schedules, budgets, and program improvements to support families and children.",
+      "absorbs": [
+        "Child Care Program Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Civilian Workforce Planner",
+      "description": "Plans civilian staffing needs by analyzing vacancies, workforce trends, and organizational requirements. Helps leaders forecast hiring, manage positions, and align staffing with mission priorities.",
+      "absorbs": [
+        "Civilian Workforce Planner"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Clinic Operations Manager",
+      "description": "Oversees daily clinic operations, including staffing, patient flow, scheduling, and administrative processes. Works to improve efficiency, service quality, and coordination among clinical teams.",
+      "absorbs": [
+        "Clinic Operations Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Clinical Informatics Manager",
+      "description": "Leads teams that use health information systems and clinical data to improve care delivery and operations. Oversees system optimization, reporting, and coordination between clinicians and IT.",
+      "absorbs": [
+        "Clinical Informatics Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Clinical Systems Analyst",
+      "description": "Analyzes and supports clinical software and workflows used in healthcare settings. Helps configure systems, troubleshoot issues, and improve how clinical staff use technology.",
+      "absorbs": [
+        "Clinical Systems Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Configuration Control Manager",
+      "description": "Manages configuration management processes to track and control changes to systems, equipment, or documentation. Ensures versions, approvals, and baselines are maintained accurately.",
+      "absorbs": [
+        "Configuration Control Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Congressional Affairs Specialist",
+      "description": "Manages communications and coordination with Congress, including inquiries, briefings, and legislative responses. Prepares materials and tracks issues affecting the organization.",
+      "absorbs": [
+        "Congressional Affairs Specialist"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Contract Compliance Manager",
+      "description": "Oversees contract compliance activities, ensuring contractors meet terms, reporting requirements, and regulatory obligations. Reviews performance issues and coordinates corrective actions.",
+      "absorbs": [
+        "Contract Compliance Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Contract Compliance Specialist",
+      "description": "Reviews contracts and contractor performance to verify compliance with terms and requirements. Tracks deliverables, documents issues, and supports enforcement or remediation.",
+      "absorbs": [],
+      "replaced_from": "Contracting Officer Representative"
+    },
+    {
+      "title": "Contract Administrator",
+      "description": "Manages contract paperwork, compliance, modifications, and correspondence throughout the contract lifecycle. Tracks deliverables, deadlines, and contractor performance to ensure terms are met.",
+      "absorbs": [],
+      "replaced_from": "Contracting Officer Representative"
+    },
+    {
+      "title": "Vendor Manager",
+      "description": "Manages relationships with vendors and monitors service levels, deliverables, and contract performance. Coordinates issue resolution and helps ensure vendors meet business needs.",
+      "absorbs": [],
+      "replaced_from": "Contracting Officer Representative"
+    },
+    {
+      "title": "Procurement Specialist",
+      "description": "Handles purchasing actions, vendor coordination, and procurement documentation for goods and services. Ensures acquisitions follow policy, budget, and competition requirements.",
+      "absorbs": [],
+      "replaced_from": "Contracting Officer Representative"
+    },
+    {
+      "title": "Contracts and Procurement Manager",
+      "description": "Leads contract and procurement activities, overseeing sourcing, negotiations, compliance, and vendor performance. Ensures purchases and contracts support organizational goals and follow regulations.",
+      "absorbs": [
+        "Contracts and Procurement Manager",
+        "Contracts and Procurement Supervisor"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Data Analytics Manager",
+      "description": "Leads analysts in collecting, interpreting, and presenting data to support business or mission decisions. Oversees dashboards, reporting, and analytical methods to improve performance insights.",
+      "absorbs": [
+        "Data Analytics Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Defense Acquisition Manager",
+      "description": "Manages acquisition programs for defense goods or services, coordinating requirements, procurement, and contract execution. Tracks milestones, budgets, and compliance across the acquisition lifecycle.",
+      "absorbs": [
+        "Defense Acquisition Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Defense Policy Analyst",
+      "description": "Researches and analyzes defense-related policies, programs, and issues to support decision-making and policy development. Prepares briefs, recommendations, and background materials for leaders and stakeholders.",
+      "absorbs": [
+        "Defense Policy Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Depot Maintenance Manager",
+      "description": "Oversees depot-level maintenance operations, including scheduling, staffing, production, and quality control. Ensures equipment or vehicles are repaired efficiently and meet readiness requirements.",
+      "absorbs": [
+        "Depot Maintenance Manager",
+        "Depot Maintenance Supervisor"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Employee Relations Specialist",
+      "description": "Advises managers and employees on workplace conduct, grievances, disciplinary actions, and conflict resolution. Investigates issues, interprets policy, and helps resolve employee relations matters.",
+      "absorbs": [
+        "Employee Relations Specialist"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Enterprise Data Manager",
+      "description": "Manages enterprise-wide data assets, standards, and governance practices to improve data quality and accessibility. Coordinates data stewardship, reporting needs, and cross-functional data initiatives.",
+      "absorbs": [
+        "Enterprise Data Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Environmental Budget Analyst",
+      "description": "Analyzes budgets and spending for environmental programs, projects, or compliance activities. Prepares forecasts, funding justifications, and financial reports for program leaders.",
+      "absorbs": [
+        "Environmental Budget Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Facilities Planning Specialist",
+      "description": "Plans space, facility, and infrastructure needs based on organizational growth, occupancy, and mission requirements. Develops recommendations for renovations, relocations, and long-term facilities use.",
+      "absorbs": [
+        "Facilities Planning Specialist"
+      ],
+      "count": 2
+    },
+    {
+      "title": "HR Operations Specialist",
+      "description": "Handles day-to-day human resources transactions and operational processes such as onboarding, personnel actions, records, and benefits support. Ensures HR work is accurate, timely, and compliant.",
+      "absorbs": [
+        "HR Operations Specialist"
+      ],
+      "count": 2
+    },
+    {
+      "title": "HR Operations Supervisor",
+      "description": "Supervises HR operations staff and oversees personnel transactions, records management, onboarding, and related administrative processes. Ensures HR services are accurate, timely, and compliant.",
+      "absorbs": [
+        "HR Operations Supervisor",
+        "HR Operations Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Health IT Workflow Analyst",
+      "description": "Analyzes healthcare workflows and information technology processes to improve how clinical staff use health systems. Identifies bottlenecks, documents requirements, and supports workflow redesign.",
+      "absorbs": [
+        "Health IT Workflow Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Healthcare Operations Analyst",
+      "description": "Analyzes healthcare operations data, workflows, and performance metrics to improve service delivery and efficiency. Prepares reports and recommendations for clinical or administrative leaders.",
+      "absorbs": [
+        "Healthcare Operations Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Human Resources Manager",
+      "description": "Leads HR functions such as staffing, employee relations, policy, performance management, and workforce planning. Oversees HR staff and ensures personnel practices support organizational goals.",
+      "absorbs": [
+        "Human Resources Manager",
+        "Human Resources Director"
+      ],
+      "count": 2
+    },
+    {
+      "title": "IT Procurement Specialist",
+      "description": "Supports purchasing of information technology products and services by developing requirements, coordinating vendors, and processing procurement actions. Ensures acquisitions meet technical and policy requirements.",
+      "absorbs": [
+        "IT Procurement Specialist"
+      ],
+      "count": 2
+    },
+    {
+      "title": "IT Project Coordinator",
+      "description": "Supports IT projects by tracking tasks, schedules, documentation, and communications among technical teams and stakeholders. Helps keep project activities organized and on schedule.",
+      "absorbs": [
+        "IT Project Coordinator"
+      ],
+      "count": 2
+    },
+    {
+      "title": "IT Systems Analyst",
+      "description": "Analyzes information technology systems, user needs, and technical issues to improve system performance and support business operations. Works with users and developers to define requirements and troubleshoot problems.",
+      "absorbs": [
+        "IT Systems Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Immigration Process Analyst",
+      "description": "Reviews immigration-related cases, workflows, and documentation to improve processing accuracy and timeliness. Tracks requirements, identifies bottlenecks, and supports compliance with immigration rules.",
+      "absorbs": [
+        "Immigration Process Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Internal Auditor",
+      "description": "Examines processes, controls, and records to assess compliance, accuracy, and risk. Conducts audits, documents findings, and recommends corrective actions to improve accountability.",
+      "absorbs": [
+        "Internal Auditor"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Legislative Affairs Specialist",
+      "description": "Coordinates legislative tracking, congressional communications, and responses to policy or oversight issues. Prepares briefings, correspondence, and analysis for leadership.",
+      "absorbs": [
+        "Legislative Affairs Specialist"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Legislative Analyst",
+      "description": "Tracks legislation, congressional activity, and policy proposals that affect the organization. Summarizes bills, prepares issue papers, and advises leaders on legislative impacts.",
+      "absorbs": [
+        "Legislative Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Logistics Analyst",
+      "description": "Analyzes supply, transportation, inventory, and distribution data to improve logistics performance. Identifies bottlenecks and recommends changes to support efficient movement of goods and materials.",
+      "absorbs": [
+        "Logistics Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Logistics Compliance Manager",
+      "description": "Oversees compliance with logistics policies, regulations, and contractual requirements. Monitors processes, resolves issues, and ensures supply chain activities meet standards.",
+      "absorbs": [
+        "Logistics Compliance Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Logistics Program Manager",
+      "description": "Manages logistics programs and coordinates supply, transportation, inventory, and distribution activities. Oversees schedules, resources, and performance to support mission needs.",
+      "absorbs": [
+        "Logistics Program Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Maintenance Operations Analyst",
+      "description": "Analyzes maintenance operations data, work orders, and performance metrics to improve efficiency and readiness. Supports planning, reporting, and process improvement for maintenance teams.",
+      "absorbs": [
+        "Maintenance Operations Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Maintenance Operations Manager",
+      "description": "Manages maintenance operations, including staffing, scheduling, workflow, and performance monitoring. Ensures maintenance work is completed safely, efficiently, and on time.",
+      "absorbs": [
+        "Maintenance Operations Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Maintenance Planning Analyst",
+      "description": "Plans maintenance activities by analyzing equipment status, schedules, and resource needs. Helps coordinate preventive maintenance and prioritize work to reduce downtime.",
+      "absorbs": [
+        "Maintenance Planning Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Maintenance Systems Administrator",
+      "description": "Administers maintenance information systems, including user support, data integrity, and system configuration. Ensures maintenance records and workflows are accurately maintained in the system.",
+      "absorbs": [
+        "Maintenance Systems Administrator"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Operations Coordinator",
+      "description": "Coordinates day-to-day operational tasks, schedules, and follow-up actions to keep office or program activities running smoothly. Tracks requests, communicates with stakeholders, and helps resolve routine issues.",
+      "absorbs": [
+        "Operations Coordinator"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Operations Support Manager",
+      "description": "Manages support functions that keep operations running, such as coordination, reporting, logistics, and administrative services. Improves workflows and ensures teams have the resources they need.",
+      "absorbs": [
+        "Operations Support Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Performance Metrics Analyst",
+      "description": "Collects and analyzes performance data to measure progress against goals and identify trends. Builds dashboards and reports that help leaders monitor results and improve operations.",
+      "absorbs": [
+        "Performance Metrics Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Procurement Operations Manager",
+      "description": "Oversees procurement operations, including purchasing workflows, vendor coordination, and process compliance. Improves efficiency and ensures acquisition activities are executed consistently.",
+      "absorbs": [
+        "Procurement Operations Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Procurement and Budget Manager",
+      "description": "Manages both procurement activities and budget planning to ensure purchases align with available funding. Coordinates spending plans, acquisition actions, and financial controls.",
+      "absorbs": [
+        "Procurement and Budget Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Project Controls Manager",
+      "description": "Oversees project controls such as schedules, budgets, risk tracking, and status reporting. Ensures project managers have accurate information to keep work on time and within scope.",
+      "absorbs": [
+        "Project Controls Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Project Coordinator",
+      "description": "Supports project managers by tracking tasks, schedules, deliverables, and meeting actions. Helps organize project documentation, communications, and status updates.",
+      "absorbs": [
+        "Project Coordinator"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Public Works Project Coordinator",
+      "description": "Coordinates public works projects by tracking schedules, permits, contractors, and project documentation. Supports communication among engineers, vendors, and stakeholders to keep projects moving.",
+      "absorbs": [
+        "Public Works Project Coordinator"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Quality Assurance Manager",
+      "description": "Leads quality assurance activities, including audits, process reviews, and corrective action tracking. Ensures products, services, or operations meet required standards.",
+      "absorbs": [
+        "Quality Assurance Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Recruitment Specialist",
+      "description": "Plans and executes recruiting activities to attract and hire qualified candidates. Posts jobs, screens applicants, coordinates interviews, and supports hiring managers.",
+      "absorbs": [
+        "Recruitment Specialist"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Regulatory Affairs Analyst",
+      "description": "Interprets regulations and helps ensure programs, products, or operations comply with applicable rules. Prepares compliance documentation, tracks regulatory changes, and supports responses to regulators.",
+      "absorbs": [
+        "Regulatory Affairs Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Security Program Manager",
+      "description": "Manages security programs, policies, and compliance activities to protect people, information, or facilities. Coordinates assessments, training, and corrective actions to reduce risk.",
+      "absorbs": [
+        "Security Program Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Staffing Analyst",
+      "description": "Analyzes staffing levels, vacancies, and workforce trends to support hiring and position management decisions. Prepares reports and forecasts to help leaders meet staffing needs.",
+      "absorbs": [
+        "Staffing Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Strategic Communications Director",
+      "description": "Leads communication strategy and messaging for an organization, aligning outreach with leadership priorities and mission goals. Oversees communications plans, content development, and public-facing messaging.",
+      "absorbs": [
+        "Strategic Communications Director",
+        "Strategic Communications Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Supply Chain Manager",
+      "description": "Manages supply chain activities such as sourcing, inventory, logistics, and vendor coordination. Works to improve availability, cost, and efficiency across the supply chain.",
+      "absorbs": [
+        "Supply Chain Manager",
+        "Supply Chain Supervisor"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Supply Operations Manager",
+      "description": "Oversees supply operations, including inventory control, distribution, ordering, and process coordination. Ensures supplies are available when needed and operations run efficiently.",
+      "absorbs": [
+        "Supply Operations Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Systems Integration Manager",
+      "description": "Leads efforts to connect systems, applications, or data sources so they work together effectively. Coordinates technical teams, resolves interface issues, and ensures integrated solutions meet requirements.",
+      "absorbs": [
+        "Systems Integration Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Technical Program Coordinator",
+      "description": "Coordinates technical program activities, schedules, documentation, and stakeholder communications. Supports technical teams by tracking deliverables and helping resolve routine coordination issues.",
+      "absorbs": [
+        "Technical Program Coordinator"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Technical Training Specialist",
+      "description": "Develops and delivers training on technical systems, tools, or procedures. Assesses training needs, creates materials, and helps users build technical proficiency.",
+      "absorbs": [
+        "Technical Training Specialist"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Technology Commercialization Specialist",
+      "description": "Supports the transfer of technology from development to market or operational use. Evaluates inventions, coordinates licensing or partnerships, and helps move innovations toward adoption.",
+      "absorbs": [
+        "Technology Commercialization Specialist"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Training Operations Manager",
+      "description": "Manages the operational side of training delivery, including scheduling, logistics, staffing, and records. Ensures training programs run smoothly and meet organizational requirements.",
+      "absorbs": [
+        "Training Operations Manager",
+        "Director of Training Operations"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Workforce Planning Specialist",
+      "description": "Supports workforce planning by analyzing staffing data, position needs, and workforce trends. Helps develop forecasts, reports, and recommendations for hiring and resource planning.",
+      "absorbs": [
+        "Workforce Planning Specialist"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Workforce Programs Manager",
+      "description": "Manages workforce-related programs such as staffing, development, retention, or succession planning. Oversees program performance, policy implementation, and coordination with HR stakeholders.",
+      "absorbs": [
+        "Workforce Programs Manager",
+        "Workforce Programs Director"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Workforce Training Coordinator",
+      "description": "Coordinates training schedules, enrollments, records, and communications for workforce development programs. Helps employees and managers access required training and track completion.",
+      "absorbs": [
+        "Workforce Training Coordinator"
+      ],
+      "count": 2
+    }
+  ]
+}

@@ -12,6 +12,7 @@ min_text_length: 100        # min chars of combined text to keep a posting
 max_text_length: 5000       # max chars of posting text sent to the LLM
 min_title_count: 2          # title must appear this many times to survive dedup
 duties_preview_len: 300     # max chars for duties preview on the site
+use_batch_api: false        # use OpenAI Batch API for classify (50% cheaper, slower)
 
 # Occupational series to process
 series:
@@ -26,6 +27,10 @@ series:
   - code: "1530"
     name: Statistics
     fedTitle: Statistician
+
+  - code: "1084"
+    name: Visual Information
+    fedTitle: Visual Information Specialist
 
 # ──────────────────────────────────────────────────────────────
 # Prompts — edit these to change how the LLM behaves at each step
@@ -78,6 +83,13 @@ prompts:
     "Supply Chain Analyst", "Benefits Administrator", "Healthcare Data Analyst",
     "Training Coordinator", "Chief of Staff", "Cybersecurity Analyst", "Policy Analyst"
 
+    Also FAIL the title if:
+    - It contains unexplained acronyms or abbreviations
+    - It uses ALL CAPS or federal formatting conventions
+    - It contains federal classification jargon like "Interdisciplinary", or parenthetical
+      specialization codes
+    - A private-sector recruiter would never post a job with this exact title string
+
     Examples of titles that FAIL:
     - "Program Analyst" — too generic, what program?
     - "Management Analyst" — too vague
@@ -86,6 +98,7 @@ prompts:
     - "Business Operations Analyst" — means nothing specific
     - "Organizational Development Analyst" — HR jargon
     - "Strategic Initiatives Manager" — buzzwords
+    - "IT Specialist (INFOSEC)" — parenthetical federal code, not a real title
 
   # Step 4: validate_titles.py — checks titles against OPM guidance
   validate_opm: |
