@@ -5,3 +5,6 @@ __pycache__/
 
 # Pipeline intermediate data (large/generated)
 /data/
+
+# Local Netlify folder
+.netlify
