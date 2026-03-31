@@ -1,0 +1,163 @@
+# Plain Language Titles — Pipeline Configuration
+# Edit this file to control what the pipeline runs and how.
+
+# LLM settings
+model: gpt-5.4-mini
+concurrency: 20            # max parallel API calls
+
+# Pipeline parameters
+discover_sample_size: 400   # postings sampled for title discovery (0 = all)
+classify_sample_size: 0     # postings sampled for classification (0 = all)
+min_text_length: 100        # min chars of combined text to keep a posting
+max_text_length: 5000       # max chars of posting text sent to the LLM
+min_title_count: 2          # title must appear this many times to survive dedup
+duties_preview_len: 300     # max chars for duties preview on the site
+
+# Occupational series to process
+series:
+  - code: "0343"
+    name: Management & Program Analysis
+    fedTitle: Management and Program Analyst
+
+  - code: "2210"
+    name: Information Technology
+    fedTitle: IT Specialist
+
+  - code: "1530"
+    name: Statistics
+    fedTitle: Statistician
+
+# ──────────────────────────────────────────────────────────────
+# Prompts — edit these to change how the LLM behaves at each step
+# ──────────────────────────────────────────────────────────────
+
+prompts:
+
+  # Step 2: discover_titles.py — proposes titles from job duties
+  discover: |
+    You are an expert in federal job classification and private-sector job titling.
+
+    Given a federal job posting's text (duties, qualifications, summary), propose 1-3 plain language
+    job titles that a private-sector jobseeker would search for on LinkedIn or Indeed.
+
+    The key test: would a real person put this title on their LinkedIn profile? Would a recruiter
+    post a job with this exact title? If not, it's too vague or too federal-sounding.
+
+    Base your proposals entirely on the duties described, not on any title mentioned in the text.
+
+    Rules:
+    - Titles must be SPECIFIC to the work described. "Budget Analyst" is good. "Management Analyst" is
+      bad — it doesn't tell you what the person does.
+    - Think about what a private-sector company would call this exact role. A person who manages
+      IT contracts is a "Contract Administrator" or "IT Procurement Specialist", not a "Program Analyst".
+    - A person who tracks workforce metrics is a "Workforce Planning Analyst" or "HR Data Analyst",
+      not an "Operations Analyst".
+    - No federal jargon, acronyms, or abbreviations
+    - Titles should reflect the work described, not the generic federal series title
+    - If the posting describes a supervisory/leadership role, reflect that (e.g., "Director of Budget Operations")
+    - Keep titles concise (2-4 words typically)
+    - AVOID these generic catch-all titles: "Program Manager", "Management Analyst", "Program Analyst",
+      "Operations Analyst", "Performance Analyst", "Business Operations Analyst", "Strategic Planning Manager".
+      These are just as vague as the federal titles they replace. Be more specific about WHAT is being
+      managed/analyzed/planned.
+
+  # Step 3: consolidate_titles.py — validates each deduplicated title
+  consolidate_validate: |
+    You are reviewing a proposed job title. Answer two questions:
+
+    1. Is this a REAL job title that you would see on LinkedIn or Indeed? Would a recruiter post
+       a job with this exact title? Would a real person put this on their resume?
+
+    2. Is it SPECIFIC enough that someone reading it would know what the person does day-to-day?
+
+    PASS the title if BOTH answers are yes.
+    FAIL the title if either answer is no.
+
+    Examples of titles that PASS: "Budget Analyst", "Contract Administrator", "IT Project Manager",
+    "Compliance Officer", "Customer Experience Manager", "Recruiter", "Grant Writer",
+    "Supply Chain Analyst", "Benefits Administrator", "Healthcare Data Analyst",
+    "Training Coordinator", "Chief of Staff", "Cybersecurity Analyst", "Policy Analyst"
+
+    Examples of titles that FAIL:
+    - "Program Analyst" — too generic, what program?
+    - "Management Analyst" — too vague
+    - "Operations Analyst" — what operations?
+    - "Performance Improvement Analyst" — corporate-speak, not a real job title
+    - "Business Operations Analyst" — means nothing specific
+    - "Organizational Development Analyst" — HR jargon
+    - "Strategic Initiatives Manager" — buzzwords
+
+  # Step 4: validate_titles.py — checks titles against OPM guidance
+  validate_opm: |
+    You are reviewing a set of proposed "plain language" job titles for federal job postings.
+
+    The OPM (Office of Personnel Management) has issued guidance requiring federal job announcements
+    to use descriptive, functional titles that resonate with jobseekers — NOT generic or non-descriptive titles.
+
+    Per OPM's September 2025 memo:
+    - Titles must be written in plain language so individuals OUTSIDE the federal government can easily match their skills
+    - Titles must accurately convey the NATURE of the position and skills sought
+    - Titles must align with PRIVATE-SECTOR terminology to attract a broader talent pool
+    - Titles must NOT include jargon, abbreviations, or acronyms
+    - Titles must NOT be merely generic or non-descriptive
+
+    Examples of GOOD titles from OPM:
+    - "AI/Machine Learning Engineer" (not "IT Specialist")
+    - "Cloud Engineer" (not "IT Specialist")
+    - "Customer Experience Manager" (not "Management and Program Analyst")
+    - "HR Business Partner" (not "Human Resources Specialist")
+    - "Recruiter" (not "Human Resources Specialist")
+    - "Appeals Litigation Lead" (not "Attorney-Advisor")
+
+    Examples of BAD titles (too generic/vague):
+    - "Management Analyst" — what do they actually manage or analyze? This is just the federal series name.
+    - "Program Manager" — which program? What domain? This could be anything.
+    - "Operations Analyst" — too vague, what operations?
+    - "Strategic Planning Manager" — corporate buzzwords, not descriptive of actual work
+
+    For each title, decide:
+    - PASS: The title is specific enough that a jobseeker could understand what the job involves
+    - FAIL: The title is too generic, vague, or still sounds like federal jargon
+
+    For FAILed titles, suggest 2-4 more specific replacement titles that the category could be
+    split into, based on the description of what work it covers. The replacements should be things
+    you'd see on LinkedIn or Indeed — titles real people use in the private sector.
+
+  # Step 5: enrich_new_titles.py — writes descriptions for new titles
+  enrich: |
+    Write a 1-2 sentence description for each job title. The description should explain what
+    kind of work this person does day-to-day, specific enough that an LLM could use it to
+    classify a job posting into the right category.
+
+  # Step 6 pass 1: classify_postings.py — picks from the title list
+  # NOTE: {title_descriptions} is replaced at runtime with the formatted title list
+  classify: |
+    You are classifying federal job postings into plain language job titles.
+
+    Here are the available titles and what they cover:
+
+    {title_descriptions}
+
+    You will receive each posting's current federal title and its text. Pick the single best-fitting
+    plain language title from the list above. Rate how well it fits on a scale of 1-5:
+      5 = Perfect match — the title precisely describes this role
+      4 = Strong match — clearly the right category, minor aspects not captured
+      3 = Adequate match — reasonable fit but the posting has significant duties not captured by the title
+      2 = Weak match — this is the closest title but it's a stretch
+      1 = Poor match — none of the titles really describe this job
+
+    Use "none" only if no title from the list fits at fit score 3 or above. When in doubt between
+    a mediocre fit and "none", prefer the mediocre fit — the fit score communicates the uncertainty.
+
+    Base your decision entirely on the duties described in the posting text.
+
+  # Step 6 pass 2: classify_postings.py — proposes new title for unmatched postings
+  classify_propose: |
+    You are proposing a plain language job title for a federal posting that didn't fit any of
+    the pre-defined title categories.
+
+    Given the posting's duties text, propose a single specific, plain language job title. The title
+    should be something you'd see on LinkedIn — specific to the work described, no federal jargon,
+    2-4 words typically.
+
+    Do NOT use generic titles like "Program Manager", "Management Analyst", "Operations Analyst", etc.
