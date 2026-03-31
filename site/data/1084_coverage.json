@@ -1,30 +1,30 @@
 {
   "series": "1084",
-  "total_postings": 86,
-  "from_list": 78,
-  "proposed_new": 8,
+  "total_postings": 85,
+  "from_list": 82,
+  "proposed_new": 3,
   "errors": 0,
-  "mean_fit_score": 4.7,
+  "mean_fit_score": 4.66,
   "median_fit_score": 5.0,
   "coverage_by_threshold": {
-    "1": 85,
-    "2": 85,
-    "3": 85,
-    "4": 85,
-    "5": 64
+    "1": 84,
+    "2": 84,
+    "3": 84,
+    "4": 84,
+    "5": 60
   },
   "fit_distribution": {
     "1": 0,
     "2": 0,
     "3": 0,
-    "4": 21,
-    "5": 64
+    "4": 24,
+    "5": 60
   },
   "title_stats": [
     {
       "title": "Broadcast Technician",
       "count": 2,
-      "pct": 2.3255813953488373,
+      "pct": 2.3529411764705883,
       "avg_fit": 5.0,
       "source": "list",
       "fit_dist": {
@@ -33,29 +33,30 @@
     },
     {
       "title": "Digital Content Designer",
-      "count": 1,
-      "pct": 1.1627906976744187,
-      "avg_fit": 5.0,
+      "count": 2,
+      "pct": 2.3529411764705883,
+      "avg_fit": 4.5,
       "source": "list",
       "fit_dist": {
+        "4": 1,
         "5": 1
       }
     },
     {
       "title": "Digital Content Specialist",
       "count": 5,
-      "pct": 5.813953488372093,
-      "avg_fit": 4.2,
+      "pct": 5.88235294117647,
+      "avg_fit": 4.4,
       "source": "list",
       "fit_dist": {
-        "4": 4,
-        "5": 1
+        "4": 3,
+        "5": 2
       }
     },
     {
       "title": "Digital Marketing Specialist",
       "count": 1,
-      "pct": 1.1627906976744187,
+      "pct": 1.1764705882352942,
       "avg_fit": 5.0,
       "source": "list",
       "fit_dist": {
@@ -65,7 +66,7 @@
     {
       "title": "E-Learning Developer",
       "count": 2,
-      "pct": 2.3255813953488373,
+      "pct": 2.3529411764705883,
       "avg_fit": 5.0,
       "source": "list",
       "fit_dist": {
@@ -73,112 +74,91 @@
       }
     },
     {
-      "title": "Exhibit Design Manager",
+      "title": "Exhibit Planning Manager",
       "count": 1,
-      "pct": 1.1627906976744187,
+      "pct": 1.1764705882352942,
       "avg_fit": 4.0,
       "source": "list",
       "fit_dist": {
         "4": 1
-      }
-    },
-    {
-      "title": "Exhibit Designer",
-      "count": 1,
-      "pct": 1.1627906976744187,
-      "avg_fit": 5.0,
-      "source": "list",
-      "fit_dist": {
-        "5": 1
       }
     },
     {
       "title": "Exhibition Graphic Designer",
-      "count": 6,
-      "pct": 6.976744186046512,
+      "count": 7,
+      "pct": 8.235294117647058,
       "avg_fit": 5.0,
       "source": "list",
       "fit_dist": {
-        "5": 6
-      }
-    },
-    {
-      "title": "Graphic Design Manager",
-      "count": 1,
-      "pct": 1.1627906976744187,
-      "avg_fit": 4.0,
-      "source": "list",
-      "fit_dist": {
-        "4": 1
+        "5": 7
       }
     },
     {
       "title": "Graphic Designer",
-      "count": 4,
-      "pct": 4.651162790697675,
-      "avg_fit": 4.75,
+      "count": 6,
+      "pct": 7.0588235294117645,
+      "avg_fit": 4.5,
       "source": "list",
       "fit_dist": {
         "5": 3,
-        "4": 1
+        "4": 3
       }
     },
     {
       "title": "Instructional Designer",
       "count": 1,
-      "pct": 1.1627906976744187,
-      "avg_fit": 5.0,
+      "pct": 1.1764705882352942,
+      "avg_fit": 4.0,
       "source": "list",
       "fit_dist": {
-        "5": 1
+        "4": 1
       }
     },
     {
       "title": "Marketing Communications Specialist",
-      "count": 5,
-      "pct": 5.813953488372093,
-      "avg_fit": 4.6,
+      "count": 2,
+      "pct": 2.3529411764705883,
+      "avg_fit": 4.0,
       "source": "list",
       "fit_dist": {
-        "5": 3,
         "4": 2
       }
     },
     {
       "title": "Marketing Graphic Designer",
-      "count": 4,
-      "pct": 4.651162790697675,
+      "count": 3,
+      "pct": 3.5294117647058822,
       "avg_fit": 5.0,
       "source": "list",
       "fit_dist": {
-        "5": 4
+        "5": 3
       }
     },
     {
       "title": "Multimedia Content Creator",
-      "count": 1,
-      "pct": 1.1627906976744187,
+      "count": 2,
+      "pct": 2.3529411764705883,
       "avg_fit": 5.0,
       "source": "list",
       "fit_dist": {
-        "5": 1
+        "5": 2
       }
     },
     {
       "title": "Multimedia Content Designer",
       "count": 4,
-      "pct": 4.651162790697675,
-      "avg_fit": 4.75,
+      "pct": 4.705882352941177,
+      "avg_fit": 4.5,
       "source": "list",
       "fit_dist": {
-        "5": 3,
-        "4": 1
+        "4": 2,
+        "5": 2
       }
     },
     {
       "title": "Multimedia Production Manager",
       "count": 2,
-      "pct": 2.3255813953488373,
+      "pct": 2.3529411764705883,
       "avg_fit": 4.5,
       "source": "list",
       "fit_dist": {
@@ -189,7 +169,7 @@
     {
       "title": "Museum Exhibits Director",
       "count": 3,
-      "pct": 3.488372093023256,
+      "pct": 3.5294117647058822,
       "avg_fit": 4.666666666666667,
       "source": "list",
       "fit_dist": {
@@ -198,40 +178,20 @@
       }
     },
     {
-      "title": "Seasonal Visual Information Specialist",
-      "count": 2,
-      "pct": 2.3255813953488373,
-      "avg_fit": 5.0,
-      "source": "new",
-      "fit_dist": {
-        "5": 2
-      }
-    },
-    {
       "title": "Social Media Specialist",
-      "count": 5,
-      "pct": 5.813953488372093,
-      "avg_fit": 4.4,
+      "count": 6,
+      "pct": 7.0588235294117645,
+      "avg_fit": 4.333333333333333,
       "source": "list",
       "fit_dist": {
-        "4": 3,
-        "5": 2
-      }
-    },
-    {
-      "title": "VISUAL INFORMATION SPECIALIST",
-      "count": 2,
-      "pct": 2.3255813953488373,
-      "avg_fit": 5.0,
-      "source": "new",
-      "fit_dist": {
+        "4": 4,
         "5": 2
       }
     },
     {
       "title": "Video Conferencing Technician",
       "count": 2,
-      "pct": 2.3255813953488373,
+      "pct": 2.3529411764705883,
       "avg_fit": 5.0,
       "source": "list",
       "fit_dist": {
@@ -240,40 +200,40 @@
     },
     {
       "title": "Visual Communications Manager",
-      "count": 6,
-      "pct": 6.976744186046512,
-      "avg_fit": 4.5,
+      "count": 5,
+      "pct": 5.88235294117647,
+      "avg_fit": 4.8,
       "source": "list",
       "fit_dist": {
-        "4": 3,
-        "5": 3
+        "5": 4,
+        "4": 1
       }
     },
     {
       "title": "Visual Communications Specialist",
-      "count": 14,
-      "pct": 16.27906976744186,
-      "avg_fit": 4.928571428571429,
+      "count": 18,
+      "pct": 21.176470588235293,
+      "avg_fit": 4.944444444444445,
       "source": "list",
       "fit_dist": {
-        "5": 13,
+        "5": 17,
         "4": 1
       }
     },
     {
       "title": "Visual Information Specialist",
-      "count": 3,
-      "pct": 3.488372093023256,
+      "count": 2,
+      "pct": 2.3529411764705883,
       "avg_fit": 5.0,
       "source": "new",
       "fit_dist": {
-        "5": 3
+        "5": 2
       }
     },
     {
       "title": "Visual Merchandising Lead",
       "count": 4,
-      "pct": 4.651162790697675,
+      "pct": 4.705882352941177,
       "avg_fit": 5.0,
       "source": "list",
       "fit_dist": {
@@ -283,7 +243,7 @@
     {
       "title": "Web Content Manager",
       "count": 1,
-      "pct": 1.1627906976744187,
+      "pct": 1.1764705882352942,
       "avg_fit": 5.0,
       "source": "list",
       "fit_dist": {
@@ -292,18 +252,18 @@
     },
     {
       "title": "Web Content Specialist",
-      "count": 2,
-      "pct": 2.3255813953488373,
+      "count": 3,
+      "pct": 3.5294117647058822,
       "avg_fit": 4.0,
       "source": "list",
       "fit_dist": {
-        "4": 2
+        "4": 3
       }
     },
     {
       "title": "missing_duties",
       "count": 1,
-      "pct": 1.1627906976744187,
+      "pct": 1.1764705882352942,
       "avg_fit": 0.0,
       "source": "new",
       "fit_dist": {

@@ -164,6 +164,12 @@ def main():
     df = df.drop_duplicates(subset="control_number", keep="last").reset_index(drop=True)
     deduped = before_dedup - len(df)
 
+    # Filter out postings with junk titles (numeric, empty, etc.)
+    junk_titles = df["position_title"].fillna("").str.match(r'^\d+$')
+    if junk_titles.sum() > 0:
+        print(f"  ({junk_titles.sum()} postings dropped — numeric/junk title)")
+        df = df[~junk_titles].reset_index(drop=True)
+
     # Filter out postings with insufficient text
     df["text_length"] = df["combined_text"].fillna("").str.len()
     insufficient = (df["text_length"] < args.min_text_length).sum()
