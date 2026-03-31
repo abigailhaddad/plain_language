@@ -32,6 +32,56 @@ python pipeline/run_pipeline.py --series 0343
 python pipeline/run_pipeline.py --series 0343 --force
 ```
 
+### Pipeline diagram
+
+```
+USAJobs R2 Parquets
+        |
+        v
+  +-----------+
+  | 1. Fetch  |  Extract postings for a series,
+  +-----------+  parse duties/qualifications/summary
+        |
+        v
+  +-----------+
+  | 2. Discover|  LLM reads duties (blind, no title)
+  +-----------+  and proposes 1-3 plain language titles
+        |
+        v
+  +-------------+
+  | 3. Consolidate|  Programmatic dedup, then LLM
+  +-------------+  validates each surviving title
+        |
+        v
+  +-------------+
+  | 4. Validate  |  Check against OPM plain-language
+  +-------------+  guidance; replace generic titles
+        |
+        v
+  +-----------+
+  | 5. Enrich |  LLM writes descriptions
+  +-----------+  for new/replacement titles
+        |
+        v
+  +-------------------+
+  | 6. Classify        |  Pass 1: constrained enum (title list
+  | (two-pass)        |    + validated originals)
+  +-------------------+  Pass 2: free-text for unmatched
+        |
+        v
+  +-----------+
+  | 7. Measure |  Coverage stats, fit scores,
+  +-----------+  flag issues
+        |
+        v
+  +-----------+
+  | 8. Export  |  Build site JSON with full
+  +-----------+  duties + USAJobs links
+        |
+        v
+   Site / Netlify
+```
+
 ### Pipeline steps
 
 | Step | Script | What it does |
