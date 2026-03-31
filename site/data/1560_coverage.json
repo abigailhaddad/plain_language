@@ -1,0 +1,388 @@
+{
+  "series": "1560",
+  "total_postings": 150,
+  "from_list": 143,
+  "proposed_new": 7,
+  "errors": 0,
+  "mean_fit_score": 4.23,
+  "median_fit_score": 4.0,
+  "coverage_by_threshold": {
+    "1": 150,
+    "2": 150,
+    "3": 142,
+    "4": 136,
+    "5": 57
+  },
+  "fit_distribution": {
+    "1": 0,
+    "2": 8,
+    "3": 6,
+    "4": 79,
+    "5": 57
+  },
+  "title_stats": [
+    {
+      "title": "AI Engineer",
+      "count": 1,
+      "pct": 0.6666666666666667,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 1
+      }
+    },
+    {
+      "title": "AI Risk Data Scientist",
+      "count": 2,
+      "pct": 1.3333333333333335,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 2
+      }
+    },
+    {
+      "title": "Applied Data Scientist",
+      "count": 1,
+      "pct": 0.6666666666666667,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 1
+      }
+    },
+    {
+      "title": "Chief Data Officer",
+      "count": 3,
+      "pct": 2.0,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 3
+      }
+    },
+    {
+      "title": "Cyber Data Analyst",
+      "count": 1,
+      "pct": 0.6666666666666667,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 1
+      }
+    },
+    {
+      "title": "Cyber Data Scientist",
+      "count": 1,
+      "pct": 0.6666666666666667,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 1
+      }
+    },
+    {
+      "title": "Data Analyst",
+      "count": 6,
+      "pct": 4.0,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 6
+      }
+    },
+    {
+      "title": "Data Analytics Manager",
+      "count": 1,
+      "pct": 0.6666666666666667,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 1
+      }
+    },
+    {
+      "title": "Data Architect",
+      "count": 3,
+      "pct": 2.0,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 3
+      }
+    },
+    {
+      "title": "Data Engineer",
+      "count": 6,
+      "pct": 4.0,
+      "avg_fit": 4.333333333333333,
+      "source": "list",
+      "fit_dist": {
+        "4": 4,
+        "5": 2
+      }
+    },
+    {
+      "title": "Data Engineering Manager",
+      "count": 2,
+      "pct": 1.3333333333333335,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 2
+      }
+    },
+    {
+      "title": "Data Governance Director",
+      "count": 1,
+      "pct": 0.6666666666666667,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 1
+      }
+    },
+    {
+      "title": "Data Management Analyst",
+      "count": 1,
+      "pct": 0.6666666666666667,
+      "avg_fit": 3.0,
+      "source": "list",
+      "fit_dist": {
+        "3": 1
+      }
+    },
+    {
+      "title": "Data Science Manager",
+      "count": 12,
+      "pct": 8.0,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 10,
+        "5": 1,
+        "3": 1
+      }
+    },
+    {
+      "title": "Data Science Team Lead",
+      "count": 6,
+      "pct": 4.0,
+      "avg_fit": 3.8333333333333335,
+      "source": "list",
+      "fit_dist": {
+        "4": 4,
+        "2": 1,
+        "5": 1
+      }
+    },
+    {
+      "title": "Data Scientist",
+      "count": 50,
+      "pct": 33.33333333333333,
+      "avg_fit": 4.42,
+      "source": "list",
+      "fit_dist": {
+        "4": 26,
+        "5": 23,
+        "2": 1
+      }
+    },
+    {
+      "title": "Data Strategy Director",
+      "count": 4,
+      "pct": 2.666666666666667,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 4
+      }
+    },
+    {
+      "title": "Data Systems Analyst",
+      "count": 3,
+      "pct": 2.0,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 3
+      }
+    },
+    {
+      "title": "Director of Data Analytics",
+      "count": 1,
+      "pct": 0.6666666666666667,
+      "avg_fit": 5.0,
+      "source": "new",
+      "fit_dist": {
+        "5": 1
+      }
+    },
+    {
+      "title": "Geospatial Data Scientist",
+      "count": 2,
+      "pct": 1.3333333333333335,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 2
+      }
+    },
+    {
+      "title": "Intelligence Analyst",
+      "count": 8,
+      "pct": 5.333333333333334,
+      "avg_fit": 2.25,
+      "source": "list",
+      "fit_dist": {
+        "2": 6,
+        "3": 2
+      }
+    },
+    {
+      "title": "Junior Data Scientist",
+      "count": 4,
+      "pct": 2.666666666666667,
+      "avg_fit": 4.5,
+      "source": "list",
+      "fit_dist": {
+        "5": 2,
+        "4": 2
+      }
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "count": 1,
+      "pct": 0.6666666666666667,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 1
+      }
+    },
+    {
+      "title": "Machine Learning Evaluation Scientist",
+      "count": 2,
+      "pct": 1.3333333333333335,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 2
+      }
+    },
+    {
+      "title": "Operations Research Analyst",
+      "count": 3,
+      "pct": 2.0,
+      "avg_fit": 4.333333333333333,
+      "source": "list",
+      "fit_dist": {
+        "4": 2,
+        "5": 1
+      }
+    },
+    {
+      "title": "People Analytics Data Scientist",
+      "count": 2,
+      "pct": 1.3333333333333335,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 2
+      }
+    },
+    {
+      "title": "People Analytics Director",
+      "count": 2,
+      "pct": 1.3333333333333335,
+      "avg_fit": 4.5,
+      "source": "list",
+      "fit_dist": {
+        "5": 1,
+        "4": 1
+      }
+    },
+    {
+      "title": "People Analytics Specialist",
+      "count": 1,
+      "pct": 0.6666666666666667,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 1
+      }
+    },
+    {
+      "title": "Reentry Materials Engineer",
+      "count": 1,
+      "pct": 0.6666666666666667,
+      "avg_fit": 5.0,
+      "source": "new",
+      "fit_dist": {
+        "5": 1
+      }
+    },
+    {
+      "title": "Research Data Scientist",
+      "count": 4,
+      "pct": 2.666666666666667,
+      "avg_fit": 5.0,
+      "source": "new",
+      "fit_dist": {
+        "5": 4
+      }
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 1,
+      "pct": 0.6666666666666667,
+      "avg_fit": 4.0,
+      "source": "new",
+      "fit_dist": {
+        "4": 1
+      }
+    },
+    {
+      "title": "Software Engineer",
+      "count": 6,
+      "pct": 4.0,
+      "avg_fit": 3.6666666666666665,
+      "source": "list",
+      "fit_dist": {
+        "4": 4,
+        "3": 2
+      }
+    },
+    {
+      "title": "Supply Chain Data Scientist",
+      "count": 1,
+      "pct": 0.6666666666666667,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 1
+      }
+    },
+    {
+      "title": "Supply Chain Risk Analyst",
+      "count": 4,
+      "pct": 2.666666666666667,
+      "avg_fit": 4.75,
+      "source": "list",
+      "fit_dist": {
+        "5": 3,
+        "4": 1
+      }
+    },
+    {
+      "title": "Workforce Analytics Specialist",
+      "count": 3,
+      "pct": 2.0,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 3
+      }
+    }
+  ]
+}

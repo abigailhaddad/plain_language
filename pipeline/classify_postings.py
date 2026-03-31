@@ -282,7 +282,7 @@ async def run_classification(df: pd.DataFrame, titles: list[dict], model: str, c
     return all_results
 
 
-def run_classification_batch(df: pd.DataFrame, titles: list[dict], model: str, concurrency: int) -> list[dict]:
+def run_classification_batch(df: pd.DataFrame, titles: list[dict], model: str, concurrency: int, series_code: str = "unknown") -> list[dict]:
     """Batch API version — 50% cheaper, slower turnaround."""
     from batch import build_batch_request, pydantic_to_response_format, run_batch
 
@@ -348,7 +348,7 @@ def run_classification_batch(df: pd.DataFrame, titles: list[dict], model: str, c
         print(f"  Skipping {len(skip_indices)} postings with insufficient duties")
 
     print(f"\n  Pass 1 (batch): Submitting {len(requests)} requests...")
-    batch_results = run_batch(requests, description=f"classify {cfg.get('series', '?')}")
+    batch_results = run_batch(requests, tag=f"classify_{series_code}", description=f"classify {series_code}")
 
     # Build results array
     skip_result = {"best_title": "missing_duties", "fit_score": 0, "reasoning": "Posting does not contain substantive duties text."}
@@ -390,7 +390,7 @@ def run_classification_batch(df: pd.DataFrame, titles: list[dict], model: str, c
                 temperature=0.3,
             ))
 
-        pass2_results = run_batch(pass2_requests, description="classify pass2 proposals")
+        pass2_results = run_batch(pass2_requests, tag=f"classify_{series_code}_pass2", description=f"classify {series_code} pass2")
         for idx in none_indices:
             key = f"p2_{idx}"
             if key in pass2_results and "error" not in pass2_results[key]:
@@ -438,7 +438,7 @@ def main():
           (" (batch mode)" if args.batch else "") + "...")
 
     if args.batch:
-        results = run_classification_batch(df, titles, args.model, args.concurrency)
+        results = run_classification_batch(df, titles, args.model, args.concurrency, args.series)
     else:
         results = asyncio.run(run_classification(df, titles, args.model, args.concurrency))
 

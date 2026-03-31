@@ -1,0 +1,885 @@
+{
+  "series": "1560",
+  "model": "gpt-5.4-mini",
+  "num_titles_before": 61,
+  "num_passed": 61,
+  "num_failed": 0,
+  "num_titles_after": 61,
+  "validation_details": [
+    {
+      "title": "Data Scientist",
+      "verdict": "PASS",
+      "reason": "Clear, plain-language title that accurately describes the role and is widely used outside government.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "verdict": "PASS",
+      "reason": "Specific and recognizable private-sector title; clearly conveys the technical focus.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Data Analytics Manager",
+      "verdict": "PASS",
+      "reason": "Descriptive enough to indicate management of analytics work, though still broad.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Data Science Manager",
+      "verdict": "PASS",
+      "reason": "Clear and functional title that signals leadership of data science work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Data Engineer",
+      "verdict": "PASS",
+      "reason": "Widely used private-sector title that clearly conveys the nature of the work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Data Analyst",
+      "verdict": "PASS",
+      "reason": "Common, plain-language title that is easy for jobseekers to understand.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Data Science Analyst",
+      "verdict": "PASS",
+      "reason": "Reasonably clear and descriptive; indicates analytical work within data science.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Defense Intelligence Analyst",
+      "verdict": "PASS",
+      "reason": "Specific and descriptive; clearly identifies the domain and function.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Intelligence Analyst",
+      "verdict": "PASS",
+      "reason": "Recognizable title that conveys the core function, though broad.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Business Intelligence Analyst",
+      "verdict": "PASS",
+      "reason": "Standard private-sector title that clearly signals analytics/reporting work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Analytics Engineer",
+      "verdict": "PASS",
+      "reason": "Common industry title with a clear technical meaning.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Data Engineering Manager",
+      "verdict": "PASS",
+      "reason": "Specific leadership title that clearly describes the area of responsibility.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Data Governance Director",
+      "verdict": "PASS",
+      "reason": "Clear and specific leadership title; the governance focus is understandable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Machine Learning Scientist",
+      "verdict": "PASS",
+      "reason": "Specific and descriptive; commonly understood in technical hiring contexts.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Data Strategy Director",
+      "verdict": "PASS",
+      "reason": "Plain enough to indicate leadership over data strategy, though somewhat broad.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Supply Chain Risk Analyst",
+      "verdict": "PASS",
+      "reason": "Specific and understandable; clearly identifies the subject matter and function.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "All-Source Intelligence Analyst",
+      "verdict": "PASS",
+      "reason": "A recognized intelligence-community title that is specific to the work performed.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Data Analytics Specialist",
+      "verdict": "PASS",
+      "reason": "Clear and descriptive, though somewhat broad; still understandable to jobseekers.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Healthcare Data Scientist",
+      "verdict": "PASS",
+      "reason": "Specific domain title that clearly conveys the type of data science work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Operations Research Analyst",
+      "verdict": "PASS",
+      "reason": "Established title that is specific enough for jobseekers familiar with analytics roles.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Analytics Team Lead",
+      "verdict": "PASS",
+      "reason": "Clear leadership title, though the scope of analytics is broad.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Chief Data Officer",
+      "verdict": "PASS",
+      "reason": "Well-known executive title that clearly conveys senior responsibility for data.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Data Analytics Engineer",
+      "verdict": "PASS",
+      "reason": "Specific enough to indicate a technical analytics engineering role.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Data Management Analyst",
+      "verdict": "PASS",
+      "reason": "Descriptive enough to indicate work focused on managing data, though broad.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Data Science Team Lead",
+      "verdict": "PASS",
+      "reason": "Clear leadership title that communicates the function and level.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Data Systems Analyst",
+      "verdict": "PASS",
+      "reason": "Reasonably descriptive; suggests analysis of data systems rather than generic analysis.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Data Visualization Specialist",
+      "verdict": "PASS",
+      "reason": "Clear and plain-language title that conveys the core skill area.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Geospatial Data Scientist",
+      "verdict": "PASS",
+      "reason": "Specific and descriptive; clearly indicates the domain of data science work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Machine Learning Analyst",
+      "verdict": "PASS",
+      "reason": "Understandable and specific enough to convey analytical work in machine learning.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Machine Learning Director",
+      "verdict": "PASS",
+      "reason": "Clear leadership title with a specific technical focus.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Predictive Analytics Manager",
+      "verdict": "PASS",
+      "reason": "Descriptive enough to indicate management of predictive analytics work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Research Data Analyst",
+      "verdict": "PASS",
+      "reason": "Clear and understandable title that indicates the research context.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Security Analyst",
+      "verdict": "PASS",
+      "reason": "Common private-sector title, though broad; still understandable to jobseekers.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Supply Chain Data Scientist",
+      "verdict": "PASS",
+      "reason": "Specific domain title that clearly conveys the work area.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Workforce Analytics Director",
+      "verdict": "PASS",
+      "reason": "Clear leadership title with a specific analytics domain.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Workforce Analytics Specialist",
+      "verdict": "PASS",
+      "reason": "Plain-language and specific enough to indicate the subject matter.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "AI Engineer",
+      "verdict": "PASS",
+      "reason": "Short but specific and widely used in the private sector.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "AI Risk Data Scientist",
+      "verdict": "PASS",
+      "reason": "Specific enough to convey a data science role focused on AI risk.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Applied Data Scientist",
+      "verdict": "PASS",
+      "reason": "Recognizable title that suggests practical application of data science methods.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Clinical Data Analyst",
+      "verdict": "PASS",
+      "reason": "Clear domain-specific title that jobseekers can readily understand.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Criminal Justice Data Analyst",
+      "verdict": "PASS",
+      "reason": "Specific and descriptive; clearly identifies the field and function.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Cyber Data Analyst",
+      "verdict": "PASS",
+      "reason": "Specific enough to indicate analytics work in the cybersecurity domain.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Cyber Data Scientist",
+      "verdict": "PASS",
+      "reason": "Clear and specific title for data science work in cybersecurity.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Data Analyst Intern",
+      "verdict": "PASS",
+      "reason": "Plain-language title that clearly indicates level and function.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Data Architect",
+      "verdict": "PASS",
+      "reason": "Widely used technical title that is specific and understandable.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Data Visualization Analyst",
+      "verdict": "PASS",
+      "reason": "Clear and descriptive title that conveys the primary work area.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Financial Data Analyst",
+      "verdict": "PASS",
+      "reason": "Specific domain title that is easy for jobseekers to interpret.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "HR Data Scientist",
+      "verdict": "PASS",
+      "reason": "Recognizable and specific enough, though 'HR' is an abbreviation; in plain-language contexts, 'Human Resources Data Scientist' would be even clearer.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Healthcare Data Analyst",
+      "verdict": "PASS",
+      "reason": "Clear and specific title that accurately conveys the domain.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Junior Data Scientist",
+      "verdict": "PASS",
+      "reason": "Plain-language title that clearly signals entry-level level and function.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Machine Learning Evaluation Scientist",
+      "verdict": "PASS",
+      "reason": "Specific and descriptive; clearly indicates evaluation-focused machine learning work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "People Analytics Data Scientist",
+      "verdict": "PASS",
+      "reason": "Clear and specific title used in industry for HR/workforce analytics work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "People Analytics Director",
+      "verdict": "PASS",
+      "reason": "Descriptive leadership title that clearly conveys the function.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "People Analytics Specialist",
+      "verdict": "PASS",
+      "reason": "Specific enough to indicate analytics work focused on people/workforce data.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Predictive Analytics Analyst",
+      "verdict": "PASS",
+      "reason": "Clear and understandable title that conveys the analytical focus.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Predictive Analytics Specialist",
+      "verdict": "PASS",
+      "reason": "Descriptive enough to communicate the role's focus on predictive analytics.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Quantitative Analyst",
+      "verdict": "PASS",
+      "reason": "Common private-sector title, though broad, it is still recognizable and functional.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Risk Modeling Analyst",
+      "verdict": "PASS",
+      "reason": "Specific and descriptive; clearly indicates analytical work in risk modeling.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Software Engineer",
+      "verdict": "PASS",
+      "reason": "Widely recognized private-sector title that clearly conveys the nature of the work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Statistical Analyst",
+      "verdict": "PASS",
+      "reason": "Clear and plain-language title that indicates statistical analysis work.",
+      "suggested_replacements": []
+    },
+    {
+      "title": "Workforce Data Analyst",
+      "verdict": "PASS",
+      "reason": "Specific and understandable title that conveys the data domain and function.",
+      "suggested_replacements": []
+    }
+  ],
+  "titles": [
+    {
+      "title": "Data Scientist",
+      "description": "Uses statistics, programming, and machine learning to analyze large datasets, build predictive models, and turn findings into business or product recommendations. Often cleans data, experiments with features, and communicates results to stakeholders.",
+      "absorbs": [
+        "Data Scientist",
+        "Senior Data Scientist",
+        "Lead Data Scientist"
+      ],
+      "count": 49
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "description": "Builds, deploys, and maintains machine learning systems in production, including model pipelines, APIs, and infrastructure. Focuses on making models scalable, reliable, and integrated into software products.",
+      "absorbs": [
+        "Machine Learning Engineer"
+      ],
+      "count": 20
+    },
+    {
+      "title": "Data Analytics Manager",
+      "description": "Leads a team of analysts to deliver reporting, dashboards, and ad hoc analysis that support business decisions. Oversees priorities, quality, stakeholder communication, and analytical standards.",
+      "absorbs": [
+        "Data Analytics Manager",
+        "Data Analytics Lead",
+        "Director of Data Analytics",
+        "Senior Data Analytics Manager"
+      ],
+      "count": 18
+    },
+    {
+      "title": "Data Science Manager",
+      "description": "Manages data scientists working on modeling, experimentation, and advanced analytics projects. Sets technical direction, reviews work, and aligns data science efforts with business goals.",
+      "absorbs": [
+        "Data Science Manager",
+        "Director of Data Science",
+        "Data Science Lead",
+        "Lead Data Science Manager"
+      ],
+      "count": 17
+    },
+    {
+      "title": "Data Engineer",
+      "description": "Designs and maintains data pipelines, databases, and ETL/ELT workflows that move data from source systems into analytics-ready platforms. Ensures data is clean, reliable, and available for analysts and data scientists.",
+      "absorbs": [
+        "Data Engineer"
+      ],
+      "count": 12
+    },
+    {
+      "title": "Data Analyst",
+      "description": "Collects, cleans, and analyzes data to answer business questions and create reports, dashboards, and insights. Uses SQL, spreadsheets, and visualization tools to track performance and trends.",
+      "absorbs": [
+        "Data Analyst",
+        "Senior Data Analyst"
+      ],
+      "count": 10
+    },
+    {
+      "title": "Data Science Analyst",
+      "description": "Combines analytical reporting with basic statistical or predictive modeling to support decision-making. Often prepares datasets, runs analyses, and translates results into clear business insights.",
+      "absorbs": [
+        "Data Science Analyst"
+      ],
+      "count": 8
+    },
+    {
+      "title": "Defense Intelligence Analyst",
+      "description": "Analyzes military, geopolitical, and security-related information to assess threats, capabilities, and intentions. Produces intelligence reports and briefings for defense or national security decision-makers.",
+      "absorbs": [
+        "Defense Intelligence Analyst"
+      ],
+      "count": 8
+    },
+    {
+      "title": "Intelligence Analyst",
+      "description": "Gathers and evaluates information from multiple sources to identify risks, patterns, and emerging threats. Creates assessments and reports for government, security, or corporate intelligence users.",
+      "absorbs": [
+        "Intelligence Analyst"
+      ],
+      "count": 8
+    },
+    {
+      "title": "Business Intelligence Analyst",
+      "description": "Builds dashboards, reports, and KPI tracking to help leaders monitor business performance. Translates operational data into actionable insights for finance, sales, marketing, or operations teams.",
+      "absorbs": [
+        "Business Intelligence Analyst"
+      ],
+      "count": 7
+    },
+    {
+      "title": "Analytics Engineer",
+      "description": "Transforms raw data into clean, modeled datasets for analytics and reporting, often using SQL and data transformation tools. Bridges the work of data engineering and business analytics.",
+      "absorbs": [
+        "Analytics Engineer"
+      ],
+      "count": 6
+    },
+    {
+      "title": "Data Engineering Manager",
+      "description": "Leads data engineers who build pipelines, warehouses, and data infrastructure. Manages technical priorities, system reliability, and delivery of data platforms that support analytics and machine learning.",
+      "absorbs": [
+        "Data Engineering Manager",
+        "Data Engineering Lead"
+      ],
+      "count": 6
+    },
+    {
+      "title": "Data Governance Director",
+      "description": "Defines and oversees policies for data quality, privacy, security, lineage, and access across the organization. Ensures data is managed consistently and in compliance with internal and external requirements.",
+      "absorbs": [
+        "Data Governance Director",
+        "Director of Data Governance",
+        "Data Governance Manager"
+      ],
+      "count": 6
+    },
+    {
+      "title": "Machine Learning Scientist",
+      "description": "Researches and develops advanced machine learning methods, often experimenting with novel algorithms and model architectures. Focuses on improving model performance through rigorous testing and analysis.",
+      "absorbs": [
+        "Machine Learning Scientist"
+      ],
+      "count": 6
+    },
+    {
+      "title": "Data Strategy Director",
+      "description": "Sets the organization\u2019s long-term plan for how data will be collected, managed, shared, and used to create value. Aligns data investments, governance, and analytics capabilities with business objectives.",
+      "absorbs": [
+        "Data Strategy Director",
+        "Data Strategy Manager",
+        "Data Strategy Lead"
+      ],
+      "count": 5
+    },
+    {
+      "title": "Supply Chain Risk Analyst",
+      "description": "Monitors suppliers, logistics, inventory, and external events to identify risks that could disrupt the supply chain. Uses data to assess exposure and recommend mitigation actions.",
+      "absorbs": [
+        "Supply Chain Risk Analyst"
+      ],
+      "count": 5
+    },
+    {
+      "title": "All-Source Intelligence Analyst",
+      "description": "Combines information from multiple intelligence sources to produce a complete assessment of a person, event, or threat. Synthesizes reports, imagery, signals, and open-source data into actionable intelligence.",
+      "absorbs": [
+        "All-Source Intelligence Analyst"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Data Analytics Specialist",
+      "description": "Performs detailed data analysis, reporting, and dashboarding to support specific business functions or projects. Often works on recurring metrics, trend analysis, and ad hoc requests.",
+      "absorbs": [
+        "Data Analytics Specialist"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Healthcare Data Scientist",
+      "description": "Applies statistical modeling and machine learning to healthcare data such as claims, clinical records, or outcomes data. Helps improve patient care, operations, cost management, or clinical decision-making.",
+      "absorbs": [
+        "Healthcare Data Scientist"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Operations Research Analyst",
+      "description": "Uses mathematical modeling, optimization, and simulation to improve complex decisions and processes. Analyzes tradeoffs in areas like logistics, scheduling, staffing, and resource allocation.",
+      "absorbs": [
+        "Operations Research Analyst"
+      ],
+      "count": 4
+    },
+    {
+      "title": "Analytics Team Lead",
+      "description": "Coordinates a team of analysts or analytics specialists to deliver reporting and insights on time. Balances hands-on analysis with mentoring, task planning, and stakeholder management.",
+      "absorbs": [
+        "Analytics Team Lead"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Chief Data Officer",
+      "description": "Owns enterprise-wide data strategy, governance, and data capabilities at the executive level. Oversees how data is managed and used across the organization to support business goals.",
+      "absorbs": [
+        "Chief Data Officer"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Data Analytics Engineer",
+      "description": "Builds and maintains analytical data models, transformations, and pipelines that make data usable for reporting and analysis. Often works closely with BI and data teams to ensure trusted metrics.",
+      "absorbs": [
+        "Data Analytics Engineer"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Data Management Analyst",
+      "description": "Supports data quality, metadata, master data, and data process improvements across systems. Helps ensure data is accurate, consistent, and properly maintained.",
+      "absorbs": [
+        "Data Management Analyst"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Data Science Team Lead",
+      "description": "Leads a group of data scientists on modeling, experimentation, and advanced analytics work. Provides technical guidance, reviews methods, and coordinates project delivery.",
+      "absorbs": [
+        "Data Science Team Lead"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Data Systems Analyst",
+      "description": "Analyzes how data flows through systems and identifies issues in data capture, integration, or reporting. Helps improve system processes, data accuracy, and operational efficiency.",
+      "absorbs": [
+        "Data Systems Analyst"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Data Visualization Specialist",
+      "description": "Creates charts, dashboards, and visual stories that make complex data easy to understand. Focuses on design, clarity, and communicating insights to nontechnical audiences.",
+      "absorbs": [
+        "Data Visualization Specialist"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Geospatial Data Scientist",
+      "description": "Analyzes location-based data using GIS, spatial statistics, and machine learning to identify geographic patterns and trends. Works with maps, satellite data, and spatial datasets for planning or risk analysis.",
+      "absorbs": [
+        "Geospatial Data Scientist"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Machine Learning Analyst",
+      "description": "Evaluates model outputs, prepares training data, and performs analysis to support machine learning projects. Often helps test model performance and interpret results for business teams.",
+      "absorbs": [
+        "Machine Learning Analyst"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Machine Learning Director",
+      "description": "Leads machine learning strategy, teams, and production model initiatives across the organization. Oversees model development, deployment standards, and alignment with business priorities.",
+      "absorbs": [
+        "Machine Learning Director",
+        "Machine Learning Lead",
+        "Director of Machine Learning"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Predictive Analytics Manager",
+      "description": "Manages analysts or data scientists who build forecasting and predictive models. Uses data-driven predictions to support planning, targeting, and operational decisions.",
+      "absorbs": [
+        "Predictive Analytics Manager",
+        "Predictive Analytics Lead"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Research Data Analyst",
+      "description": "Prepares and analyzes research datasets, often supporting academic, scientific, or policy studies. Handles data cleaning, statistical summaries, and reporting of research findings.",
+      "absorbs": [
+        "Research Data Analyst"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Security Analyst",
+      "description": "Monitors systems, logs, and alerts to detect security threats and investigate suspicious activity. Helps protect networks, data, and users by responding to incidents and recommending controls.",
+      "absorbs": [
+        "Security Analyst"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Supply Chain Data Scientist",
+      "description": "Uses advanced analytics and machine learning to improve supply chain forecasting, inventory, logistics, and demand planning. Builds models that help reduce cost, delay, and risk.",
+      "absorbs": [
+        "Supply Chain Data Scientist"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Workforce Analytics Director",
+      "description": "Leads analytics efforts focused on workforce planning, retention, hiring, and employee performance. Uses people data to guide HR strategy and organizational decisions.",
+      "absorbs": [
+        "Workforce Analytics Director",
+        "Workforce Analytics Manager"
+      ],
+      "count": 3
+    },
+    {
+      "title": "Workforce Analytics Specialist",
+      "description": "Analyzes workforce data to support staffing, turnover, productivity, and talent decisions. Produces reports and insights for HR and business leaders.",
+      "absorbs": [
+        "Workforce Analytics Specialist"
+      ],
+      "count": 3
+    },
+    {
+      "title": "AI Engineer",
+      "description": "Builds AI-powered applications and integrates models into software products or business systems. Works on model deployment, APIs, orchestration, and practical use of AI in production.",
+      "absorbs": [
+        "AI Engineer"
+      ],
+      "count": 2
+    },
+    {
+      "title": "AI Risk Data Scientist",
+      "description": "Analyzes data to identify, measure, and monitor risks associated with AI systems such as bias, drift, safety, or compliance issues. Develops metrics and models to support responsible AI oversight.",
+      "absorbs": [
+        "AI Risk Data Scientist"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Applied Data Scientist",
+      "description": "Uses data science methods to solve practical business problems, often focusing on production-ready models and measurable outcomes. Works closely with stakeholders to turn data into operational improvements.",
+      "absorbs": [
+        "Applied Data Scientist"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Clinical Data Analyst",
+      "description": "Works with clinical or healthcare data to support reporting, quality improvement, and operational analysis. Cleans and interprets data from medical records, trials, or care processes.",
+      "absorbs": [
+        "Clinical Data Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Criminal Justice Data Analyst",
+      "description": "Analyzes crime, court, corrections, or public safety data to identify trends and support policy or operational decisions. Produces reports and dashboards for law enforcement or justice agencies.",
+      "absorbs": [
+        "Criminal Justice Data Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Cyber Data Analyst",
+      "description": "Analyzes cybersecurity-related data such as alerts, logs, and incident metrics to identify threats and trends. Supports security teams with reporting, investigations, and risk monitoring.",
+      "absorbs": [
+        "Cyber Data Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Cyber Data Scientist",
+      "description": "Applies statistical and machine learning methods to cybersecurity data to detect anomalies, predict threats, and improve defense systems. Works with large-scale security logs and incident data.",
+      "absorbs": [
+        "Cyber Data Scientist"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Data Analyst Intern",
+      "description": "Supports the analytics team with basic data cleaning, reporting, and dashboard updates while learning core tools and methods. Typically works on supervised, entry-level analysis tasks.",
+      "absorbs": [
+        "Data Analyst Intern"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Data Architect",
+      "description": "Designs the structure of data systems, including databases, warehouses, models, and integration patterns. Defines how data should be organized to support analytics, applications, and governance.",
+      "absorbs": [
+        "Data Architect"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Data Visualization Analyst",
+      "description": "Analyzes data and turns it into clear visual reports and dashboards for business users. Combines analytical work with chart design and storytelling to communicate insights.",
+      "absorbs": [
+        "Data Visualization Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Financial Data Analyst",
+      "description": "Analyzes financial performance, budgets, forecasts, and market data to support investment or business decisions. Uses spreadsheets, SQL, and financial models to identify trends and risks.",
+      "absorbs": [
+        "Financial Data Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "HR Data Scientist",
+      "description": "Uses statistical modeling and machine learning on HR data to improve hiring, retention, performance, and workforce planning. Helps HR teams make evidence-based decisions about talent.",
+      "absorbs": [
+        "HR Data Scientist"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Healthcare Data Analyst",
+      "description": "Analyzes healthcare operational, clinical, or claims data to support reporting and decision-making. Often tracks quality metrics, utilization, costs, and patient outcomes.",
+      "absorbs": [
+        "Healthcare Data Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Junior Data Scientist",
+      "description": "Supports data science projects by cleaning data, building basic models, and running analyses under supervision. Typically works on well-defined tasks while developing technical skills.",
+      "absorbs": [
+        "Junior Data Scientist"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Machine Learning Evaluation Scientist",
+      "description": "Tests and validates machine learning models to measure accuracy, robustness, fairness, and safety. Designs evaluation methods, benchmarks, and experiments to compare model performance.",
+      "absorbs": [
+        "Machine Learning Evaluation Scientist"
+      ],
+      "count": 2
+    },
+    {
+      "title": "People Analytics Data Scientist",
+      "description": "Uses data science techniques on employee and talent data to answer questions about hiring, retention, engagement, and performance. Builds models and analyses that inform HR strategy.",
+      "absorbs": [
+        "People Analytics Data Scientist"
+      ],
+      "count": 2
+    },
+    {
+      "title": "People Analytics Director",
+      "description": "Leads the people analytics function and sets strategy for using workforce data to improve talent decisions. Oversees analytics projects, stakeholder relationships, and team priorities.",
+      "absorbs": [
+        "People Analytics Director",
+        "People Analytics Manager"
+      ],
+      "count": 2
+    },
+    {
+      "title": "People Analytics Specialist",
+      "description": "Analyzes employee and talent data to support HR reporting, workforce planning, and organizational insights. Produces metrics and analyses for recruiting, retention, and employee experience.",
+      "absorbs": [
+        "People Analytics Specialist"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Predictive Analytics Analyst",
+      "description": "Builds and interprets forecasting models to predict future outcomes such as demand, churn, or risk. Uses data to support planning and decision-making with forward-looking insights.",
+      "absorbs": [
+        "Predictive Analytics Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Predictive Analytics Specialist",
+      "description": "Develops predictive models and analytical reports to forecast business outcomes and identify likely future trends. Often works on model validation, feature analysis, and stakeholder communication.",
+      "absorbs": [
+        "Predictive Analytics Specialist"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Quantitative Analyst",
+      "description": "Uses mathematical and statistical models to analyze financial markets, pricing, risk, or trading strategies. Often works in banking, investment, or quantitative finance environments.",
+      "absorbs": [
+        "Quantitative Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Risk Modeling Analyst",
+      "description": "Builds and evaluates models that estimate financial, operational, or credit risk. Uses data and statistical methods to measure exposure and support risk management decisions.",
+      "absorbs": [
+        "Risk Modeling Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Software Engineer",
+      "description": "Designs, builds, tests, and maintains software applications and systems. Writes code to implement features, fix bugs, and improve performance and reliability.",
+      "absorbs": [
+        "Software Engineer"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Statistical Analyst",
+      "description": "Applies statistical methods to analyze data, test hypotheses, and summarize trends. Produces reports and interpretations that support research, operations, or business decisions.",
+      "absorbs": [
+        "Statistical Analyst"
+      ],
+      "count": 2
+    },
+    {
+      "title": "Workforce Data Analyst",
+      "description": "Analyzes employee, staffing, and labor data to support workforce planning and HR reporting. Tracks metrics such as headcount, turnover, hiring, and productivity.",
+      "absorbs": [
+        "Workforce Data Analyst"
+      ],
+      "count": 2
+    }
+  ]
+}

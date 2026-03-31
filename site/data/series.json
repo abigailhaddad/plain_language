@@ -18,5 +18,10 @@
         "code": "1084",
         "name": "Visual Information",
         "fedTitle": "Visual Information Specialist"
+    },
+    {
+        "code": "1560",
+        "name": "Data Science",
+        "fedTitle": "Data Scientist"
     }
 ]

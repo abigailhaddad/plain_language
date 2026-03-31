@@ -1,45 +1,55 @@
 {
   "series": "2210",
   "total_postings": 3753,
-  "from_list": 3690,
-  "proposed_new": 63,
+  "from_list": 3659,
+  "proposed_new": 94,
   "errors": 0,
-  "mean_fit_score": 4.41,
+  "mean_fit_score": 4.42,
   "median_fit_score": 4.0,
   "coverage_by_threshold": {
     "1": 3750,
-    "2": 3750,
-    "3": 3727,
-    "4": 3580,
-    "5": 1736
+    "2": 3748,
+    "3": 3726,
+    "4": 3614,
+    "5": 1742
   },
   "fit_distribution": {
-    "1": 0,
-    "2": 23,
-    "3": 147,
-    "4": 1844,
-    "5": 1736
+    "1": 2,
+    "2": 22,
+    "3": 112,
+    "4": 1872,
+    "5": 1742
   },
   "title_stats": [
     {
-      "title": "AI Research Scientist, Applied Systems",
-      "count": 1,
-      "pct": 0.02664535038635758,
+      "title": "AI PRODUCT MANAGER",
+      "count": 2,
+      "pct": 0.05329070077271516,
       "avg_fit": 5.0,
       "source": "new",
       "fit_dist": {
-        "5": 1
+        "5": 2
+      }
+    },
+    {
+      "title": "AI Research Scientist, Applied Systems",
+      "count": 3,
+      "pct": 0.07993605115907274,
+      "avg_fit": 5.0,
+      "source": "new",
+      "fit_dist": {
+        "5": 3
       }
     },
     {
       "title": "AI Solutions Architect",
-      "count": 20,
-      "pct": 0.5329070077271516,
-      "avg_fit": 4.45,
+      "count": 10,
+      "pct": 0.2664535038635758,
+      "avg_fit": 4.6,
       "source": "list",
       "fit_dist": {
-        "5": 10,
-        "4": 9,
+        "5": 7,
+        "4": 2,
         "3": 1
       }
     },
@@ -47,101 +57,85 @@
       "title": "Access Management Specialist",
       "count": 3,
       "pct": 0.07993605115907274,
-      "avg_fit": 5.0,
+      "avg_fit": 4.666666666666667,
       "source": "list",
       "fit_dist": {
-        "5": 3
-      }
-    },
-    {
-      "title": "Analytics Engineer",
-      "count": 7,
-      "pct": 0.18651745270450307,
-      "avg_fit": 4.142857142857143,
-      "source": "list",
-      "fit_dist": {
-        "4": 6,
-        "5": 1
+        "5": 2,
+        "4": 1
       }
     },
     {
       "title": "Application Developer",
-      "count": 93,
-      "pct": 2.478017585931255,
-      "avg_fit": 4.548387096774194,
+      "count": 73,
+      "pct": 1.9451105782041032,
+      "avg_fit": 4.410958904109589,
       "source": "list",
       "fit_dist": {
-        "5": 51,
-        "4": 42
+        "4": 36,
+        "5": 34,
+        "3": 2,
+        "2": 1
+      }
+    },
+    {
+      "title": "Application Development Manager",
+      "count": 1,
+      "pct": 0.02664535038635758,
+      "avg_fit": 5.0,
+      "source": "new",
+      "fit_dist": {
+        "5": 1
       }
     },
     {
       "title": "Application Development Supervisor",
-      "count": 15,
-      "pct": 0.3996802557953637,
-      "avg_fit": 4.6,
+      "count": 6,
+      "pct": 0.15987210231814547,
+      "avg_fit": 4.5,
       "source": "list",
       "fit_dist": {
-        "5": 9,
-        "4": 6
+        "4": 3,
+        "5": 3
       }
     },
     {
       "title": "Application Support Analyst",
-      "count": 55,
-      "pct": 1.465494271249667,
-      "avg_fit": 4.109090909090909,
+      "count": 51,
+      "pct": 1.3589128697042365,
+      "avg_fit": 4.019607843137255,
       "source": "list",
       "fit_dist": {
         "4": 39,
-        "5": 11,
-        "3": 5
+        "5": 7,
+        "3": 4,
+        "2": 1
       }
     },
     {
       "title": "Application Support Manager",
-      "count": 7,
-      "pct": 0.18651745270450307,
-      "avg_fit": 4.142857142857143,
+      "count": 13,
+      "pct": 0.3463895550226485,
+      "avg_fit": 4.230769230769231,
       "source": "list",
       "fit_dist": {
-        "4": 6,
-        "5": 1
+        "4": 10,
+        "5": 3
       }
     },
     {
       "title": "Application Support Specialist",
-      "count": 8,
-      "pct": 0.21316280309086064,
-      "avg_fit": 4.125,
+      "count": 17,
+      "pct": 0.45297095656807884,
+      "avg_fit": 4.0588235294117645,
       "source": "list",
       "fit_dist": {
-        "4": 7,
-        "5": 1
-      }
-    },
-    {
-      "title": "Associate CIO for Cybersecurity",
-      "count": 1,
-      "pct": 0.02664535038635758,
-      "avg_fit": 5.0,
-      "source": "new",
-      "fit_dist": {
-        "5": 1
+        "4": 13,
+        "5": 3,
+        "2": 1
       }
     },
     {
       "title": "Associate Chief Information Officer for Digital Services",
-      "count": 1,
-      "pct": 0.02664535038635758,
-      "avg_fit": 5.0,
-      "source": "new",
-      "fit_dist": {
-        "5": 1
-      }
-    },
-    {
-      "title": "Business Intelligence Platform Developer",
       "count": 2,
       "pct": 0.05329070077271516,
       "avg_fit": 5.0,
@@ -152,24 +146,24 @@
     },
     {
       "title": "Business Systems Analyst",
-      "count": 76,
-      "pct": 2.0250466293631764,
-      "avg_fit": 4.2368421052631575,
+      "count": 106,
+      "pct": 2.8244071409539035,
+      "avg_fit": 4.216981132075472,
       "source": "list",
       "fit_dist": {
-        "4": 44,
-        "5": 25,
-        "3": 7
+        "4": 65,
+        "5": 32,
+        "3": 9
       }
     },
     {
       "title": "COBOL Developer",
-      "count": 1,
-      "pct": 0.02664535038635758,
+      "count": 6,
+      "pct": 0.15987210231814547,
       "avg_fit": 5.0,
       "source": "new",
       "fit_dist": {
-        "5": 1
+        "5": 6
       }
     },
     {
@@ -183,49 +177,328 @@
       }
     },
     {
+      "title": "Chief Data and Information Officer",
+      "count": 1,
+      "pct": 0.02664535038635758,
+      "avg_fit": 5.0,
+      "source": "new",
+      "fit_dist": {
+        "5": 1
+      }
+    },
+    {
       "title": "Chief Information Officer",
-      "count": 28,
-      "pct": 0.7460698108180123,
-      "avg_fit": 4.964285714285714,
+      "count": 22,
+      "pct": 0.5861977084998667,
+      "avg_fit": 4.818181818181818,
       "source": "list",
       "fit_dist": {
-        "5": 27,
-        "4": 1
+        "5": 18,
+        "4": 4
       }
     },
     {
       "title": "Chief Information Security Officer",
       "count": 20,
       "pct": 0.5329070077271516,
-      "avg_fit": 4.85,
+      "avg_fit": 4.95,
       "source": "list",
       "fit_dist": {
         "5": 19,
-        "2": 1
+        "4": 1
+      }
+    },
+    {
+      "title": "Chief Privacy Officer",
+      "count": 1,
+      "pct": 0.02664535038635758,
+      "avg_fit": 5.0,
+      "source": "new",
+      "fit_dist": {
+        "5": 1
       }
     },
     {
       "title": "Chief Technology Officer",
+      "count": 3,
+      "pct": 0.07993605115907274,
+      "avg_fit": 5.0,
+      "source": "new",
+      "fit_dist": {
+        "5": 3
+      }
+    },
+    {
+      "title": "Cloud Security Architect",
+      "count": 5,
+      "pct": 0.1332267519317879,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 5
+      }
+    },
+    {
+      "title": "Cloud Security Manager",
       "count": 2,
       "pct": 0.05329070077271516,
       "avg_fit": 5.0,
-      "source": "new",
+      "source": "list",
       "fit_dist": {
         "5": 2
       }
     },
     {
-      "title": "Cloud Security Architect",
-      "count": 4,
-      "pct": 0.10658140154543032,
-      "avg_fit": 5.0,
+      "title": "Cloud Solutions Architect",
+      "count": 34,
+      "pct": 0.9059419131361577,
+      "avg_fit": 4.529411764705882,
       "source": "list",
       "fit_dist": {
-        "5": 4
+        "5": 19,
+        "4": 14,
+        "3": 1
       }
     },
     {
-      "title": "Cloud Security Manager",
+      "title": "Cloud Systems Administrator",
+      "count": 18,
+      "pct": 0.4796163069544364,
+      "avg_fit": 4.333333333333333,
+      "source": "list",
+      "fit_dist": {
+        "4": 12,
+        "5": 6
+      }
+    },
+    {
+      "title": "Communications Systems Manager",
+      "count": 25,
+      "pct": 0.6661337596589395,
+      "avg_fit": 4.16,
+      "source": "list",
+      "fit_dist": {
+        "4": 17,
+        "5": 6,
+        "3": 2
+      }
+    },
+    {
+      "title": "Communications Systems Technician",
+      "count": 5,
+      "pct": 0.1332267519317879,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 5
+      }
+    },
+    {
+      "title": "Courtroom Technology Specialist",
+      "count": 1,
+      "pct": 0.02664535038635758,
+      "avg_fit": 5.0,
+      "source": "new",
+      "fit_dist": {
+        "5": 1
+      }
+    },
+    {
+      "title": "Cyber Defense Manager",
+      "count": 27,
+      "pct": 0.7194244604316548,
+      "avg_fit": 4.148148148148148,
+      "source": "list",
+      "fit_dist": {
+        "4": 13,
+        "5": 10,
+        "2": 2,
+        "3": 2
+      }
+    },
+    {
+      "title": "Cyber Operations Manager",
+      "count": 17,
+      "pct": 0.45297095656807884,
+      "avg_fit": 4.294117647058823,
+      "source": "list",
+      "fit_dist": {
+        "4": 12,
+        "5": 5
+      }
+    },
+    {
+      "title": "Cyber Risk Manager",
+      "count": 1,
+      "pct": 0.02664535038635758,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 1
+      }
+    },
+    {
+      "title": "Cyber Threat Analyst",
+      "count": 14,
+      "pct": 0.37303490540900613,
+      "avg_fit": 4.285714285714286,
+      "source": "list",
+      "fit_dist": {
+        "4": 8,
+        "5": 5,
+        "3": 1
+      }
+    },
+    {
+      "title": "Cybersecurity Analyst",
+      "count": 56,
+      "pct": 1.4921396216360245,
+      "avg_fit": 4.285714285714286,
+      "source": "list",
+      "fit_dist": {
+        "4": 34,
+        "5": 19,
+        "3": 3
+      }
+    },
+    {
+      "title": "Cybersecurity Architect",
+      "count": 11,
+      "pct": 0.29309885424993337,
+      "avg_fit": 4.7272727272727275,
+      "source": "list",
+      "fit_dist": {
+        "5": 8,
+        "4": 3
+      }
+    },
+    {
+      "title": "Cybersecurity Assessor",
+      "count": 37,
+      "pct": 0.9858779642952304,
+      "avg_fit": 4.864864864864865,
+      "source": "list",
+      "fit_dist": {
+        "5": 32,
+        "4": 5
+      }
+    },
+    {
+      "title": "Cybersecurity Compliance Analyst",
+      "count": 9,
+      "pct": 0.2398081534772182,
+      "avg_fit": 4.777777777777778,
+      "source": "list",
+      "fit_dist": {
+        "5": 7,
+        "4": 2
+      }
+    },
+    {
+      "title": "Cybersecurity Compliance Manager",
+      "count": 17,
+      "pct": 0.45297095656807884,
+      "avg_fit": 4.764705882352941,
+      "source": "list",
+      "fit_dist": {
+        "5": 13,
+        "4": 4
+      }
+    },
+    {
+      "title": "Cybersecurity Engineer",
+      "count": 24,
+      "pct": 0.6394884092725819,
+      "avg_fit": 4.375,
+      "source": "list",
+      "fit_dist": {
+        "4": 15,
+        "5": 9
+      }
+    },
+    {
+      "title": "Cybersecurity Manager",
+      "count": 85,
+      "pct": 2.2648547828403944,
+      "avg_fit": 4.247058823529412,
+      "source": "list",
+      "fit_dist": {
+        "4": 56,
+        "5": 25,
+        "3": 4
+      }
+    },
+    {
+      "title": "Cybersecurity Operations Manager",
+      "count": 8,
+      "pct": 0.21316280309086064,
+      "avg_fit": 4.625,
+      "source": "list",
+      "fit_dist": {
+        "5": 5,
+        "4": 3
+      }
+    },
+    {
+      "title": "Cybersecurity Policy Manager",
+      "count": 1,
+      "pct": 0.02664535038635758,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 1
+      }
+    },
+    {
+      "title": "Cybersecurity Program Manager",
+      "count": 36,
+      "pct": 0.9592326139088728,
+      "avg_fit": 4.027777777777778,
+      "source": "list",
+      "fit_dist": {
+        "4": 20,
+        "5": 9,
+        "3": 6,
+        "2": 1
+      }
+    },
+    {
+      "title": "Cybersecurity Project Manager",
+      "count": 9,
+      "pct": 0.2398081534772182,
+      "avg_fit": 4.666666666666667,
+      "source": "list",
+      "fit_dist": {
+        "5": 7,
+        "4": 1,
+        "3": 1
+      }
+    },
+    {
+      "title": "Cybersecurity Risk Analyst",
+      "count": 4,
+      "pct": 0.10658140154543032,
+      "avg_fit": 4.5,
+      "source": "list",
+      "fit_dist": {
+        "4": 2,
+        "5": 2
+      }
+    },
+    {
+      "title": "Cybersecurity Specialist",
+      "count": 33,
+      "pct": 0.8792965627498002,
+      "avg_fit": 4.0606060606060606,
+      "source": "list",
+      "fit_dist": {
+        "4": 25,
+        "5": 5,
+        "3": 3
+      }
+    },
+    {
+      "title": "Cybersecurity Systems Administrator",
       "count": 4,
       "pct": 0.10658140154543032,
       "avg_fit": 4.75,
@@ -236,276 +509,13 @@
       }
     },
     {
-      "title": "Cloud Solutions Architect",
-      "count": 24,
-      "pct": 0.6394884092725819,
-      "avg_fit": 4.458333333333333,
-      "source": "list",
-      "fit_dist": {
-        "4": 13,
-        "5": 11
-      }
-    },
-    {
-      "title": "Cloud Systems Administrator",
-      "count": 21,
-      "pct": 0.5595523581135092,
-      "avg_fit": 4.333333333333333,
-      "source": "list",
-      "fit_dist": {
-        "4": 14,
-        "5": 7
-      }
-    },
-    {
-      "title": "Communications Systems Manager",
-      "count": 26,
-      "pct": 0.692779110045297,
-      "avg_fit": 4.423076923076923,
-      "source": "list",
-      "fit_dist": {
-        "4": 15,
-        "5": 11
-      }
-    },
-    {
-      "title": "Communications Systems Technician",
-      "count": 2,
-      "pct": 0.05329070077271516,
-      "avg_fit": 4.0,
-      "source": "list",
-      "fit_dist": {
-        "4": 2
-      }
-    },
-    {
-      "title": "Courtroom Technology Specialist",
-      "count": 2,
-      "pct": 0.05329070077271516,
-      "avg_fit": 5.0,
-      "source": "new",
-      "fit_dist": {
-        "5": 2
-      }
-    },
-    {
-      "title": "Cyber Defense Manager",
-      "count": 40,
-      "pct": 1.0658140154543032,
-      "avg_fit": 3.975,
-      "source": "list",
-      "fit_dist": {
-        "4": 14,
-        "5": 13,
-        "3": 12,
-        "2": 1
-      }
-    },
-    {
-      "title": "Cyber Operations Manager",
-      "count": 10,
-      "pct": 0.2664535038635758,
-      "avg_fit": 4.3,
-      "source": "list",
-      "fit_dist": {
-        "4": 5,
-        "5": 4,
-        "3": 1
-      }
-    },
-    {
-      "title": "Cyber Risk Manager",
-      "count": 2,
-      "pct": 0.05329070077271516,
-      "avg_fit": 4.5,
-      "source": "list",
-      "fit_dist": {
-        "5": 1,
-        "4": 1
-      }
-    },
-    {
-      "title": "Cyber Threat Analyst",
-      "count": 15,
-      "pct": 0.3996802557953637,
-      "avg_fit": 4.2,
-      "source": "list",
-      "fit_dist": {
-        "5": 6,
-        "4": 6,
-        "3": 3
-      }
-    },
-    {
-      "title": "Cybersecurity Analyst",
-      "count": 53,
-      "pct": 1.4122035704769518,
-      "avg_fit": 4.245283018867925,
-      "source": "list",
-      "fit_dist": {
-        "4": 34,
-        "5": 16,
-        "3": 3
-      }
-    },
-    {
-      "title": "Cybersecurity Architect",
-      "count": 14,
-      "pct": 0.37303490540900613,
-      "avg_fit": 4.714285714285714,
-      "source": "list",
-      "fit_dist": {
-        "5": 10,
-        "4": 4
-      }
-    },
-    {
-      "title": "Cybersecurity Assessor",
-      "count": 52,
-      "pct": 1.385558220090594,
-      "avg_fit": 4.846153846153846,
-      "source": "list",
-      "fit_dist": {
-        "5": 45,
-        "4": 6,
-        "3": 1
-      }
-    },
-    {
-      "title": "Cybersecurity Compliance Analyst",
-      "count": 16,
-      "pct": 0.4263256061817213,
-      "avg_fit": 4.8125,
-      "source": "list",
-      "fit_dist": {
-        "5": 14,
-        "4": 1,
-        "3": 1
-      }
-    },
-    {
-      "title": "Cybersecurity Compliance Manager",
-      "count": 22,
-      "pct": 0.5861977084998667,
-      "avg_fit": 4.7727272727272725,
-      "source": "list",
-      "fit_dist": {
-        "5": 17,
-        "4": 5
-      }
-    },
-    {
-      "title": "Cybersecurity Engineer",
-      "count": 16,
-      "pct": 0.4263256061817213,
-      "avg_fit": 4.5625,
-      "source": "list",
-      "fit_dist": {
-        "5": 9,
-        "4": 7
-      }
-    },
-    {
-      "title": "Cybersecurity Manager",
-      "count": 98,
-      "pct": 2.611244337863043,
-      "avg_fit": 4.357142857142857,
-      "source": "list",
-      "fit_dist": {
-        "4": 61,
-        "5": 36,
-        "3": 1
-      }
-    },
-    {
-      "title": "Cybersecurity Operations Manager",
-      "count": 9,
-      "pct": 0.2398081534772182,
-      "avg_fit": 4.555555555555555,
-      "source": "list",
-      "fit_dist": {
-        "5": 6,
-        "4": 2,
-        "3": 1
-      }
-    },
-    {
-      "title": "Cybersecurity Policy Manager",
-      "count": 4,
-      "pct": 0.10658140154543032,
-      "avg_fit": 4.5,
-      "source": "list",
-      "fit_dist": {
-        "4": 2,
-        "5": 2
-      }
-    },
-    {
-      "title": "Cybersecurity Program Manager",
-      "count": 41,
-      "pct": 1.092459365840661,
-      "avg_fit": 4.121951219512195,
-      "source": "list",
-      "fit_dist": {
-        "4": 24,
-        "5": 11,
-        "3": 6
-      }
-    },
-    {
-      "title": "Cybersecurity Project Manager",
-      "count": 10,
-      "pct": 0.2664535038635758,
-      "avg_fit": 4.5,
-      "source": "list",
-      "fit_dist": {
-        "5": 6,
-        "4": 3,
-        "3": 1
-      }
-    },
-    {
-      "title": "Cybersecurity Risk Analyst",
-      "count": 10,
-      "pct": 0.2664535038635758,
-      "avg_fit": 4.5,
-      "source": "list",
-      "fit_dist": {
-        "5": 5,
-        "4": 5
-      }
-    },
-    {
-      "title": "Cybersecurity Specialist",
-      "count": 63,
-      "pct": 1.6786570743405276,
-      "avg_fit": 4.0,
-      "source": "list",
-      "fit_dist": {
-        "4": 51,
-        "5": 6,
-        "3": 6
-      }
-    },
-    {
-      "title": "Cybersecurity Systems Administrator",
-      "count": 7,
-      "pct": 0.18651745270450307,
-      "avg_fit": 4.428571428571429,
-      "source": "list",
-      "fit_dist": {
-        "4": 4,
-        "5": 3
-      }
-    },
-    {
       "title": "Cybersecurity Systems Engineer",
-      "count": 4,
-      "pct": 0.10658140154543032,
+      "count": 3,
+      "pct": 0.07993605115907274,
       "avg_fit": 4.0,
       "source": "list",
       "fit_dist": {
-        "4": 4
+        "4": 3
       }
     },
     {
@@ -530,135 +540,94 @@
     },
     {
       "title": "Data Architect",
-      "count": 9,
-      "pct": 0.2398081534772182,
-      "avg_fit": 4.888888888888889,
+      "count": 11,
+      "pct": 0.29309885424993337,
+      "avg_fit": 4.818181818181818,
       "source": "list",
       "fit_dist": {
-        "5": 8,
-        "4": 1
+        "5": 9,
+        "4": 2
       }
     },
     {
       "title": "Data Engineer",
-      "count": 3,
-      "pct": 0.07993605115907274,
-      "avg_fit": 5.0,
+      "count": 9,
+      "pct": 0.2398081534772182,
+      "avg_fit": 4.777777777777778,
       "source": "new",
       "fit_dist": {
-        "5": 3
-      }
-    },
-    {
-      "title": "Data Engineer (Hiring Event)",
-      "count": 2,
-      "pct": 0.05329070077271516,
-      "avg_fit": 5.0,
-      "source": "new",
-      "fit_dist": {
-        "5": 2
+        "5": 7,
+        "4": 2
       }
     },
     {
       "title": "Data Integration Manager",
-      "count": 6,
-      "pct": 0.15987210231814547,
-      "avg_fit": 4.333333333333333,
+      "count": 9,
+      "pct": 0.2398081534772182,
+      "avg_fit": 4.111111111111111,
       "source": "list",
       "fit_dist": {
-        "4": 4,
-        "5": 2
-      }
-    },
-    {
-      "title": "Data Integration and Analytics Support Supervisor",
-      "count": 1,
-      "pct": 0.02664535038635758,
-      "avg_fit": 5.0,
-      "source": "new",
-      "fit_dist": {
+        "4": 8,
         "5": 1
       }
     },
     {
       "title": "Data Management Specialist",
-      "count": 17,
-      "pct": 0.45297095656807884,
-      "avg_fit": 4.411764705882353,
+      "count": 16,
+      "pct": 0.4263256061817213,
+      "avg_fit": 4.3125,
       "source": "list",
       "fit_dist": {
-        "5": 8,
-        "4": 8,
-        "3": 1
+        "4": 11,
+        "5": 5
       }
     },
     {
       "title": "Data Scientist",
-      "count": 1,
-      "pct": 0.02664535038635758,
-      "avg_fit": 5.0,
+      "count": 4,
+      "pct": 0.10658140154543032,
+      "avg_fit": 4.75,
       "source": "new",
       "fit_dist": {
-        "5": 1
+        "5": 3,
+        "4": 1
       }
     },
     {
       "title": "Data Systems Manager",
-      "count": 8,
-      "pct": 0.21316280309086064,
-      "avg_fit": 4.125,
+      "count": 2,
+      "pct": 0.05329070077271516,
+      "avg_fit": 3.5,
       "source": "list",
       "fit_dist": {
-        "4": 7,
-        "5": 1
+        "3": 1,
+        "4": 1
       }
     },
     {
       "title": "Database Administrator",
-      "count": 23,
-      "pct": 0.6128430588862244,
-      "avg_fit": 4.565217391304348,
+      "count": 35,
+      "pct": 0.9325872635225153,
+      "avg_fit": 4.485714285714286,
       "source": "list",
       "fit_dist": {
-        "5": 14,
-        "4": 8,
-        "3": 1
+        "5": 19,
+        "4": 14,
+        "3": 2
       }
     },
     {
-      "title": "Database Systems Administrator",
-      "count": 11,
-      "pct": 0.29309885424993337,
-      "avg_fit": 4.545454545454546,
-      "source": "list",
-      "fit_dist": {
-        "5": 7,
-        "4": 3,
-        "3": 1
-      }
-    },
-    {
-      "title": "Defense Intelligence Officer",
-      "count": 1,
-      "pct": 0.02664535038635758,
+      "title": "Defense Intelligence Analyst",
+      "count": 2,
+      "pct": 0.05329070077271516,
       "avg_fit": 2.0,
       "source": "new",
       "fit_dist": {
-        "2": 1
+        "2": 2
       }
     },
     {
-      "title": "Defense Intelligence Specialist",
-      "count": 1,
-      "pct": 0.02664535038635758,
-      "avg_fit": 2.0,
-      "source": "new",
-      "fit_dist": {
-        "2": 1
-      }
-    },
-    {
-      "title": "Deputy Chief Information Officer, Development & Operations Services",
+      "title": "Deputy Chief Information Officer",
       "count": 1,
       "pct": 0.02664535038635758,
       "avg_fit": 5.0,
@@ -668,7 +637,17 @@
       }
     },
     {
-      "title": "Deputy Federal Chief Information Officer",
+      "title": "Deputy Chief Information Officer for Cybersecurity and Chief Information Security Officer (CISO)",
+      "count": 1,
+      "pct": 0.02664535038635758,
+      "avg_fit": 4.0,
+      "source": "new",
+      "fit_dist": {
+        "4": 1
+      }
+    },
+    {
+      "title": "Deputy Chief Information Security Officer",
       "count": 1,
       "pct": 0.02664535038635758,
       "avg_fit": 5.0,
@@ -679,181 +658,120 @@
     },
     {
       "title": "Desktop Support Specialist",
-      "count": 14,
-      "pct": 0.37303490540900613,
-      "avg_fit": 4.428571428571429,
+      "count": 13,
+      "pct": 0.3463895550226485,
+      "avg_fit": 4.615384615384615,
       "source": "list",
       "fit_dist": {
-        "4": 8,
-        "5": 6
+        "5": 8,
+        "4": 5
       }
     },
     {
       "title": "Desktop Support Technician",
-      "count": 3,
-      "pct": 0.07993605115907274,
+      "count": 1,
+      "pct": 0.02664535038635758,
       "avg_fit": 5.0,
       "source": "list",
       "fit_dist": {
-        "5": 3
+        "5": 1
       }
     },
     {
       "title": "Digital Forensic Examiner",
-      "count": 1,
-      "pct": 0.02664535038635758,
+      "count": 16,
+      "pct": 0.4263256061817213,
       "avg_fit": 5.0,
       "source": "new",
       "fit_dist": {
-        "5": 1
-      }
-    },
-    {
-      "title": "Digital Forensics Analyst",
-      "count": 1,
-      "pct": 0.02664535038635758,
-      "avg_fit": 5.0,
-      "source": "new",
-      "fit_dist": {
-        "5": 1
-      }
-    },
-    {
-      "title": "Digital Product Manager ",
-      "count": 1,
-      "pct": 0.02664535038635758,
-      "avg_fit": 5.0,
-      "source": "new",
-      "fit_dist": {
-        "5": 1
+        "5": 16
       }
     },
     {
       "title": "End User Computing Manager",
-      "count": 5,
-      "pct": 0.1332267519317879,
-      "avg_fit": 4.8,
+      "count": 7,
+      "pct": 0.18651745270450307,
+      "avg_fit": 4.571428571428571,
       "source": "list",
       "fit_dist": {
         "5": 4,
-        "4": 1
+        "4": 3
       }
     },
     {
       "title": "End User Computing Specialist",
-      "count": 20,
-      "pct": 0.5329070077271516,
-      "avg_fit": 4.85,
+      "count": 25,
+      "pct": 0.6661337596589395,
+      "avg_fit": 4.88,
       "source": "list",
       "fit_dist": {
-        "5": 17,
+        "5": 22,
         "4": 3
       }
     },
     {
       "title": "Enterprise Applications Analyst",
+      "count": 2,
+      "pct": 0.05329070077271516,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 2
+      }
+    },
+    {
+      "title": "Enterprise Applications Manager",
+      "count": 10,
+      "pct": 0.2664535038635758,
+      "avg_fit": 4.2,
+      "source": "list",
+      "fit_dist": {
+        "4": 6,
+        "5": 3,
+        "3": 1
+      }
+    },
+    {
+      "title": "Enterprise Architect",
+      "count": 40,
+      "pct": 1.0658140154543032,
+      "avg_fit": 4.8,
+      "source": "list",
+      "fit_dist": {
+        "5": 33,
+        "4": 6,
+        "3": 1
+      }
+    },
+    {
+      "title": "Enterprise IT Director",
+      "count": 7,
+      "pct": 0.18651745270450307,
+      "avg_fit": 4.571428571428571,
+      "source": "list",
+      "fit_dist": {
+        "5": 4,
+        "4": 3
+      }
+    },
+    {
+      "title": "Enterprise Systems Analyst",
+      "count": 7,
+      "pct": 0.18651745270450307,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 7
+      }
+    },
+    {
+      "title": "Enterprise Systems Manager",
       "count": 1,
       "pct": 0.02664535038635758,
       "avg_fit": 4.0,
       "source": "list",
       "fit_dist": {
         "4": 1
-      }
-    },
-    {
-      "title": "Enterprise Applications Manager",
-      "count": 16,
-      "pct": 0.4263256061817213,
-      "avg_fit": 4.4375,
-      "source": "list",
-      "fit_dist": {
-        "4": 9,
-        "5": 7
-      }
-    },
-    {
-      "title": "Enterprise Architect",
-      "count": 42,
-      "pct": 1.1191047162270185,
-      "avg_fit": 4.785714285714286,
-      "source": "list",
-      "fit_dist": {
-        "5": 33,
-        "4": 9
-      }
-    },
-    {
-      "title": "Enterprise IT Director",
-      "count": 15,
-      "pct": 0.3996802557953637,
-      "avg_fit": 4.733333333333333,
-      "source": "list",
-      "fit_dist": {
-        "5": 11,
-        "4": 4
-      }
-    },
-    {
-      "title": "Enterprise Network Engineer",
-      "count": 2,
-      "pct": 0.05329070077271516,
-      "avg_fit": 4.5,
-      "source": "list",
-      "fit_dist": {
-        "4": 1,
-        "5": 1
-      }
-    },
-    {
-      "title": "Enterprise Systems Analyst",
-      "count": 16,
-      "pct": 0.4263256061817213,
-      "avg_fit": 3.875,
-      "source": "list",
-      "fit_dist": {
-        "4": 14,
-        "3": 2
-      }
-    },
-    {
-      "title": "Enterprise Systems Manager",
-      "count": 10,
-      "pct": 0.2664535038635758,
-      "avg_fit": 3.9,
-      "source": "list",
-      "fit_dist": {
-        "4": 9,
-        "3": 1
-      }
-    },
-    {
-      "title": "Ethical Hacker",
-      "count": 1,
-      "pct": 0.02664535038635758,
-      "avg_fit": 5.0,
-      "source": "new",
-      "fit_dist": {
-        "5": 1
-      }
-    },
-    {
-      "title": "Executive Director, Enterprise Infrastructure and Operations",
-      "count": 1,
-      "pct": 0.02664535038635758,
-      "avg_fit": 5.0,
-      "source": "new",
-      "fit_dist": {
-        "5": 1
-      }
-    },
-    {
-      "title": "Forensic Computer Analyst",
-      "count": 2,
-      "pct": 0.05329070077271516,
-      "avg_fit": 5.0,
-      "source": "new",
-      "fit_dist": {
-        "5": 2
       }
     },
     {
@@ -868,34 +786,23 @@
     },
     {
       "title": "Help Desk Technician",
-      "count": 2,
-      "pct": 0.05329070077271516,
-      "avg_fit": 4.5,
+      "count": 4,
+      "pct": 0.10658140154543032,
+      "avg_fit": 5.0,
       "source": "list",
       "fit_dist": {
-        "5": 1,
-        "4": 1
-      }
-    },
-    {
-      "title": "High Performance Computing Systems Administrator",
-      "count": 1,
-      "pct": 0.02664535038635758,
-      "avg_fit": 5.0,
-      "source": "new",
-      "fit_dist": {
-        "5": 1
+        "5": 4
       }
     },
     {
       "title": "IT Acquisition Manager",
       "count": 15,
       "pct": 0.3996802557953637,
-      "avg_fit": 4.733333333333333,
+      "avg_fit": 4.6,
       "source": "list",
       "fit_dist": {
-        "5": 11,
-        "4": 4
+        "5": 9,
+        "4": 6
       }
     },
     {
@@ -931,390 +838,403 @@
     },
     {
       "title": "IT Director",
-      "count": 32,
-      "pct": 0.8526512123634425,
-      "avg_fit": 4.1875,
+      "count": 38,
+      "pct": 1.0125233146815882,
+      "avg_fit": 4.2368421052631575,
       "source": "list",
       "fit_dist": {
-        "4": 21,
-        "5": 9,
-        "2": 1,
+        "4": 27,
+        "5": 10,
         "3": 1
       }
     },
     {
-      "title": "IT Hardware Deployment Specialist",
-      "count": 2,
-      "pct": 0.05329070077271516,
-      "avg_fit": 5.0,
-      "source": "list",
-      "fit_dist": {
-        "5": 2
-      }
-    },
-    {
-      "title": "IT Hardware Support Specialist",
-      "count": 1,
-      "pct": 0.02664535038635758,
-      "avg_fit": 5.0,
-      "source": "list",
-      "fit_dist": {
-        "5": 1
-      }
-    },
-    {
       "title": "IT Infrastructure Manager",
-      "count": 74,
-      "pct": 1.971755928590461,
-      "avg_fit": 4.202702702702703,
+      "count": 59,
+      "pct": 1.5720756727950973,
+      "avg_fit": 4.186440677966102,
       "source": "list",
       "fit_dist": {
-        "4": 51,
-        "5": 19,
-        "3": 4
-      }
-    },
-    {
-      "title": "IT Infrastructure Specialist",
-      "count": 2,
-      "pct": 0.05329070077271516,
-      "avg_fit": 4.0,
-      "source": "list",
-      "fit_dist": {
-        "4": 2
+        "4": 39,
+        "5": 16,
+        "3": 3,
+        "2": 1
       }
     },
     {
       "title": "IT Operations Manager",
-      "count": 76,
-      "pct": 2.0250466293631764,
-      "avg_fit": 4.223684210526316,
+      "count": 129,
+      "pct": 3.4372501998401277,
+      "avg_fit": 4.263565891472868,
       "source": "list",
       "fit_dist": {
-        "4": 45,
-        "5": 25,
-        "3": 4,
-        "2": 2
+        "4": 80,
+        "5": 42,
+        "3": 6,
+        "2": 1
       }
     },
     {
       "title": "IT Policy Analyst",
-      "count": 10,
-      "pct": 0.2664535038635758,
-      "avg_fit": 4.3,
+      "count": 9,
+      "pct": 0.2398081534772182,
+      "avg_fit": 4.222222222222222,
       "source": "list",
       "fit_dist": {
         "4": 7,
-        "5": 3
+        "5": 2
       }
     },
     {
       "title": "IT Policy Manager",
-      "count": 53,
-      "pct": 1.4122035704769518,
-      "avg_fit": 4.339622641509434,
+      "count": 48,
+      "pct": 1.2789768185451638,
+      "avg_fit": 4.25,
       "source": "list",
       "fit_dist": {
-        "4": 35,
-        "5": 18
+        "4": 36,
+        "5": 12
       }
     },
     {
       "title": "IT Portfolio Manager",
-      "count": 4,
-      "pct": 0.10658140154543032,
-      "avg_fit": 4.75,
+      "count": 5,
+      "pct": 0.1332267519317879,
+      "avg_fit": 4.8,
       "source": "list",
       "fit_dist": {
-        "5": 3,
+        "5": 4,
         "4": 1
       }
     },
     {
+      "title": "IT Product Manager",
+      "count": 8,
+      "pct": 0.21316280309086064,
+      "avg_fit": 4.75,
+      "source": "new",
+      "fit_dist": {
+        "5": 6,
+        "4": 2
+      }
+    },
+    {
       "title": "IT Program Manager",
-      "count": 177,
-      "pct": 4.7162270183852915,
-      "avg_fit": 4.536723163841808,
+      "count": 180,
+      "pct": 4.796163069544365,
+      "avg_fit": 4.544444444444444,
       "source": "list",
       "fit_dist": {
-        "5": 104,
-        "4": 66,
-        "3": 5,
-        "2": 2
+        "5": 105,
+        "4": 68,
+        "3": 7
       }
     },
     {
       "title": "IT Project Coordinator",
-      "count": 3,
-      "pct": 0.07993605115907274,
-      "avg_fit": 3.3333333333333335,
+      "count": 7,
+      "pct": 0.18651745270450307,
+      "avg_fit": 3.7142857142857144,
       "source": "list",
       "fit_dist": {
-        "4": 2,
+        "4": 6,
         "2": 1
       }
     },
     {
       "title": "IT Project Manager",
-      "count": 267,
-      "pct": 7.114308553157474,
-      "avg_fit": 4.288389513108614,
+      "count": 272,
+      "pct": 7.2475353050892615,
+      "avg_fit": 4.323529411764706,
       "source": "list",
       "fit_dist": {
-        "4": 140,
-        "5": 103,
-        "3": 22,
+        "4": 146,
+        "5": 108,
+        "3": 16,
         "2": 2
       }
     },
     {
       "title": "IT Security Director",
-      "count": 5,
-      "pct": 0.1332267519317879,
-      "avg_fit": 4.2,
+      "count": 1,
+      "pct": 0.02664535038635758,
+      "avg_fit": 5.0,
       "source": "list",
       "fit_dist": {
-        "4": 4,
         "5": 1
       }
     },
     {
       "title": "IT Service Delivery Manager",
-      "count": 31,
-      "pct": 0.826005861977085,
-      "avg_fit": 4.096774193548387,
+      "count": 26,
+      "pct": 0.692779110045297,
+      "avg_fit": 4.153846153846154,
       "source": "list",
       "fit_dist": {
-        "4": 26,
-        "5": 4,
-        "3": 1
+        "4": 22,
+        "5": 4
       }
     },
     {
       "title": "IT Service Desk Lead",
-      "count": 6,
-      "pct": 0.15987210231814547,
+      "count": 4,
+      "pct": 0.10658140154543032,
       "avg_fit": 5.0,
       "source": "list",
       "fit_dist": {
-        "5": 6
-      }
-    },
-    {
-      "title": "IT Strategy and Vendor Management Lead",
-      "count": 1,
-      "pct": 0.02664535038635758,
-      "avg_fit": 5.0,
-      "source": "new",
-      "fit_dist": {
-        "5": 1
+        "5": 4
       }
     },
     {
       "title": "IT Support Manager",
-      "count": 63,
-      "pct": 1.6786570743405276,
-      "avg_fit": 4.222222222222222,
+      "count": 67,
+      "pct": 1.7852384758859579,
+      "avg_fit": 4.119402985074627,
       "source": "list",
       "fit_dist": {
-        "4": 49,
-        "5": 14
+        "4": 48,
+        "5": 14,
+        "3": 4,
+        "2": 1
       }
     },
     {
       "title": "IT Support Specialist",
-      "count": 261,
-      "pct": 6.954436450839328,
-      "avg_fit": 4.264367816091954,
+      "count": 235,
+      "pct": 6.261657340794032,
+      "avg_fit": 4.340425531914893,
       "source": "list",
       "fit_dist": {
-        "4": 165,
-        "5": 84,
-        "3": 9,
-        "2": 3
+        "4": 133,
+        "5": 94,
+        "3": 4,
+        "1": 2,
+        "2": 2
+      }
+    },
+    {
+      "title": "IT Support Technician",
+      "count": 8,
+      "pct": 0.21316280309086064,
+      "avg_fit": 4.5,
+      "source": "list",
+      "fit_dist": {
+        "5": 6,
+        "2": 1,
+        "4": 1
       }
     },
     {
       "title": "IT Systems Administrator",
-      "count": 116,
-      "pct": 3.0908606448174796,
-      "avg_fit": 4.344827586206897,
+      "count": 132,
+      "pct": 3.5171862509992007,
+      "avg_fit": 4.46969696969697,
       "source": "list",
       "fit_dist": {
-        "4": 62,
-        "5": 47,
-        "3": 7
-      }
-    },
-    {
-      "title": "IT Systems Architect",
-      "count": 52,
-      "pct": 1.385558220090594,
-      "avg_fit": 4.230769230769231,
-      "source": "list",
-      "fit_dist": {
-        "4": 34,
-        "5": 15,
+        "5": 65,
+        "4": 64,
         "3": 3
       }
     },
     {
-      "title": "IT Systems Engineer",
-      "count": 11,
-      "pct": 0.29309885424993337,
-      "avg_fit": 3.909090909090909,
+      "title": "IT Systems Analyst",
+      "count": 3,
+      "pct": 0.07993605115907274,
+      "avg_fit": 3.6666666666666665,
+      "source": "new",
+      "fit_dist": {
+        "4": 2,
+        "3": 1
+      }
+    },
+    {
+      "title": "IT Systems Architect",
+      "count": 55,
+      "pct": 1.465494271249667,
+      "avg_fit": 4.345454545454546,
       "source": "list",
       "fit_dist": {
-        "4": 10,
+        "4": 36,
+        "5": 19
+      }
+    },
+    {
+      "title": "IT Systems Engineer",
+      "count": 13,
+      "pct": 0.3463895550226485,
+      "avg_fit": 3.923076923076923,
+      "source": "list",
+      "fit_dist": {
+        "4": 12,
         "3": 1
       }
     },
     {
       "title": "IT Systems Manager",
-      "count": 106,
-      "pct": 2.8244071409539035,
-      "avg_fit": 4.1415094339622645,
+      "count": 77,
+      "pct": 2.051691979749534,
+      "avg_fit": 4.1558441558441555,
       "source": "list",
       "fit_dist": {
-        "4": 77,
-        "5": 22,
-        "3": 7
+        "4": 59,
+        "5": 15,
+        "3": 3
       }
     },
     {
       "title": "IT Systems Support Specialist",
-      "count": 29,
-      "pct": 0.7727151612043699,
-      "avg_fit": 4.275862068965517,
+      "count": 25,
+      "pct": 0.6661337596589395,
+      "avg_fit": 4.32,
       "source": "list",
       "fit_dist": {
-        "4": 21,
+        "4": 17,
         "5": 8
       }
     },
     {
       "title": "IT Systems and Network Administrator",
-      "count": 1,
-      "pct": 0.02664535038635758,
+      "count": 2,
+      "pct": 0.05329070077271516,
       "avg_fit": 5.0,
       "source": "new",
       "fit_dist": {
-        "5": 1
+        "5": 2
       }
     },
     {
       "title": "IT Team Lead",
-      "count": 5,
-      "pct": 0.1332267519317879,
-      "avg_fit": 4.2,
+      "count": 7,
+      "pct": 0.18651745270450307,
+      "avg_fit": 4.0,
       "source": "list",
       "fit_dist": {
-        "4": 4,
-        "5": 1
+        "4": 7
       }
     },
     {
       "title": "Identity Governance Specialist",
-      "count": 1,
-      "pct": 0.02664535038635758,
+      "count": 3,
+      "pct": 0.07993605115907274,
       "avg_fit": 4.0,
       "source": "list",
       "fit_dist": {
-        "4": 1
+        "4": 3
       }
     },
     {
       "title": "Identity and Access Management Engineer",
-      "count": 11,
-      "pct": 0.29309885424993337,
-      "avg_fit": 4.909090909090909,
+      "count": 7,
+      "pct": 0.18651745270450307,
+      "avg_fit": 4.714285714285714,
       "source": "list",
       "fit_dist": {
-        "5": 10,
-        "4": 1
+        "5": 5,
+        "4": 2
       }
     },
     {
       "title": "Identity and Access Management Specialist",
-      "count": 7,
-      "pct": 0.18651745270450307,
-      "avg_fit": 4.857142857142857,
+      "count": 11,
+      "pct": 0.29309885424993337,
+      "avg_fit": 4.636363636363637,
       "source": "list",
       "fit_dist": {
-        "5": 6,
-        "4": 1
+        "5": 7,
+        "4": 4
       }
     },
     {
       "title": "Information Security Analyst",
-      "count": 24,
-      "pct": 0.6394884092725819,
-      "avg_fit": 4.416666666666667,
+      "count": 54,
+      "pct": 1.4388489208633095,
+      "avg_fit": 4.2592592592592595,
       "source": "list",
       "fit_dist": {
-        "4": 12,
-        "5": 11,
+        "4": 38,
+        "5": 15,
         "3": 1
       }
     },
     {
       "title": "Information Security Architect",
-      "count": 4,
-      "pct": 0.10658140154543032,
-      "avg_fit": 4.25,
+      "count": 5,
+      "pct": 0.1332267519317879,
+      "avg_fit": 4.8,
       "source": "list",
       "fit_dist": {
-        "4": 3,
-        "5": 1
+        "5": 4,
+        "4": 1
       }
     },
     {
       "title": "Information Security Auditor",
-      "count": 2,
-      "pct": 0.05329070077271516,
+      "count": 3,
+      "pct": 0.07993605115907274,
       "avg_fit": 5.0,
       "source": "list",
       "fit_dist": {
-        "5": 2
+        "5": 3
       }
     },
     {
       "title": "Information Security Manager",
-      "count": 158,
-      "pct": 4.209965361044498,
-      "avg_fit": 4.632911392405063,
+      "count": 198,
+      "pct": 5.275779376498801,
+      "avg_fit": 4.494949494949495,
       "source": "list",
       "fit_dist": {
         "5": 102,
-        "4": 54,
-        "3": 2
+        "4": 92,
+        "3": 4
       }
     },
     {
       "title": "Information Security Officer",
-      "count": 29,
-      "pct": 0.7727151612043699,
-      "avg_fit": 4.931034482758621,
+      "count": 56,
+      "pct": 1.4921396216360245,
+      "avg_fit": 4.803571428571429,
       "source": "list",
       "fit_dist": {
-        "5": 27,
-        "4": 2
+        "5": 45,
+        "4": 11
       }
     },
     {
       "title": "Information Security Specialist",
-      "count": 107,
-      "pct": 2.851052491340261,
-      "avg_fit": 4.121495327102804,
+      "count": 85,
+      "pct": 2.2648547828403944,
+      "avg_fit": 4.211764705882353,
       "source": "list",
       "fit_dist": {
-        "4": 84,
-        "5": 18,
-        "3": 5
+        "4": 63,
+        "5": 20,
+        "3": 2
       }
     },
     {
-      "title": "Information System Security Manager (ISSM)",
+      "title": "Information System Security Manager",
+      "count": 3,
+      "pct": 0.07993605115907274,
+      "avg_fit": 5.0,
+      "source": "new",
+      "fit_dist": {
+        "5": 3
+      }
+    },
+    {
+      "title": "Information Systems Manager",
+      "count": 8,
+      "pct": 0.21316280309086064,
+      "avg_fit": 4.125,
+      "source": "list",
+      "fit_dist": {
+        "4": 7,
+        "5": 1
+      }
+    },
+    {
+      "title": "Information Technology Cybersecurity Specialist",
       "count": 2,
       "pct": 0.05329070077271516,
       "avg_fit": 5.0,
@@ -1324,37 +1244,27 @@
       }
     },
     {
-      "title": "Information Systems Manager",
-      "count": 1,
-      "pct": 0.02664535038635758,
-      "avg_fit": 4.0,
-      "source": "list",
-      "fit_dist": {
-        "4": 1
-      }
-    },
-    {
-      "title": "Information Technology Security Officer",
-      "count": 1,
-      "pct": 0.02664535038635758,
-      "avg_fit": 5.0,
-      "source": "new",
-      "fit_dist": {
-        "5": 1
-      }
-    },
-    {
       "title": "Infrastructure Support Engineer",
-      "count": 1,
-      "pct": 0.02664535038635758,
+      "count": 2,
+      "pct": 0.05329070077271516,
       "avg_fit": 4.0,
       "source": "list",
       "fit_dist": {
-        "4": 1
+        "4": 2
       }
     },
     {
       "title": "Infrastructure Systems Administrator",
+      "count": 1,
+      "pct": 0.02664535038635758,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 1
+      }
+    },
+    {
+      "title": "Infrastructure Systems Engineer",
       "count": 4,
       "pct": 0.10658140154543032,
       "avg_fit": 4.0,
@@ -1374,86 +1284,54 @@
       }
     },
     {
-      "title": "JAVA Angular Full Stack Web Application Developer",
-      "count": 1,
-      "pct": 0.02664535038635758,
-      "avg_fit": 5.0,
-      "source": "new",
-      "fit_dist": {
-        "5": 1
-      }
-    },
-    {
-      "title": "Kafka Engineer",
-      "count": 1,
-      "pct": 0.02664535038635758,
-      "avg_fit": 5.0,
-      "source": "new",
-      "fit_dist": {
-        "5": 1
-      }
-    },
-    {
       "title": "Legal Technology Specialist",
-      "count": 6,
-      "pct": 0.15987210231814547,
+      "count": 9,
+      "pct": 0.2398081534772182,
       "avg_fit": 5.0,
       "source": "list",
       "fit_dist": {
-        "5": 6
-      }
-    },
-    {
-      "title": "Library Specialist",
-      "count": 2,
-      "pct": 0.05329070077271516,
-      "avg_fit": 2.5,
-      "source": "new",
-      "fit_dist": {
-        "2": 1,
-        "3": 1
+        "5": 9
       }
     },
     {
       "title": "Linux Systems Administrator",
-      "count": 9,
-      "pct": 0.2398081534772182,
-      "avg_fit": 4.777777777777778,
+      "count": 6,
+      "pct": 0.15987210231814547,
+      "avg_fit": 4.833333333333333,
       "source": "list",
       "fit_dist": {
-        "5": 7,
-        "4": 2
+        "5": 5,
+        "4": 1
       }
     },
     {
       "title": "Litigation Support Specialist",
-      "count": 13,
-      "pct": 0.3463895550226485,
-      "avg_fit": 4.923076923076923,
+      "count": 9,
+      "pct": 0.2398081534772182,
+      "avg_fit": 5.0,
       "source": "list",
       "fit_dist": {
-        "5": 12,
-        "4": 1
-      }
-    },
-    {
-      "title": "Machine Learning Engineer",
-      "count": 1,
-      "pct": 0.02664535038635758,
-      "avg_fit": 4.0,
-      "source": "list",
-      "fit_dist": {
-        "4": 1
+        "5": 9
       }
     },
     {
       "title": "Mainframe Storage Architect",
-      "count": 1,
-      "pct": 0.02664535038635758,
+      "count": 3,
+      "pct": 0.07993605115907274,
       "avg_fit": 5.0,
       "source": "new",
       "fit_dist": {
-        "5": 1
+        "5": 3
+      }
+    },
+    {
+      "title": "Mainframe Systems Administrator",
+      "count": 1,
+      "pct": 0.02664535038635758,
+      "avg_fit": 4.0,
+      "source": "new",
+      "fit_dist": {
+        "4": 1
       }
     },
     {
@@ -1468,78 +1346,66 @@
     },
     {
       "title": "Network Administrator",
-      "count": 30,
-      "pct": 0.7993605115907274,
-      "avg_fit": 4.8,
+      "count": 36,
+      "pct": 0.9592326139088728,
+      "avg_fit": 4.861111111111111,
       "source": "list",
       "fit_dist": {
-        "5": 24,
-        "4": 6
-      }
-    },
-    {
-      "title": "Network Architect",
-      "count": 5,
-      "pct": 0.1332267519317879,
-      "avg_fit": 4.8,
-      "source": "list",
-      "fit_dist": {
-        "5": 4,
-        "4": 1
-      }
-    },
-    {
-      "title": "Network Engineer",
-      "count": 53,
-      "pct": 1.4122035704769518,
-      "avg_fit": 4.60377358490566,
-      "source": "list",
-      "fit_dist": {
-        "5": 32,
-        "4": 21
-      }
-    },
-    {
-      "title": "Network Infrastructure Administrator",
-      "count": 1,
-      "pct": 0.02664535038635758,
-      "avg_fit": 5.0,
-      "source": "list",
-      "fit_dist": {
-        "5": 1
-      }
-    },
-    {
-      "title": "Network Infrastructure Engineer",
-      "count": 18,
-      "pct": 0.4796163069544364,
-      "avg_fit": 4.722222222222222,
-      "source": "list",
-      "fit_dist": {
-        "5": 13,
+        "5": 31,
         "4": 5
       }
     },
     {
-      "title": "Network Infrastructure Manager",
-      "count": 15,
-      "pct": 0.3996802557953637,
-      "avg_fit": 4.4,
+      "title": "Network Architect",
+      "count": 8,
+      "pct": 0.21316280309086064,
+      "avg_fit": 4.75,
       "source": "list",
       "fit_dist": {
-        "4": 9,
-        "5": 6
+        "5": 6,
+        "4": 2
+      }
+    },
+    {
+      "title": "Network Engineer",
+      "count": 27,
+      "pct": 0.7194244604316548,
+      "avg_fit": 4.851851851851852,
+      "source": "list",
+      "fit_dist": {
+        "5": 23,
+        "4": 4
+      }
+    },
+    {
+      "title": "Network Infrastructure Engineer",
+      "count": 8,
+      "pct": 0.21316280309086064,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 8
+      }
+    },
+    {
+      "title": "Network Infrastructure Manager",
+      "count": 24,
+      "pct": 0.6394884092725819,
+      "avg_fit": 4.375,
+      "source": "list",
+      "fit_dist": {
+        "4": 15,
+        "5": 9
       }
     },
     {
       "title": "Network Operations Administrator",
-      "count": 5,
-      "pct": 0.1332267519317879,
-      "avg_fit": 4.6,
+      "count": 1,
+      "pct": 0.02664535038635758,
+      "avg_fit": 4.0,
       "source": "list",
       "fit_dist": {
-        "5": 3,
-        "4": 2
+        "4": 1
       }
     },
     {
@@ -1555,56 +1421,56 @@
     },
     {
       "title": "Network Operations Manager",
-      "count": 33,
-      "pct": 0.8792965627498002,
-      "avg_fit": 4.515151515151516,
+      "count": 35,
+      "pct": 0.9325872635225153,
+      "avg_fit": 4.3428571428571425,
       "source": "list",
       "fit_dist": {
-        "5": 17,
-        "4": 16
+        "4": 23,
+        "5": 12
       }
     },
     {
       "title": "Network Operations Specialist",
-      "count": 8,
-      "pct": 0.21316280309086064,
-      "avg_fit": 4.5,
+      "count": 9,
+      "pct": 0.2398081534772182,
+      "avg_fit": 4.666666666666667,
       "source": "list",
       "fit_dist": {
-        "4": 4,
-        "5": 4
-      }
-    },
-    {
-      "title": "Network Security Administrator",
-      "count": 8,
-      "pct": 0.21316280309086064,
-      "avg_fit": 4.625,
-      "source": "list",
-      "fit_dist": {
-        "5": 5,
+        "5": 6,
         "4": 3
       }
     },
     {
-      "title": "Network Security Analyst",
-      "count": 2,
-      "pct": 0.05329070077271516,
-      "avg_fit": 4.5,
+      "title": "Network Security Administrator",
+      "count": 7,
+      "pct": 0.18651745270450307,
+      "avg_fit": 4.857142857142857,
       "source": "list",
       "fit_dist": {
-        "5": 1,
+        "5": 6,
         "4": 1
       }
     },
     {
-      "title": "Network Security Engineer",
-      "count": 10,
-      "pct": 0.2664535038635758,
-      "avg_fit": 4.8,
+      "title": "Network Security Analyst",
+      "count": 3,
+      "pct": 0.07993605115907274,
+      "avg_fit": 4.333333333333333,
       "source": "list",
       "fit_dist": {
-        "5": 8,
+        "4": 2,
+        "5": 1
+      }
+    },
+    {
+      "title": "Network Security Engineer",
+      "count": 14,
+      "pct": 0.37303490540900613,
+      "avg_fit": 4.857142857142857,
+      "source": "list",
+      "fit_dist": {
+        "5": 12,
         "4": 2
       }
     },
@@ -1612,44 +1478,44 @@
       "title": "Network Support Specialist",
       "count": 9,
       "pct": 0.2398081534772182,
-      "avg_fit": 4.444444444444445,
+      "avg_fit": 4.555555555555555,
       "source": "list",
       "fit_dist": {
-        "4": 5,
-        "5": 4
+        "5": 5,
+        "4": 4
       }
     },
     {
       "title": "Network Systems Administrator",
-      "count": 160,
-      "pct": 4.263256061817213,
-      "avg_fit": 4.65,
+      "count": 171,
+      "pct": 4.556354916067146,
+      "avg_fit": 4.6608187134502925,
       "source": "list",
       "fit_dist": {
-        "5": 106,
-        "4": 52,
+        "5": 115,
+        "4": 54,
         "3": 2
       }
     },
     {
       "title": "Network Systems Engineer",
-      "count": 46,
-      "pct": 1.2256861177724487,
-      "avg_fit": 4.391304347826087,
+      "count": 66,
+      "pct": 1.7585931254996003,
+      "avg_fit": 4.454545454545454,
       "source": "list",
       "fit_dist": {
-        "4": 28,
-        "5": 18
+        "4": 36,
+        "5": 30
       }
     },
     {
-      "title": "Research Engineer/Scientist, Agent Security",
-      "count": 1,
-      "pct": 0.02664535038635758,
+      "title": "Product Manager",
+      "count": 3,
+      "pct": 0.07993605115907274,
       "avg_fit": 5.0,
       "source": "new",
       "fit_dist": {
-        "5": 1
+        "5": 3
       }
     },
     {
@@ -1664,23 +1530,24 @@
     },
     {
       "title": "Security Compliance Analyst",
-      "count": 5,
-      "pct": 0.1332267519317879,
-      "avg_fit": 5.0,
+      "count": 9,
+      "pct": 0.2398081534772182,
+      "avg_fit": 4.777777777777778,
       "source": "list",
       "fit_dist": {
-        "5": 5
+        "5": 7,
+        "4": 2
       }
     },
     {
       "title": "Security Compliance Manager",
-      "count": 3,
-      "pct": 0.07993605115907274,
-      "avg_fit": 4.333333333333333,
+      "count": 4,
+      "pct": 0.10658140154543032,
+      "avg_fit": 4.5,
       "source": "list",
       "fit_dist": {
-        "4": 2,
-        "5": 1
+        "5": 2,
+        "4": 2
       }
     },
     {
@@ -1694,47 +1561,17 @@
       }
     },
     {
-      "title": "Senior Audio-Visual Engineer",
-      "count": 1,
-      "pct": 0.02664535038635758,
-      "avg_fit": 5.0,
-      "source": "new",
-      "fit_dist": {
-        "5": 1
-      }
-    },
-    {
-      "title": "Senior Digital Forensic Examiner",
-      "count": 1,
-      "pct": 0.02664535038635758,
-      "avg_fit": 5.0,
-      "source": "new",
-      "fit_dist": {
-        "5": 1
-      }
-    },
-    {
-      "title": "Senior IT Business and Systems Analyst",
-      "count": 2,
-      "pct": 0.05329070077271516,
-      "avg_fit": 5.0,
-      "source": "new",
-      "fit_dist": {
-        "5": 2
-      }
-    },
-    {
-      "title": "Senior System Engineer #308",
-      "count": 1,
-      "pct": 0.02664535038635758,
-      "avg_fit": 5.0,
-      "source": "new",
-      "fit_dist": {
-        "5": 1
-      }
-    },
-    {
       "title": "Server Administrator",
+      "count": 5,
+      "pct": 0.1332267519317879,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 5
+      }
+    },
+    {
+      "title": "SharePoint Administrator",
       "count": 7,
       "pct": 0.18651745270450307,
       "avg_fit": 4.857142857142857,
@@ -1745,294 +1582,67 @@
       }
     },
     {
-      "title": "SharePoint Administrator",
-      "count": 8,
-      "pct": 0.21316280309086064,
-      "avg_fit": 4.875,
+      "title": "SharePoint Developer",
+      "count": 6,
+      "pct": 0.15987210231814547,
+      "avg_fit": 4.833333333333333,
       "source": "list",
       "fit_dist": {
-        "5": 7,
+        "5": 5,
         "4": 1
       }
     },
     {
-      "title": "SharePoint Developer",
-      "count": 6,
-      "pct": 0.15987210231814547,
-      "avg_fit": 4.333333333333333,
-      "source": "list",
-      "fit_dist": {
-        "5": 3,
-        "4": 2,
-        "3": 1
-      }
-    },
-    {
       "title": "Software Developer",
-      "count": 24,
-      "pct": 0.6394884092725819,
-      "avg_fit": 4.5,
+      "count": 44,
+      "pct": 1.1723954169997335,
+      "avg_fit": 4.204545454545454,
       "source": "list",
       "fit_dist": {
-        "5": 14,
-        "4": 8,
-        "3": 2
+        "4": 28,
+        "5": 13,
+        "3": 2,
+        "2": 1
       }
     },
     {
       "title": "Software Development Manager",
-      "count": 27,
-      "pct": 0.7194244604316548,
-      "avg_fit": 4.111111111111111,
+      "count": 22,
+      "pct": 0.5861977084998667,
+      "avg_fit": 4.136363636363637,
       "source": "list",
       "fit_dist": {
-        "4": 17,
-        "5": 7,
-        "3": 2,
+        "4": 16,
+        "5": 5,
         "2": 1
       }
     },
     {
       "title": "Software Engineer",
-      "count": 23,
-      "pct": 0.6128430588862244,
-      "avg_fit": 4.391304347826087,
+      "count": 24,
+      "pct": 0.6394884092725819,
+      "avg_fit": 4.125,
       "source": "list",
       "fit_dist": {
-        "5": 12,
-        "4": 8,
-        "3": 3
+        "4": 16,
+        "5": 6,
+        "2": 1,
+        "3": 1
       }
     },
     {
       "title": "Software Test Manager",
-      "count": 13,
-      "pct": 0.3463895550226485,
-      "avg_fit": 4.384615384615385,
+      "count": 9,
+      "pct": 0.2398081534772182,
+      "avg_fit": 4.777777777777778,
       "source": "list",
       "fit_dist": {
-        "5": 6,
-        "4": 6,
-        "3": 1
+        "5": 7,
+        "4": 2
       }
     },
     {
       "title": "Systems Administration Supervisor",
-      "count": 5,
-      "pct": 0.1332267519317879,
-      "avg_fit": 4.8,
-      "source": "list",
-      "fit_dist": {
-        "5": 4,
-        "4": 1
-      }
-    },
-    {
-      "title": "Systems Administrator",
-      "count": 75,
-      "pct": 1.9984012789768184,
-      "avg_fit": 4.613333333333333,
-      "source": "list",
-      "fit_dist": {
-        "5": 48,
-        "4": 25,
-        "3": 2
-      }
-    },
-    {
-      "title": "Systems Engineer",
-      "count": 33,
-      "pct": 0.8792965627498002,
-      "avg_fit": 4.121212121212121,
-      "source": "list",
-      "fit_dist": {
-        "4": 25,
-        "5": 6,
-        "3": 2
-      }
-    },
-    {
-      "title": "Systems Engineer - Enterprise Storage & Data Protection",
-      "count": 1,
-      "pct": 0.02664535038635758,
-      "avg_fit": 5.0,
-      "source": "new",
-      "fit_dist": {
-        "5": 1
-      }
-    },
-    {
-      "title": "Systems Engineering Manager",
-      "count": 12,
-      "pct": 0.31974420463629094,
-      "avg_fit": 4.25,
-      "source": "list",
-      "fit_dist": {
-        "4": 9,
-        "5": 3
-      }
-    },
-    {
-      "title": "Systems Integration Manager",
-      "count": 6,
-      "pct": 0.15987210231814547,
-      "avg_fit": 4.333333333333333,
-      "source": "list",
-      "fit_dist": {
-        "4": 4,
-        "5": 2
-      }
-    },
-    {
-      "title": "Systems Integration Specialist",
-      "count": 2,
-      "pct": 0.05329070077271516,
-      "avg_fit": 3.5,
-      "source": "list",
-      "fit_dist": {
-        "4": 1,
-        "3": 1
-      }
-    },
-    {
-      "title": "Systems Requirements Analyst",
-      "count": 23,
-      "pct": 0.6128430588862244,
-      "avg_fit": 4.521739130434782,
-      "source": "list",
-      "fit_dist": {
-        "5": 12,
-        "4": 11
-      }
-    },
-    {
-      "title": "Systems Security Administrator",
-      "count": 1,
-      "pct": 0.02664535038635758,
-      "avg_fit": 5.0,
-      "source": "list",
-      "fit_dist": {
-        "5": 1
-      }
-    },
-    {
-      "title": "Systems Security Engineer",
-      "count": 1,
-      "pct": 0.02664535038635758,
-      "avg_fit": 4.0,
-      "source": "list",
-      "fit_dist": {
-        "4": 1
-      }
-    },
-    {
-      "title": "Systems Support Analyst",
-      "count": 13,
-      "pct": 0.3463895550226485,
-      "avg_fit": 3.6923076923076925,
-      "source": "list",
-      "fit_dist": {
-        "4": 10,
-        "3": 2,
-        "2": 1
-      }
-    },
-    {
-      "title": "Systems Support Specialist",
-      "count": 6,
-      "pct": 0.15987210231814547,
-      "avg_fit": 3.3333333333333335,
-      "source": "list",
-      "fit_dist": {
-        "4": 4,
-        "2": 2
-      }
-    },
-    {
-      "title": "Systems and Network Administrator",
-      "count": 2,
-      "pct": 0.05329070077271516,
-      "avg_fit": 5.0,
-      "source": "new",
-      "fit_dist": {
-        "5": 2
-      }
-    },
-    {
-      "title": "Technical Project Manager",
-      "count": 1,
-      "pct": 0.02664535038635758,
-      "avg_fit": 5.0,
-      "source": "list",
-      "fit_dist": {
-        "5": 1
-      }
-    },
-    {
-      "title": "Technical Support Specialist",
-      "count": 1,
-      "pct": 0.02664535038635758,
-      "avg_fit": 2.0,
-      "source": "list",
-      "fit_dist": {
-        "2": 1
-      }
-    },
-    {
-      "title": "Unified Communications Engineer",
-      "count": 11,
-      "pct": 0.29309885424993337,
-      "avg_fit": 4.7272727272727275,
-      "source": "list",
-      "fit_dist": {
-        "5": 8,
-        "4": 3
-      }
-    },
-    {
-      "title": "Voice Network Engineer",
-      "count": 1,
-      "pct": 0.02664535038635758,
-      "avg_fit": 5.0,
-      "source": "list",
-      "fit_dist": {
-        "5": 1
-      }
-    },
-    {
-      "title": "Vulnerability Management Analyst",
-      "count": 2,
-      "pct": 0.05329070077271516,
-      "avg_fit": 5.0,
-      "source": "list",
-      "fit_dist": {
-        "5": 2
-      }
-    },
-    {
-      "title": "Web Applications Developer",
-      "count": 22,
-      "pct": 0.5861977084998667,
-      "avg_fit": 4.681818181818182,
-      "source": "list",
-      "fit_dist": {
-        "5": 16,
-        "4": 5,
-        "3": 1
-      }
-    },
-    {
-      "title": "Web Content Producer",
-      "count": 1,
-      "pct": 0.02664535038635758,
-      "avg_fit": 5.0,
-      "source": "new",
-      "fit_dist": {
-        "5": 1
-      }
-    },
-    {
-      "title": "Windows Server Administrator",
       "count": 3,
       "pct": 0.07993605115907274,
       "avg_fit": 5.0,
@@ -2042,13 +1652,173 @@
       }
     },
     {
-      "title": "Windows Systems Administrator",
-      "count": 20,
-      "pct": 0.5329070077271516,
-      "avg_fit": 4.75,
+      "title": "Systems Administrator",
+      "count": 74,
+      "pct": 1.971755928590461,
+      "avg_fit": 4.72972972972973,
       "source": "list",
       "fit_dist": {
-        "5": 15,
+        "5": 54,
+        "4": 20
+      }
+    },
+    {
+      "title": "Systems Analyst",
+      "count": 1,
+      "pct": 0.02664535038635758,
+      "avg_fit": 4.0,
+      "source": "new",
+      "fit_dist": {
+        "4": 1
+      }
+    },
+    {
+      "title": "Systems Engineer",
+      "count": 35,
+      "pct": 0.9325872635225153,
+      "avg_fit": 4.171428571428572,
+      "source": "list",
+      "fit_dist": {
+        "4": 25,
+        "5": 8,
+        "3": 2
+      }
+    },
+    {
+      "title": "Systems Engineering Manager",
+      "count": 4,
+      "pct": 0.10658140154543032,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 4
+      }
+    },
+    {
+      "title": "Systems Integration Manager",
+      "count": 2,
+      "pct": 0.05329070077271516,
+      "avg_fit": 4.5,
+      "source": "list",
+      "fit_dist": {
+        "5": 1,
+        "4": 1
+      }
+    },
+    {
+      "title": "Systems Integration Specialist",
+      "count": 4,
+      "pct": 0.10658140154543032,
+      "avg_fit": 4.5,
+      "source": "list",
+      "fit_dist": {
+        "5": 2,
+        "4": 2
+      }
+    },
+    {
+      "title": "Systems Requirements Analyst",
+      "count": 7,
+      "pct": 0.18651745270450307,
+      "avg_fit": 4.571428571428571,
+      "source": "list",
+      "fit_dist": {
+        "5": 4,
+        "4": 3
+      }
+    },
+    {
+      "title": "Systems Security Administrator",
+      "count": 2,
+      "pct": 0.05329070077271516,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 2
+      }
+    },
+    {
+      "title": "Systems Security Engineer",
+      "count": 2,
+      "pct": 0.05329070077271516,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 2
+      }
+    },
+    {
+      "title": "Systems Support Analyst",
+      "count": 11,
+      "pct": 0.29309885424993337,
+      "avg_fit": 3.6363636363636362,
+      "source": "list",
+      "fit_dist": {
+        "4": 7,
+        "3": 4
+      }
+    },
+    {
+      "title": "Systems Support Specialist",
+      "count": 5,
+      "pct": 0.1332267519317879,
+      "avg_fit": 4.0,
+      "source": "list",
+      "fit_dist": {
+        "4": 5
+      }
+    },
+    {
+      "title": "Technical Project Manager",
+      "count": 2,
+      "pct": 0.05329070077271516,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 2
+      }
+    },
+    {
+      "title": "Unified Communications Engineer",
+      "count": 8,
+      "pct": 0.21316280309086064,
+      "avg_fit": 5.0,
+      "source": "list",
+      "fit_dist": {
+        "5": 8
+      }
+    },
+    {
+      "title": "Web Applications Developer",
+      "count": 24,
+      "pct": 0.6394884092725819,
+      "avg_fit": 4.541666666666667,
+      "source": "list",
+      "fit_dist": {
+        "5": 14,
+        "4": 9,
+        "3": 1
+      }
+    },
+    {
+      "title": "Windows Server Administrator",
+      "count": 6,
+      "pct": 0.15987210231814547,
+      "avg_fit": 4.833333333333333,
+      "source": "list",
+      "fit_dist": {
+        "5": 5,
+        "4": 1
+      }
+    },
+    {
+      "title": "Windows Systems Administrator",
+      "count": 18,
+      "pct": 0.4796163069544364,
+      "avg_fit": 4.722222222222222,
+      "source": "list",
+      "fit_dist": {
+        "5": 13,
         "4": 5
       }
     },
