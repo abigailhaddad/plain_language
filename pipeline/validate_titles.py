@@ -73,8 +73,7 @@ def main():
         model=args.model,
         messages=[
             {"role": "system", "content": system_prompt},
-            {"role": "user", "content": f"Review these proposed plain language titles for federal series {args.series} "
-             f"(Management and Program Analysis):\n\n{titles_text}"},
+            {"role": "user", "content": f"Review these proposed plain language titles:\n\n{titles_text}"},
         ],
         response_format=ValidationResult,
         temperature=0.2,

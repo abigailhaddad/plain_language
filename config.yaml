@@ -151,8 +151,8 @@ prompts:
 
     {title_descriptions}
 
-    You will receive each posting's current federal title and its text. Pick the single best-fitting
-    plain language title from the list above. Rate how well it fits on a scale of 1-5:
+    You will receive a job posting's text. Pick the single best-fitting plain language title from
+    the list above. Rate how well it fits on a scale of 1-5:
       5 = Perfect match — the title precisely describes this role
       4 = Strong match — clearly the right category, minor aspects not captured
       3 = Adequate match — reasonable fit but the posting has significant duties not captured by the title

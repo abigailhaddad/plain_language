@@ -66,8 +66,7 @@ def main():
         model=args.model,
         messages=[
             {"role": "system", "content": enrich_prompt},
-            {"role": "user", "content": f"These are plain language job titles for federal positions in series 0343 "
-             f"(Management and Program Analysis):\n\n{titles_text}"},
+            {"role": "user", "content": f"Write descriptions for these plain language job titles:\n\n{titles_text}"},
         ],
         response_format=EnrichedTitles,
         temperature=0.2,
