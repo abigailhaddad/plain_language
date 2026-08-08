@@ -2,7 +2,7 @@
 
 Federal job postings use titles like "Management and Program Analyst" and "IT Specialist (PLCYPLN)" that tell jobseekers nothing about what the role involves. This project uses LLMs to read the actual duties from USAJobs postings and propose plain language titles that match private-sector conventions.
 
-**Live site:** https://plain-language-titles.netlify.app
+**Live site:** https://plain-language-titles.abigailhaddad.com
 
 ## How it works
 
