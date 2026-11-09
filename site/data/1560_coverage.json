@@ -4,6 +4,7 @@
   "from_list": 143,
   "proposed_new": 7,
   "errors": 0,
+  "missing_duties": 0,
   "mean_fit_score": 4.23,
   "median_fit_score": 4.0,
   "coverage_by_threshold": {
