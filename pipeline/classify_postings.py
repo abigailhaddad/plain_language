@@ -453,19 +453,20 @@ def main():
     # Quick summary
     title_names = {t["title"] for t in titles}
     errors = (df["best_title"] == "error").sum()
+    missing_duties = (df["best_title"] == "missing_duties").sum()
     from_list = df["best_title"].isin(title_names).sum()
-    proposed_new = len(df) - errors - from_list
+    proposed_new = len(df) - errors - missing_duties - from_list
 
     print(f"\nSaved to {out_path}")
-    print(f"  From title list: {from_list}, Proposed new: {proposed_new}, Errors: {errors}")
+    print(f"  From title list: {from_list}, Proposed new: {proposed_new}, Missing duties: {missing_duties}, Errors: {errors}")
     print(f"  Average fit score: {df[df['fit_score'] > 0]['fit_score'].mean():.2f}")
     if proposed_new > 0:
-        new_titles = df[~df["best_title"].isin(title_names | {"error"})]["best_title"].value_counts()
+        new_titles = df[~df["best_title"].isin(title_names | {"error", "missing_duties"})]["best_title"].value_counts()
         print(f"\n  Newly proposed titles:")
         for title, count in new_titles.items():
             print(f"    {count:4d}  {title}")
     print(f"\n  Title distribution:")
-    for title, group in df[df["best_title"] != "error"].groupby("best_title"):
+    for title, group in df[~df["best_title"].isin(["error", "missing_duties"])].groupby("best_title"):
         avg_fit = group["fit_score"].mean()
         marker = " (new)" if title not in title_names else ""
         print(f"    {len(group):4d}  (avg fit {avg_fit:.1f})  {title}{marker}")

@@ -41,10 +41,13 @@ def main():
 
     # Categorize outcomes
     errors = df["best_title"] == "error"
+    # Postings skipped for lacking duties text get best_title "missing_duties"
+    # and fit_score 0; they are neither proposed titles nor scored fits.
+    missing_duties = df["best_title"] == "missing_duties"
     from_list = df["best_title"].isin(title_names)
-    proposed_new = ~errors & ~from_list
+    proposed_new = ~errors & ~missing_duties & ~from_list
 
-    valid = df[~errors]
+    valid = df[~errors & ~missing_duties]
 
     print("=" * 70)
     print(f"PLAIN LANGUAGE TITLE COVERAGE REPORT — Series {args.series}")
@@ -54,6 +57,7 @@ def main():
     print(f"  Total postings:     {total}")
     print(f"  From title list:    {from_list.sum()} ({from_list.sum()/total*100:.1f}%)")
     print(f"  Proposed new title: {proposed_new.sum()} ({proposed_new.sum()/total*100:.1f}%)")
+    print(f"  Missing duties:     {missing_duties.sum()}")
     print(f"  Errors:             {errors.sum()}")
 
     print(f"\n  Coverage by fit threshold:")
@@ -143,6 +147,7 @@ def main():
         "from_list": int(from_list.sum()),
         "proposed_new": int(proposed_new.sum()),
         "errors": int(errors.sum()),
+        "missing_duties": int(missing_duties.sum()),
         "mean_fit_score": round(avg_fit, 2),
         "median_fit_score": round(float(median_fit), 1),
         "coverage_by_threshold": {
