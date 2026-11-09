@@ -2,8 +2,9 @@
   "series": "2210",
   "total_postings": 3753,
   "from_list": 3659,
-  "proposed_new": 94,
+  "proposed_new": 91,
   "errors": 0,
+  "missing_duties": 3,
   "mean_fit_score": 4.42,
   "median_fit_score": 4.0,
   "coverage_by_threshold": {
@@ -1840,16 +1841,6 @@
       "source": "list",
       "fit_dist": {
         "5": 2
-      }
-    },
-    {
-      "title": "missing_duties",
-      "count": 3,
-      "pct": 0.07993605115907274,
-      "avg_fit": 0.0,
-      "source": "new",
-      "fit_dist": {
-        "0": 3
       }
     }
   ]
